@@ -279,7 +279,7 @@
         },
         "weight-500": {
           "value": {
-            "fontFamily": "{fontFamilies.display}",
+            "fontFamily": "Heebo",
             "fontWeight": "SemiBold",
             "lineHeight": 128,
             "fontSize": 128,
