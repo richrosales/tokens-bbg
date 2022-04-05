@@ -1,0 +1,72 @@
+{
+  "theme": {
+    "bg": {
+      "default": {
+        "value": "#fcfcfc",
+        "type": "color"
+      },
+      "header": {
+        "value": "#171717",
+        "type": "color"
+      },
+      "footer": {
+        "value": "#000",
+        "type": "color"
+      },
+      "surface": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "surfaceAlt": {
+        "value": "#eeeeee",
+        "type": "color"
+      },
+      "primary": {
+        "value": "#005f9e",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "#563fd8",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "#f5f5f5",
+        "type": "color"
+      },
+      "muted": {
+        "value": "#e0e0e0",
+        "type": "color"
+      }
+    },
+    "fg": {
+      "default": {
+        "value": "#000",
+        "type": "color"
+      },
+      "onAccent": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "onHeader": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "onFooter": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "muted": {
+        "value": "#616161",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "#9e9e9e",
+        "type": "color"
+      },
+      "link": {
+        "value": "#005f9e",
+        "type": "color"
+      }
+    }
+  }
+}
