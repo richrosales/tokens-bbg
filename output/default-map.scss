@@ -1,0 +1,99 @@
+
+/**
+ * Do not edit directly
+ * Generated on Fri, 07 Jan 2022 06:27:19 GMT
+ */
+
+$theme-bg-default: #ffffff !default;
+$theme-bg-header: #242930 !default;
+$theme-bg-footer: #242930 !default;
+$theme-bg-surface: #ffffff !default;
+$theme-bg-surface-alt: #f9f9fa !default;
+$theme-bg-primary: #005f9e !default;
+$theme-bg-secondary: #adb4bc !default;
+$theme-bg-subtle: #eceef0 !default;
+$theme-bg-muted: #cfd3d8 !default;
+$theme-bg-promo: #d72027 !default;
+$theme-fg-default: #000000 !default;
+$theme-fg-on-primary: #ffffff !default;
+$theme-fg-on-secondary: #ffffff !default;
+$theme-fg-on-header: #eceef0 !default;
+$theme-fg-on-footer: #cfd3d8 !default;
+$theme-fg-muted: #7f8a97 !default;
+$theme-fg-subtle: #adb4bc !default;
+$theme-fg-link: #005f9e !default;
+$theme-fg-promo: #d72027 !default;
+$theme-fg-on-promo: #ffffff !default;
+$theme-button-primary-background: #005f9e !default;
+$theme-button-ghost-outline: #000000 !default;
+$theme-button-ghost-text: #000000 !default;
+$theme-border-width-button-ghost: 4 !default;
+$theme-border-radius-button: 4 !default;
+$theme-border-radius-card: 4 !default;
+$theme-border-radius-input: 4 !default;
+$theme-font-families-display: Gotham !default;
+$theme-font-families-body: Helvetica Neue Condensed !default;
+$theme-font-families-nav: Gotham !default;
+$theme-font-sizes-default: 16 !default;
+$display: uppercase !default;
+$navigation: uppercase !default;
+$body: none !default;
+
+$my-tokens: (
+  'theme': (
+    'bg': (
+      'default': $theme-bg-default,
+      'header': $theme-bg-header,
+      'footer': $theme-bg-footer,
+      'surface': $theme-bg-surface,
+      'surfaceAlt': $theme-bg-surface-alt,
+      'primary': $theme-bg-primary,
+      'secondary': $theme-bg-secondary,
+      'subtle': $theme-bg-subtle,
+      'muted': $theme-bg-muted,
+      'promo': $theme-bg-promo
+    ),
+    'fg': (
+      'default': $theme-fg-default,
+      'onPrimary': $theme-fg-on-primary,
+      'onSecondary': $theme-fg-on-secondary,
+      'onHeader': $theme-fg-on-header,
+      'onFooter': $theme-fg-on-footer,
+      'muted': $theme-fg-muted,
+      'subtle': $theme-fg-subtle,
+      'link': $theme-fg-link,
+      'promo': $theme-fg-promo,
+      'onPromo': $theme-fg-on-promo
+    ),
+    'button': (
+      'primary': (
+        'background': $theme-button-primary-background
+      ),
+      'ghost': (
+        'outline': $theme-button-ghost-outline,
+        'text': $theme-button-ghost-text
+      )
+    ),
+    'borderWidth': (
+      'button': (
+        'ghost': $theme-border-width-button-ghost
+      )
+    ),
+    'borderRadius': (
+      'button': $theme-border-radius-button,
+      'card': $theme-border-radius-card,
+      'input': $theme-border-radius-input
+    ),
+    'fontFamilies': (
+      'display': $theme-font-families-display,
+      'body': $theme-font-families-body,
+      'nav': $theme-font-families-nav
+    ),
+    'fontSizes': (
+      'default': $theme-font-sizes-default
+    )
+  ),
+  'display': $display,
+  'navigation': $navigation,
+  'body': $body
+);

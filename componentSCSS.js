@@ -46,9 +46,8 @@ function getStyleDictionaryConfig(theme) {
       },
       "scss": {
         "transformGroup": "scss",
-        "buildPath": `output/`,
         "files": [{
-          "destination": `${theme}-map.scss`,
+          "destination": `${theme}-map.css`,
           "format": "scss/map-deep",
           "mapName": "my-tokens"
         }]
@@ -61,7 +60,7 @@ console.log('Build started...');
 
 // PROCESS THE DESIGN TOKENS FOR THE DIFFEREN BRANDS AND PLATFORMS
 
-['global', 'billabong'].map(function (theme) {
+['global', 'default'].map(function (theme) {
 
     console.log('\n==============================================');
     console.log(`\nProcessing: [${theme}]`);
@@ -69,7 +68,6 @@ console.log('Build started...');
     const StyleDictionary = StyleDictionaryPackage.extend(getStyleDictionaryConfig(theme));
 
     StyleDictionary.buildPlatform('web');
-    StyleDictionary.buildPlatform('scss');
 
     console.log('\nEnd processing');
 })
