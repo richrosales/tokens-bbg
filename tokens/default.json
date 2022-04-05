@@ -267,2417 +267,1357 @@
     "font-display": {
       "text-9xl": {
         "weight-700": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Bold",
+            "lineHeight": 128,
+            "fontSize": 128,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Bold"
-          },
-          "lineHeight": {
-            "value": 128
-          },
-          "fontSize": {
-            "value": 128
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-500": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "SemiBold",
+            "lineHeight": 128,
+            "fontSize": 128,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "SemiBold"
-          },
-          "lineHeight": {
-            "value": 128
-          },
-          "fontSize": {
-            "value": 128
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-400": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Regular",
+            "lineHeight": 128,
+            "fontSize": 128,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Regular"
-          },
-          "lineHeight": {
-            "value": 128
-          },
-          "fontSize": {
-            "value": 128
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-300": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Light",
+            "lineHeight": 128,
+            "fontSize": 128,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Light"
-          },
-          "lineHeight": {
-            "value": 128
-          },
-          "fontSize": {
-            "value": 128
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         }
       },
       "text-8xl": {
         "weight-700": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Bold",
+            "lineHeight": 96,
+            "fontSize": 96,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Bold"
-          },
-          "lineHeight": {
-            "value": 96
-          },
-          "fontSize": {
-            "value": 96
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-500": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "SemiBold",
+            "lineHeight": 96,
+            "fontSize": 96,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "SemiBold"
-          },
-          "lineHeight": {
-            "value": 96
-          },
-          "fontSize": {
-            "value": 96
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-400": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Regular",
+            "lineHeight": 96,
+            "fontSize": 96,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Regular"
-          },
-          "lineHeight": {
-            "value": 96
-          },
-          "fontSize": {
-            "value": 96
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-300": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Light",
+            "lineHeight": 96,
+            "fontSize": 96,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Light"
-          },
-          "lineHeight": {
-            "value": 96
-          },
-          "fontSize": {
-            "value": 96
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         }
       },
       "text-7xl": {
         "weight-700": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Bold",
+            "lineHeight": 72,
+            "fontSize": 72,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Bold"
-          },
-          "lineHeight": {
-            "value": 72
-          },
-          "fontSize": {
-            "value": 72
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-500": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "SemiBold",
+            "lineHeight": 72,
+            "fontSize": 72,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "SemiBold"
-          },
-          "lineHeight": {
-            "value": 72
-          },
-          "fontSize": {
-            "value": 72
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-400": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Regular",
+            "lineHeight": 72,
+            "fontSize": 72,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Regular"
-          },
-          "lineHeight": {
-            "value": 72
-          },
-          "fontSize": {
-            "value": 72
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-300": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Light",
+            "lineHeight": 72,
+            "fontSize": 72,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Light"
-          },
-          "lineHeight": {
-            "value": 72
-          },
-          "fontSize": {
-            "value": 72
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         }
       },
       "text-6xl": {
         "weight-700": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Bold",
+            "lineHeight": 60,
+            "fontSize": 60,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Bold"
-          },
-          "lineHeight": {
-            "value": 60
-          },
-          "fontSize": {
-            "value": 60
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-500": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "SemiBold",
+            "lineHeight": 60,
+            "fontSize": 60,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "SemiBold"
-          },
-          "lineHeight": {
-            "value": 60
-          },
-          "fontSize": {
-            "value": 60
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-400": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Regular",
+            "lineHeight": 60,
+            "fontSize": 60,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Regular"
-          },
-          "lineHeight": {
-            "value": 60
-          },
-          "fontSize": {
-            "value": 60
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-300": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Light",
+            "lineHeight": 60,
+            "fontSize": 60,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Light"
-          },
-          "lineHeight": {
-            "value": 60
-          },
-          "fontSize": {
-            "value": 60
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         }
       },
       "text-5xl": {
         "weight-700": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Bold",
+            "lineHeight": 48,
+            "fontSize": 48,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Bold"
-          },
-          "lineHeight": {
-            "value": 48
-          },
-          "fontSize": {
-            "value": 48
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-500": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "SemiBold",
+            "lineHeight": 48,
+            "fontSize": 48,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "SemiBold"
-          },
-          "lineHeight": {
-            "value": 48
-          },
-          "fontSize": {
-            "value": 48
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-400": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Regular",
+            "lineHeight": 48,
+            "fontSize": 48,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Regular"
-          },
-          "lineHeight": {
-            "value": 48
-          },
-          "fontSize": {
-            "value": 48
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-300": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Light",
+            "lineHeight": 48,
+            "fontSize": 48,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Light"
-          },
-          "lineHeight": {
-            "value": 48
-          },
-          "fontSize": {
-            "value": 48
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         }
       },
       "text-4xl": {
         "weight-700": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Bold",
+            "lineHeight": 54,
+            "fontSize": 36,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Bold"
-          },
-          "lineHeight": {
-            "value": 54
-          },
-          "fontSize": {
-            "value": 36
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-500": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "SemiBold",
+            "lineHeight": 54,
+            "fontSize": 36,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "SemiBold"
-          },
-          "lineHeight": {
-            "value": 54
-          },
-          "fontSize": {
-            "value": 36
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-400": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Regular",
+            "lineHeight": 54,
+            "fontSize": 36,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Regular"
-          },
-          "lineHeight": {
-            "value": 54
-          },
-          "fontSize": {
-            "value": 36
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-300": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Light",
+            "lineHeight": 54,
+            "fontSize": 36,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Light"
-          },
-          "lineHeight": {
-            "value": 54
-          },
-          "fontSize": {
-            "value": 36
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         }
       },
       "text-3xl": {
         "weight-700": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Bold",
+            "lineHeight": 45,
+            "fontSize": 30,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Bold"
-          },
-          "lineHeight": {
-            "value": 45
-          },
-          "fontSize": {
-            "value": 30
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-500": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "SemiBold",
+            "lineHeight": 45,
+            "fontSize": 30,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "SemiBold"
-          },
-          "lineHeight": {
-            "value": 45
-          },
-          "fontSize": {
-            "value": 30
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-400": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Regular",
+            "lineHeight": 45,
+            "fontSize": 30,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Regular"
-          },
-          "lineHeight": {
-            "value": 45
-          },
-          "fontSize": {
-            "value": 30
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-300": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Light",
+            "lineHeight": 45,
+            "fontSize": 30,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Light"
-          },
-          "lineHeight": {
-            "value": 45
-          },
-          "fontSize": {
-            "value": 30
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         }
       },
       "text-2xl": {
         "weight-700": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Bold",
+            "lineHeight": 36,
+            "fontSize": 24,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Bold"
-          },
-          "lineHeight": {
-            "value": 36
-          },
-          "fontSize": {
-            "value": 24
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-500": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "SemiBold",
+            "lineHeight": 36,
+            "fontSize": 24,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "SemiBold"
-          },
-          "lineHeight": {
-            "value": 36
-          },
-          "fontSize": {
-            "value": 24
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-400": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Regular",
+            "lineHeight": 36,
+            "fontSize": 24,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Regular"
-          },
-          "lineHeight": {
-            "value": 36
-          },
-          "fontSize": {
-            "value": 24
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-300": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Light",
+            "lineHeight": 36,
+            "fontSize": 24,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Light"
-          },
-          "lineHeight": {
-            "value": 36
-          },
-          "fontSize": {
-            "value": 24
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         }
       },
       "text-xl": {
         "weight-700": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Bold",
+            "lineHeight": 30,
+            "fontSize": 20,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Bold"
-          },
-          "lineHeight": {
-            "value": 30
-          },
-          "fontSize": {
-            "value": 20
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-500": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "SemiBold",
+            "lineHeight": 30,
+            "fontSize": 20,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "SemiBold"
-          },
-          "lineHeight": {
-            "value": 30
-          },
-          "fontSize": {
-            "value": 20
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-400": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Regular",
+            "lineHeight": 30,
+            "fontSize": 20,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Regular"
-          },
-          "lineHeight": {
-            "value": 30
-          },
-          "fontSize": {
-            "value": 20
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-300": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Light",
+            "lineHeight": 30,
+            "fontSize": 20,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Light"
-          },
-          "lineHeight": {
-            "value": 30
-          },
-          "fontSize": {
-            "value": 20
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         }
       },
       "text-lg": {
         "weight-700": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Bold",
+            "lineHeight": 27,
+            "fontSize": 18,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Bold"
-          },
-          "lineHeight": {
-            "value": 27
-          },
-          "fontSize": {
-            "value": 18
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-500": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "SemiBold",
+            "lineHeight": 27,
+            "fontSize": 18,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "SemiBold"
-          },
-          "lineHeight": {
-            "value": 27
-          },
-          "fontSize": {
-            "value": 18
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-400": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Regular",
+            "lineHeight": 27,
+            "fontSize": 18,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Regular"
-          },
-          "lineHeight": {
-            "value": 27
-          },
-          "fontSize": {
-            "value": 18
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-300": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Light",
+            "lineHeight": 24,
+            "fontSize": 18,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Light"
-          },
-          "lineHeight": {
-            "value": 24
-          },
-          "fontSize": {
-            "value": 18
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         }
       },
       "text-base": {
         "weight-500-underline": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "SemiBold",
+            "lineHeight": 24,
+            "fontSize": 16,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "SemiBold"
-          },
-          "lineHeight": {
-            "value": 24
-          },
-          "fontSize": {
-            "value": 16
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-400-underline": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Regular",
+            "lineHeight": 24,
+            "fontSize": 16,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Regular"
-          },
-          "lineHeight": {
-            "value": 24
-          },
-          "fontSize": {
-            "value": 16
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "font-semibold-line-through": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Light",
+            "lineHeight": 24,
+            "fontSize": 16,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Light"
-          },
-          "lineHeight": {
-            "value": 24
-          },
-          "fontSize": {
-            "value": 16
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-700": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Bold",
+            "lineHeight": 24,
+            "fontSize": 16,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Bold"
-          },
-          "lineHeight": {
-            "value": 24
-          },
-          "fontSize": {
-            "value": 16
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-500": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "SemiBold",
+            "lineHeight": 24,
+            "fontSize": 16,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "SemiBold"
-          },
-          "lineHeight": {
-            "value": 24
-          },
-          "fontSize": {
-            "value": 16
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-400": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Regular",
+            "lineHeight": 24,
+            "fontSize": 16,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Regular"
-          },
-          "lineHeight": {
-            "value": 24
-          },
-          "fontSize": {
-            "value": 16
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-300": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Light",
+            "lineHeight": 24,
+            "fontSize": 16,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Light"
-          },
-          "lineHeight": {
-            "value": 24
-          },
-          "fontSize": {
-            "value": 16
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         }
       },
       "text-sm": {
         "weight-700": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Bold",
+            "lineHeight": 21,
+            "fontSize": 14,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Bold"
-          },
-          "lineHeight": {
-            "value": 21
-          },
-          "fontSize": {
-            "value": 14
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-500": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "SemiBold",
+            "lineHeight": 21,
+            "fontSize": 14,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "SemiBold"
-          },
-          "lineHeight": {
-            "value": 21
-          },
-          "fontSize": {
-            "value": 14
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-400": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Regular",
+            "lineHeight": 21,
+            "fontSize": 14,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Regular"
-          },
-          "lineHeight": {
-            "value": 21
-          },
-          "fontSize": {
-            "value": 14
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-300": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Light",
+            "lineHeight": 21,
+            "fontSize": 14,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Light"
-          },
-          "lineHeight": {
-            "value": 21
-          },
-          "fontSize": {
-            "value": 14
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         }
       },
       "text-xs": {
         "weight-700": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Bold",
+            "lineHeight": 18,
+            "fontSize": 12,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Bold"
-          },
-          "lineHeight": {
-            "value": 18
-          },
-          "fontSize": {
-            "value": 12
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-500": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "SemiBold",
+            "lineHeight": 18,
+            "fontSize": 12,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "SemiBold"
-          },
-          "lineHeight": {
-            "value": 18
-          },
-          "fontSize": {
-            "value": 12
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-400": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Regular",
+            "lineHeight": 18,
+            "fontSize": 12,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Regular"
-          },
-          "lineHeight": {
-            "value": 18
-          },
-          "fontSize": {
-            "value": 12
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-300": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Light",
+            "lineHeight": 18,
+            "fontSize": 12,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Light"
-          },
-          "lineHeight": {
-            "value": 18
-          },
-          "fontSize": {
-            "value": 12
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         }
       },
       "text-xxs": {
         "weight-700": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Bold",
+            "lineHeight": 15,
+            "fontSize": 10,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Bold"
-          },
-          "lineHeight": {
-            "value": 15
-          },
-          "fontSize": {
-            "value": 10
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-500": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "SemiBold",
+            "lineHeight": 15,
+            "fontSize": 10,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "SemiBold"
-          },
-          "lineHeight": {
-            "value": 15
-          },
-          "fontSize": {
-            "value": 10
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-400": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Regular",
+            "lineHeight": 15,
+            "fontSize": 10,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Regular"
-          },
-          "lineHeight": {
-            "value": 15
-          },
-          "fontSize": {
-            "value": 10
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-300": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Light",
+            "lineHeight": 15,
+            "fontSize": 10,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Light"
-          },
-          "lineHeight": {
-            "value": 15
-          },
-          "fontSize": {
-            "value": 10
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         }
       }
     },
     "font-body": {
       "text-9xl": {
         "weight-700": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Bold",
+            "lineHeight": 128,
+            "fontSize": 128,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Bold"
-          },
-          "lineHeight": {
-            "value": 128
-          },
-          "fontSize": {
-            "value": 128
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-500": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "SemiBold",
+            "lineHeight": 128,
+            "fontSize": 128,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "SemiBold"
-          },
-          "lineHeight": {
-            "value": 128
-          },
-          "fontSize": {
-            "value": 128
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-400": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Regular",
+            "lineHeight": 128,
+            "fontSize": 128,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Regular"
-          },
-          "lineHeight": {
-            "value": 128
-          },
-          "fontSize": {
-            "value": 128
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-300": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Light",
+            "lineHeight": 128,
+            "fontSize": 128,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Light"
-          },
-          "lineHeight": {
-            "value": 128
-          },
-          "fontSize": {
-            "value": 128
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         }
       },
       "text-8xl": {
         "weight-700": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Bold",
+            "lineHeight": 96,
+            "fontSize": 96,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Bold"
-          },
-          "lineHeight": {
-            "value": 96
-          },
-          "fontSize": {
-            "value": 96
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-500": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "SemiBold",
+            "lineHeight": 96,
+            "fontSize": 96,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "SemiBold"
-          },
-          "lineHeight": {
-            "value": 96
-          },
-          "fontSize": {
-            "value": 96
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-400": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Regular",
+            "lineHeight": 96,
+            "fontSize": 96,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Regular"
-          },
-          "lineHeight": {
-            "value": 96
-          },
-          "fontSize": {
-            "value": 96
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-300": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Light",
+            "lineHeight": 96,
+            "fontSize": 96,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Light"
-          },
-          "lineHeight": {
-            "value": 96
-          },
-          "fontSize": {
-            "value": 96
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         }
       },
       "text-7xl": {
         "weight-700": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Bold",
+            "lineHeight": 72,
+            "fontSize": 72,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Bold"
-          },
-          "lineHeight": {
-            "value": 72
-          },
-          "fontSize": {
-            "value": 72
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-500": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "SemiBold",
+            "lineHeight": 72,
+            "fontSize": 72,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "SemiBold"
-          },
-          "lineHeight": {
-            "value": 72
-          },
-          "fontSize": {
-            "value": 72
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-400": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Regular",
+            "lineHeight": 72,
+            "fontSize": 72,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Regular"
-          },
-          "lineHeight": {
-            "value": 72
-          },
-          "fontSize": {
-            "value": 72
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-300": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Light",
+            "lineHeight": 72,
+            "fontSize": 72,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Light"
-          },
-          "lineHeight": {
-            "value": 72
-          },
-          "fontSize": {
-            "value": 72
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         }
       },
       "text-6xl": {
         "weight-700": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Bold",
+            "lineHeight": 60,
+            "fontSize": 60,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Bold"
-          },
-          "lineHeight": {
-            "value": 60
-          },
-          "fontSize": {
-            "value": 60
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-500": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "SemiBold",
+            "lineHeight": 60,
+            "fontSize": 60,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "SemiBold"
-          },
-          "lineHeight": {
-            "value": 60
-          },
-          "fontSize": {
-            "value": 60
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-400": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Regular",
+            "lineHeight": 60,
+            "fontSize": 60,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Regular"
-          },
-          "lineHeight": {
-            "value": 60
-          },
-          "fontSize": {
-            "value": 60
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-300": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Light",
+            "lineHeight": 60,
+            "fontSize": 60,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Light"
-          },
-          "lineHeight": {
-            "value": 60
-          },
-          "fontSize": {
-            "value": 60
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         }
       },
       "text-5xl": {
         "weight-700": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Bold",
+            "lineHeight": 48,
+            "fontSize": 48,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Bold"
-          },
-          "lineHeight": {
-            "value": 48
-          },
-          "fontSize": {
-            "value": 48
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-500": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "SemiBold",
+            "lineHeight": "$lineHeights.1",
+            "fontSize": 48,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "SemiBold"
-          },
-          "lineHeight": {
-            "value": "$lineHeights.1"
-          },
-          "fontSize": {
-            "value": 48
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-400": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Regular",
+            "lineHeight": 48,
+            "fontSize": 48,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Regular"
-          },
-          "lineHeight": {
-            "value": 48
-          },
-          "fontSize": {
-            "value": 48
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-300": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "lineHeight": "$lineHeights.1",
+            "fontSize": 48,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "lineHeight": {
-            "value": "$lineHeights.1"
-          },
-          "fontSize": {
-            "value": 48
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         }
       },
       "text-4xl": {
         "weight-700": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Bold",
+            "lineHeight": 54,
+            "fontSize": 36,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Bold"
-          },
-          "lineHeight": {
-            "value": 54
-          },
-          "fontSize": {
-            "value": 36
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-500": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "SemiBold",
+            "lineHeight": 54,
+            "fontSize": 36,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "SemiBold"
-          },
-          "lineHeight": {
-            "value": 54
-          },
-          "fontSize": {
-            "value": 36
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-400": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Regular",
+            "lineHeight": 54,
+            "fontSize": 36,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Regular"
-          },
-          "lineHeight": {
-            "value": 54
-          },
-          "fontSize": {
-            "value": 36
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-300": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Light",
+            "lineHeight": 54,
+            "fontSize": 36,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Light"
-          },
-          "lineHeight": {
-            "value": 54
-          },
-          "fontSize": {
-            "value": 36
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         }
       },
       "text-3xl": {
         "weight-700": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Bold",
+            "lineHeight": 45,
+            "fontSize": 30,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Bold"
-          },
-          "lineHeight": {
-            "value": 45
-          },
-          "fontSize": {
-            "value": 30
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-500": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "SemiBold",
+            "lineHeight": 45,
+            "fontSize": 30,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "SemiBold"
-          },
-          "lineHeight": {
-            "value": 45
-          },
-          "fontSize": {
-            "value": 30
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-400": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Regular",
+            "lineHeight": 45,
+            "fontSize": 30,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Regular"
-          },
-          "lineHeight": {
-            "value": 45
-          },
-          "fontSize": {
-            "value": 30
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-300": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Light",
+            "lineHeight": 45,
+            "fontSize": 30,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Light"
-          },
-          "lineHeight": {
-            "value": 45
-          },
-          "fontSize": {
-            "value": 30
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         }
       },
       "text-2xl": {
         "weight-700": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Bold",
+            "lineHeight": 36,
+            "fontSize": 24,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Bold"
-          },
-          "lineHeight": {
-            "value": 36
-          },
-          "fontSize": {
-            "value": 24
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-500": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "SemiBold",
+            "lineHeight": 36,
+            "fontSize": 24,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "SemiBold"
-          },
-          "lineHeight": {
-            "value": 36
-          },
-          "fontSize": {
-            "value": 24
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-400": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Regular",
+            "lineHeight": 36,
+            "fontSize": 24,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Regular"
-          },
-          "lineHeight": {
-            "value": 36
-          },
-          "fontSize": {
-            "value": 24
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-300": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Light",
+            "lineHeight": 36,
+            "fontSize": 24,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Light"
-          },
-          "lineHeight": {
-            "value": 36
-          },
-          "fontSize": {
-            "value": 24
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         }
       },
       "text-xl": {
         "weight-700": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Bold",
+            "lineHeight": 30,
+            "fontSize": 20,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Bold"
-          },
-          "lineHeight": {
-            "value": 30
-          },
-          "fontSize": {
-            "value": 20
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-500": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "SemiBold",
+            "lineHeight": 30,
+            "fontSize": 20,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "SemiBold"
-          },
-          "lineHeight": {
-            "value": 30
-          },
-          "fontSize": {
-            "value": 20
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-400": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Regular",
+            "lineHeight": 30,
+            "fontSize": 20,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Regular"
-          },
-          "lineHeight": {
-            "value": 30
-          },
-          "fontSize": {
-            "value": 20
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-300": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Light",
+            "lineHeight": 30,
+            "fontSize": 20,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Light"
-          },
-          "lineHeight": {
-            "value": 30
-          },
-          "fontSize": {
-            "value": 20
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         }
       },
       "text-lg": {
         "weight-700": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Bold",
+            "lineHeight": 27,
+            "fontSize": 18,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Bold"
-          },
-          "lineHeight": {
-            "value": 27
-          },
-          "fontSize": {
-            "value": 18
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-500": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "SemiBold",
+            "lineHeight": 27,
+            "fontSize": 18,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "SemiBold"
-          },
-          "lineHeight": {
-            "value": 27
-          },
-          "fontSize": {
-            "value": 18
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-400": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Regular",
+            "lineHeight": 27,
+            "fontSize": 18,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Regular"
-          },
-          "lineHeight": {
-            "value": 27
-          },
-          "fontSize": {
-            "value": 18
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-300": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Light",
+            "lineHeight": 27,
+            "fontSize": 18,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Light"
-          },
-          "lineHeight": {
-            "value": 27
-          },
-          "fontSize": {
-            "value": 18
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         }
       },
       "text-base": {
         "weight-500-underline": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "SemiBold",
+            "lineHeight": 24,
+            "fontSize": 16,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "SemiBold"
-          },
-          "lineHeight": {
-            "value": 24
-          },
-          "fontSize": {
-            "value": 16
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-400-underline": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Regular",
+            "lineHeight": 24,
+            "fontSize": 16,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Regular"
-          },
-          "lineHeight": {
-            "value": 24
-          },
-          "fontSize": {
-            "value": 16
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-300-line-through": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Light",
+            "lineHeight": 24,
+            "fontSize": 16,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Light"
-          },
-          "lineHeight": {
-            "value": 24
-          },
-          "fontSize": {
-            "value": 16
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-700": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Bold",
+            "lineHeight": 24,
+            "fontSize": 16,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Bold"
-          },
-          "lineHeight": {
-            "value": 24
-          },
-          "fontSize": {
-            "value": 16
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-500": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "SemiBold",
+            "lineHeight": 24,
+            "fontSize": 16,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "SemiBold"
-          },
-          "lineHeight": {
-            "value": 24
-          },
-          "fontSize": {
-            "value": 16
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-400": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Regular",
+            "lineHeight": 24,
+            "fontSize": 16,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Regular"
-          },
-          "lineHeight": {
-            "value": 24
-          },
-          "fontSize": {
-            "value": 16
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-300": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Light",
+            "lineHeight": 24,
+            "fontSize": 16,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Light"
-          },
-          "lineHeight": {
-            "value": 24
-          },
-          "fontSize": {
-            "value": 16
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         }
       },
       "text-sm": {
         "weight-700": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Bold",
+            "lineHeight": 21,
+            "fontSize": 14,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Bold"
-          },
-          "lineHeight": {
-            "value": 21
-          },
-          "fontSize": {
-            "value": 14
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-500": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "SemiBold",
+            "lineHeight": 21,
+            "fontSize": 14,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "SemiBold"
-          },
-          "lineHeight": {
-            "value": 21
-          },
-          "fontSize": {
-            "value": 14
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-400": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Regular",
+            "lineHeight": 21,
+            "fontSize": 14,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Regular"
-          },
-          "lineHeight": {
-            "value": 21
-          },
-          "fontSize": {
-            "value": 14
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-300": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Light",
+            "lineHeight": 21,
+            "fontSize": 14,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Light"
-          },
-          "lineHeight": {
-            "value": 21
-          },
-          "fontSize": {
-            "value": 14
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         }
       },
       "text-xs": {
         "weight-700": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Bold",
+            "lineHeight": 18,
+            "fontSize": 12,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Bold"
-          },
-          "lineHeight": {
-            "value": 18
-          },
-          "fontSize": {
-            "value": 12
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-500": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "SemiBold",
+            "lineHeight": 18,
+            "fontSize": 12,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "SemiBold"
-          },
-          "lineHeight": {
-            "value": 18
-          },
-          "fontSize": {
-            "value": 12
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-400": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Regular",
+            "lineHeight": 18,
+            "fontSize": 12,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Regular"
-          },
-          "lineHeight": {
-            "value": 18
-          },
-          "fontSize": {
-            "value": 12
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-300": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Light",
+            "lineHeight": 18,
+            "fontSize": 12,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Light"
-          },
-          "lineHeight": {
-            "value": 18
-          },
-          "fontSize": {
-            "value": 12
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         }
       },
       "text-xxs": {
         "weight-700": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Bold",
+            "lineHeight": 15,
+            "fontSize": 10,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Bold"
-          },
-          "lineHeight": {
-            "value": 15
-          },
-          "fontSize": {
-            "value": 10
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-500": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "SemiBold",
+            "lineHeight": 15,
+            "fontSize": 10,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "SemiBold"
-          },
-          "lineHeight": {
-            "value": 15
-          },
-          "fontSize": {
-            "value": 10
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-400": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Regular",
+            "lineHeight": 15,
+            "fontSize": 10,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Regular"
-          },
-          "lineHeight": {
-            "value": 15
-          },
-          "fontSize": {
-            "value": 10
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         },
         "weight-300": {
-          "fontFamily": {
-            "value": "Hurme Geometric Sans 3"
+          "value": {
+            "fontFamily": "Hurme Geometric Sans 3",
+            "fontWeight": "Light",
+            "lineHeight": 15,
+            "fontSize": 10,
+            "letterSpacing": 0,
+            "paragraphSpacing": 0
           },
-          "fontWeight": {
-            "value": "Light"
-          },
-          "lineHeight": {
-            "value": 15
-          },
-          "fontSize": {
-            "value": 10
-          },
-          "letterSpacing": {
-            "value": 0
-          },
-          "paragraphSpacing": {
-            "value": 0
-          }
+          "type": "typography"
         }
       }
     }
