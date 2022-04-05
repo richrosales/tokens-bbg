@@ -268,7 +268,7 @@
       "text-9xl": {
         "weight-700": {
           "value": {
-            "fontFamily": "fontFamilies.display",
+            "fontFamily": "$fontFamilies.display",
             "fontWeight": "Bold",
             "lineHeight": 128,
             "fontSize": 128,
