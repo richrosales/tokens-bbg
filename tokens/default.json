@@ -280,7 +280,7 @@
         "weight-500": {
           "value": {
             "fontFamily": "Heebo",
-            "fontWeight": "SemiBold",
+            "fontWeight": "Medium",
             "lineHeight": 128,
             "fontSize": 128,
             "letterSpacing": 0,
@@ -326,7 +326,7 @@
         "weight-500": {
           "value": {
             "fontFamily": "Heebo",
-            "fontWeight": "SemiBold",
+            "fontWeight": "Medium",
             "lineHeight": 96,
             "fontSize": 96,
             "letterSpacing": 0,
@@ -372,7 +372,7 @@
         "weight-500": {
           "value": {
             "fontFamily": "Heebo",
-            "fontWeight": "SemiBold",
+            "fontWeight": "Medium",
             "lineHeight": 72,
             "fontSize": 72,
             "letterSpacing": 0,
@@ -418,7 +418,7 @@
         "weight-500": {
           "value": {
             "fontFamily": "Heebo",
-            "fontWeight": "SemiBold",
+            "fontWeight": "Medium",
             "lineHeight": 60,
             "fontSize": 60,
             "letterSpacing": 0,
@@ -464,7 +464,7 @@
         "weight-500": {
           "value": {
             "fontFamily": "Heebo",
-            "fontWeight": "SemiBold",
+            "fontWeight": "Medium",
             "lineHeight": 48,
             "fontSize": 48,
             "letterSpacing": 0,
@@ -510,7 +510,7 @@
         "weight-500": {
           "value": {
             "fontFamily": "Heebo",
-            "fontWeight": "SemiBold",
+            "fontWeight": "Medium",
             "lineHeight": 54,
             "fontSize": 36,
             "letterSpacing": 0,
@@ -556,7 +556,7 @@
         "weight-500": {
           "value": {
             "fontFamily": "Heebo",
-            "fontWeight": "SemiBold",
+            "fontWeight": "Medium",
             "lineHeight": 45,
             "fontSize": 30,
             "letterSpacing": 0,
@@ -602,7 +602,7 @@
         "weight-500": {
           "value": {
             "fontFamily": "Heebo",
-            "fontWeight": "SemiBold",
+            "fontWeight": "Medium",
             "lineHeight": 36,
             "fontSize": 24,
             "letterSpacing": 0,
@@ -648,7 +648,7 @@
         "weight-500": {
           "value": {
             "fontFamily": "Heebo",
-            "fontWeight": "SemiBold",
+            "fontWeight": "Medium",
             "lineHeight": 30,
             "fontSize": 20,
             "letterSpacing": 0,
@@ -694,7 +694,7 @@
         "weight-500": {
           "value": {
             "fontFamily": "Heebo",
-            "fontWeight": "SemiBold",
+            "fontWeight": "Medium",
             "lineHeight": 27,
             "fontSize": 18,
             "letterSpacing": 0,
@@ -729,7 +729,7 @@
         "weight-500-underline": {
           "value": {
             "fontFamily": "Heebo",
-            "fontWeight": "SemiBold",
+            "fontWeight": "Medium",
             "lineHeight": 24,
             "fontSize": 16,
             "letterSpacing": 0,
@@ -773,7 +773,7 @@
         "weight-500": {
           "value": {
             "fontFamily": "Heebo",
-            "fontWeight": "SemiBold",
+            "fontWeight": "Medium",
             "lineHeight": 24,
             "fontSize": 16,
             "letterSpacing": 0,
@@ -819,7 +819,7 @@
         "weight-500": {
           "value": {
             "fontFamily": "Heebo",
-            "fontWeight": "SemiBold",
+            "fontWeight": "Medium",
             "lineHeight": 21,
             "fontSize": 14,
             "letterSpacing": 0,
@@ -865,7 +865,7 @@
         "weight-500": {
           "value": {
             "fontFamily": "Heebo",
-            "fontWeight": "SemiBold",
+            "fontWeight": "Medium",
             "lineHeight": 18,
             "fontSize": 12,
             "letterSpacing": 0,
@@ -911,7 +911,7 @@
         "weight-500": {
           "value": {
             "fontFamily": "Heebo",
-            "fontWeight": "SemiBold",
+            "fontWeight": "Medium",
             "lineHeight": 15,
             "fontSize": 10,
             "letterSpacing": 0,
