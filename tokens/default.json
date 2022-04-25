@@ -9,7 +9,7 @@
       "type": "fontFamilies"
     },
     "nav": {
-      "value": "Inter",
+      "value": "Helvetica Neue",
       "type": "fontFamilies"
     }
   },
@@ -2185,7 +2185,7 @@
       "mobile": {
         "L1": {
           "value": {
-            "fontFamily": "Inter",
+            "fontFamily": "Helvetica Neue",
             "fontWeight": "Bold",
             "fontSize": 13,
             "letterSpacing": "10%",
@@ -2195,7 +2195,7 @@
         },
         "L2": {
           "value": {
-            "fontFamily": "Inter",
+            "fontFamily": "Helvetica Neue",
             "fontWeight": "Regular",
             "fontSize": 13,
             "letterSpacing": "10%",
@@ -2207,7 +2207,7 @@
       "desktop": {
         "L1": {
           "value": {
-            "fontFamily": "Inter",
+            "fontFamily": "Helvetica Neue",
             "fontWeight": "Bold",
             "fontSize": 13,
             "letterSpacing": "10%",
@@ -2217,7 +2217,7 @@
         },
         "L2": {
           "value": {
-            "fontFamily": "Inter",
+            "fontFamily": "Helvetica Neue",
             "fontWeight": "Regular",
             "fontSize": 13,
             "letterSpacing": "10%",
