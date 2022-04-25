@@ -11,6 +11,16 @@
     "nav": {
       "value": "Heebo",
       "type": "fontFamilies"
+    },
+    "documentation": {
+      "headlines": {
+        "value": "Heebo",
+        "type": "fontFamilies"
+      },
+      "body": {
+        "value": "Heebo",
+        "type": "fontFamilies"
+      }
     }
   },
   "fontWeights": {

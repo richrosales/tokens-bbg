@@ -612,6 +612,8 @@ video {
   --font-families-headlines: Heebo;
   --font-families-body: Heebo;
   --font-families-nav: Heebo;
+  --font-families-documentation-headlines: Heebo;
+  --font-families-documentation-body: Heebo;
   --font-weights-headlines-bold: Bold;
   --font-weights-headlines-regular: Regular;
   --font-weights-headlines-light: Light;

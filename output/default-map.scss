@@ -1,12 +1,14 @@
 
 /**
  * Do not edit directly
- * Generated on Mon, 25 Apr 2022 04:01:48 GMT
+ * Generated on Mon, 25 Apr 2022 04:22:54 GMT
  */
 
 $font-families-headlines: Heebo !default;
 $font-families-body: Heebo !default;
 $font-families-nav: Heebo !default;
+$font-families-documentation-headlines: Heebo !default;
+$font-families-documentation-body: Heebo !default;
 $font-weights-headlines-bold: Bold !default;
 $font-weights-headlines-regular: Regular !default;
 $font-weights-headlines-light: Light !default;
@@ -260,7 +262,11 @@ $my-tokens: (
   'fontFamilies': (
     'headlines': $font-families-headlines,
     'body': $font-families-body,
-    'nav': $font-families-nav
+    'nav': $font-families-nav,
+    'documentation': (
+      'headlines': $font-families-documentation-headlines,
+      'body': $font-families-documentation-body
+    )
   ),
   'fontWeights': (
     'headlines': (
