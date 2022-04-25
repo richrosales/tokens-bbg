@@ -249,7 +249,7 @@
     "nav": {
       "mobile": {
         "l1": {
-          "value": "uppercase",
+          "value": "none",
           "type": "textCase"
         },
         "l2": {
@@ -259,7 +259,7 @@
       },
       "desktop": {
         "l1": {
-          "value": "uppercase",
+          "value": "none",
           "type": "textCase"
         },
         "l2": {
@@ -2207,7 +2207,7 @@
             "fontWeight": "Bold",
             "fontSize": 13,
             "letterSpacing": "10%",
-            "textCase": "uppercase"
+            "textCase": "none"
           },
           "type": "typography"
         },
@@ -2229,7 +2229,7 @@
             "fontWeight": "Bold",
             "fontSize": 13,
             "letterSpacing": "10%",
-            "textCase": "uppercase"
+            "textCase": "none"
           },
           "type": "typography"
         },

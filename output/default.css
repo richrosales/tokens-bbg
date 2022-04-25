@@ -52,9 +52,9 @@
   --text-case-buttons: none;
   --text-case-body: none;
   --text-case-headlines: none;
-  --text-case-nav-mobile-l1: uppercase;
+  --text-case-nav-mobile-l1: none;
   --text-case-nav-mobile-l2: none;
-  --text-case-nav-desktop-l1: uppercase;
+  --text-case-nav-desktop-l1: none;
   --text-case-nav-desktop-l2: none;
   --text-decoration-none: none;
   --text-decoration-buttons: none;
