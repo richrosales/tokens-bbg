@@ -358,7 +358,7 @@
         "type": "color"
       },
       "default": {
-        "value": "#171717",
+        "value": "#424242",
         "type": "color"
       },
       "on-accent": {
@@ -422,7 +422,7 @@
         "type": "color"
       },
       "default": {
-        "value": "#df1642",
+        "value": "#3d53f5",
         "type": "color"
       },
       "subtle": {

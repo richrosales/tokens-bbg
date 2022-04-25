@@ -685,7 +685,7 @@ video {
   --theme-fg-opacity-80: #ffffffcc;
   --theme-fg-opacity-90: #ffffffe6;
   --theme-fg-on-dark: #ffffff;
-  --theme-fg-default: #171717;
+  --theme-fg-default: #424242;
   --theme-fg-on-accent: #ffffff;
   --theme-fg-muted: #616161;
   --theme-fg-subtle: #9e9e9e;
@@ -699,7 +699,7 @@ video {
   --theme-bg-muted: #e0e0e0;
   --theme-bg-header: #ffffff;
   --theme-accent-disabled: #e0e0e0;
-  --theme-accent-default: #df1642;
+  --theme-accent-default: #3d53f5;
   --theme-accent-subtle: #eceefe;
   --theme-accent-muted: #6475f7;
   --theme-accent-emphasis: #3142c4;
@@ -12105,7 +12105,7 @@ body {
 }
 
 .divide-theme-fg-default > :not([hidden]) ~ :not([hidden]) {
-  border-color: var(--theme-fg-default, #171717);
+  border-color: var(--theme-fg-default, #424242);
 }
 
 .divide-theme-fg-on-accent > :not([hidden]) ~ :not([hidden]) {
@@ -12161,7 +12161,7 @@ body {
 }
 
 .divide-theme-accent-default > :not([hidden]) ~ :not([hidden]) {
-  border-color: var(--theme-accent-default, #df1642);
+  border-color: var(--theme-accent-default, #3d53f5);
 }
 
 .divide-theme-accent-subtle > :not([hidden]) ~ :not([hidden]) {
@@ -13071,7 +13071,7 @@ body {
 }
 
 .border-theme-fg-default {
-  border-color: var(--theme-fg-default, #171717);
+  border-color: var(--theme-fg-default, #424242);
 }
 
 .border-theme-fg-on-accent {
@@ -13127,7 +13127,7 @@ body {
 }
 
 .border-theme-accent-default {
-  border-color: var(--theme-accent-default, #df1642);
+  border-color: var(--theme-accent-default, #3d53f5);
 }
 
 .border-theme-accent-subtle {
@@ -13299,7 +13299,7 @@ body {
 }
 
 .group:hover .group-hover\:border-theme-fg-default {
-  border-color: var(--theme-fg-default, #171717);
+  border-color: var(--theme-fg-default, #424242);
 }
 
 .group:hover .group-hover\:border-theme-fg-on-accent {
@@ -13355,7 +13355,7 @@ body {
 }
 
 .group:hover .group-hover\:border-theme-accent-default {
-  border-color: var(--theme-accent-default, #df1642);
+  border-color: var(--theme-accent-default, #3d53f5);
 }
 
 .group:hover .group-hover\:border-theme-accent-subtle {
@@ -13527,7 +13527,7 @@ body {
 }
 
 .focus-within\:border-theme-fg-default:focus-within {
-  border-color: var(--theme-fg-default, #171717);
+  border-color: var(--theme-fg-default, #424242);
 }
 
 .focus-within\:border-theme-fg-on-accent:focus-within {
@@ -13583,7 +13583,7 @@ body {
 }
 
 .focus-within\:border-theme-accent-default:focus-within {
-  border-color: var(--theme-accent-default, #df1642);
+  border-color: var(--theme-accent-default, #3d53f5);
 }
 
 .focus-within\:border-theme-accent-subtle:focus-within {
@@ -13755,7 +13755,7 @@ body {
 }
 
 .hover\:border-theme-fg-default:hover {
-  border-color: var(--theme-fg-default, #171717);
+  border-color: var(--theme-fg-default, #424242);
 }
 
 .hover\:border-theme-fg-on-accent:hover {
@@ -13811,7 +13811,7 @@ body {
 }
 
 .hover\:border-theme-accent-default:hover {
-  border-color: var(--theme-accent-default, #df1642);
+  border-color: var(--theme-accent-default, #3d53f5);
 }
 
 .hover\:border-theme-accent-subtle:hover {
@@ -13983,7 +13983,7 @@ body {
 }
 
 .focus\:border-theme-fg-default:focus {
-  border-color: var(--theme-fg-default, #171717);
+  border-color: var(--theme-fg-default, #424242);
 }
 
 .focus\:border-theme-fg-on-accent:focus {
@@ -14039,7 +14039,7 @@ body {
 }
 
 .focus\:border-theme-accent-default:focus {
-  border-color: var(--theme-accent-default, #df1642);
+  border-color: var(--theme-accent-default, #3d53f5);
 }
 
 .focus\:border-theme-accent-subtle:focus {
@@ -14511,7 +14511,7 @@ body {
 }
 
 .bg-theme-fg-default {
-  background-color: var(--theme-fg-default, #171717);
+  background-color: var(--theme-fg-default, #424242);
 }
 
 .bg-theme-fg-on-accent {
@@ -14567,7 +14567,7 @@ body {
 }
 
 .bg-theme-accent-default {
-  background-color: var(--theme-accent-default, #df1642);
+  background-color: var(--theme-accent-default, #3d53f5);
 }
 
 .bg-theme-accent-subtle {
@@ -14739,7 +14739,7 @@ body {
 }
 
 .group:hover .group-hover\:bg-theme-fg-default {
-  background-color: var(--theme-fg-default, #171717);
+  background-color: var(--theme-fg-default, #424242);
 }
 
 .group:hover .group-hover\:bg-theme-fg-on-accent {
@@ -14795,7 +14795,7 @@ body {
 }
 
 .group:hover .group-hover\:bg-theme-accent-default {
-  background-color: var(--theme-accent-default, #df1642);
+  background-color: var(--theme-accent-default, #3d53f5);
 }
 
 .group:hover .group-hover\:bg-theme-accent-subtle {
@@ -14967,7 +14967,7 @@ body {
 }
 
 .focus-within\:bg-theme-fg-default:focus-within {
-  background-color: var(--theme-fg-default, #171717);
+  background-color: var(--theme-fg-default, #424242);
 }
 
 .focus-within\:bg-theme-fg-on-accent:focus-within {
@@ -15023,7 +15023,7 @@ body {
 }
 
 .focus-within\:bg-theme-accent-default:focus-within {
-  background-color: var(--theme-accent-default, #df1642);
+  background-color: var(--theme-accent-default, #3d53f5);
 }
 
 .focus-within\:bg-theme-accent-subtle:focus-within {
@@ -15195,7 +15195,7 @@ body {
 }
 
 .hover\:bg-theme-fg-default:hover {
-  background-color: var(--theme-fg-default, #171717);
+  background-color: var(--theme-fg-default, #424242);
 }
 
 .hover\:bg-theme-fg-on-accent:hover {
@@ -15251,7 +15251,7 @@ body {
 }
 
 .hover\:bg-theme-accent-default:hover {
-  background-color: var(--theme-accent-default, #df1642);
+  background-color: var(--theme-accent-default, #3d53f5);
 }
 
 .hover\:bg-theme-accent-subtle:hover {
@@ -15423,7 +15423,7 @@ body {
 }
 
 .focus\:bg-theme-fg-default:focus {
-  background-color: var(--theme-fg-default, #171717);
+  background-color: var(--theme-fg-default, #424242);
 }
 
 .focus\:bg-theme-fg-on-accent:focus {
@@ -15479,7 +15479,7 @@ body {
 }
 
 .focus\:bg-theme-accent-default:focus {
-  background-color: var(--theme-accent-default, #df1642);
+  background-color: var(--theme-accent-default, #3d53f5);
 }
 
 .focus\:bg-theme-accent-subtle:focus {
@@ -15999,7 +15999,7 @@ body {
 }
 
 .from-theme-fg-default {
-  --tw-gradient-from: var(--theme-fg-default, #171717);
+  --tw-gradient-from: var(--theme-fg-default, #424242);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
 }
 
@@ -16069,7 +16069,7 @@ body {
 }
 
 .from-theme-accent-default {
-  --tw-gradient-from: var(--theme-accent-default, #df1642);
+  --tw-gradient-from: var(--theme-accent-default, #3d53f5);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
 }
 
@@ -16284,7 +16284,7 @@ body {
 }
 
 .hover\:from-theme-fg-default:hover {
-  --tw-gradient-from: var(--theme-fg-default, #171717);
+  --tw-gradient-from: var(--theme-fg-default, #424242);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
 }
 
@@ -16354,7 +16354,7 @@ body {
 }
 
 .hover\:from-theme-accent-default:hover {
-  --tw-gradient-from: var(--theme-accent-default, #df1642);
+  --tw-gradient-from: var(--theme-accent-default, #3d53f5);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
 }
 
@@ -16569,7 +16569,7 @@ body {
 }
 
 .focus\:from-theme-fg-default:focus {
-  --tw-gradient-from: var(--theme-fg-default, #171717);
+  --tw-gradient-from: var(--theme-fg-default, #424242);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
 }
 
@@ -16639,7 +16639,7 @@ body {
 }
 
 .focus\:from-theme-accent-default:focus {
-  --tw-gradient-from: var(--theme-accent-default, #df1642);
+  --tw-gradient-from: var(--theme-accent-default, #3d53f5);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
 }
 
@@ -16842,7 +16842,7 @@ body {
 }
 
 .via-theme-fg-default {
-  --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #171717), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+  --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #424242), var(--tw-gradient-to, rgba(255, 255, 255, 0));
 }
 
 .via-theme-fg-on-accent {
@@ -16898,7 +16898,7 @@ body {
 }
 
 .via-theme-accent-default {
-  --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #df1642), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+  --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #3d53f5), var(--tw-gradient-to, rgba(255, 255, 255, 0));
 }
 
 .via-theme-accent-subtle {
@@ -17070,7 +17070,7 @@ body {
 }
 
 .hover\:via-theme-fg-default:hover {
-  --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #171717), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+  --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #424242), var(--tw-gradient-to, rgba(255, 255, 255, 0));
 }
 
 .hover\:via-theme-fg-on-accent:hover {
@@ -17126,7 +17126,7 @@ body {
 }
 
 .hover\:via-theme-accent-default:hover {
-  --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #df1642), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+  --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #3d53f5), var(--tw-gradient-to, rgba(255, 255, 255, 0));
 }
 
 .hover\:via-theme-accent-subtle:hover {
@@ -17298,7 +17298,7 @@ body {
 }
 
 .focus\:via-theme-fg-default:focus {
-  --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #171717), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+  --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #424242), var(--tw-gradient-to, rgba(255, 255, 255, 0));
 }
 
 .focus\:via-theme-fg-on-accent:focus {
@@ -17354,7 +17354,7 @@ body {
 }
 
 .focus\:via-theme-accent-default:focus {
-  --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #df1642), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+  --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #3d53f5), var(--tw-gradient-to, rgba(255, 255, 255, 0));
 }
 
 .focus\:via-theme-accent-subtle:focus {
@@ -17526,7 +17526,7 @@ body {
 }
 
 .to-theme-fg-default {
-  --tw-gradient-to: var(--theme-fg-default, #171717);
+  --tw-gradient-to: var(--theme-fg-default, #424242);
 }
 
 .to-theme-fg-on-accent {
@@ -17582,7 +17582,7 @@ body {
 }
 
 .to-theme-accent-default {
-  --tw-gradient-to: var(--theme-accent-default, #df1642);
+  --tw-gradient-to: var(--theme-accent-default, #3d53f5);
 }
 
 .to-theme-accent-subtle {
@@ -17754,7 +17754,7 @@ body {
 }
 
 .hover\:to-theme-fg-default:hover {
-  --tw-gradient-to: var(--theme-fg-default, #171717);
+  --tw-gradient-to: var(--theme-fg-default, #424242);
 }
 
 .hover\:to-theme-fg-on-accent:hover {
@@ -17810,7 +17810,7 @@ body {
 }
 
 .hover\:to-theme-accent-default:hover {
-  --tw-gradient-to: var(--theme-accent-default, #df1642);
+  --tw-gradient-to: var(--theme-accent-default, #3d53f5);
 }
 
 .hover\:to-theme-accent-subtle:hover {
@@ -17982,7 +17982,7 @@ body {
 }
 
 .focus\:to-theme-fg-default:focus {
-  --tw-gradient-to: var(--theme-fg-default, #171717);
+  --tw-gradient-to: var(--theme-fg-default, #424242);
 }
 
 .focus\:to-theme-fg-on-accent:focus {
@@ -18038,7 +18038,7 @@ body {
 }
 
 .focus\:to-theme-accent-default:focus {
-  --tw-gradient-to: var(--theme-accent-default, #df1642);
+  --tw-gradient-to: var(--theme-accent-default, #3d53f5);
 }
 
 .focus\:to-theme-accent-subtle:focus {
@@ -19775,7 +19775,7 @@ body {
 }
 
 .text-theme-fg-default {
-  color: var(--theme-fg-default, #171717);
+  color: var(--theme-fg-default, #424242);
 }
 
 .text-theme-fg-on-accent {
@@ -19831,7 +19831,7 @@ body {
 }
 
 .text-theme-accent-default {
-  color: var(--theme-accent-default, #df1642);
+  color: var(--theme-accent-default, #3d53f5);
 }
 
 .text-theme-accent-subtle {
@@ -20003,7 +20003,7 @@ body {
 }
 
 .group:hover .group-hover\:text-theme-fg-default {
-  color: var(--theme-fg-default, #171717);
+  color: var(--theme-fg-default, #424242);
 }
 
 .group:hover .group-hover\:text-theme-fg-on-accent {
@@ -20059,7 +20059,7 @@ body {
 }
 
 .group:hover .group-hover\:text-theme-accent-default {
-  color: var(--theme-accent-default, #df1642);
+  color: var(--theme-accent-default, #3d53f5);
 }
 
 .group:hover .group-hover\:text-theme-accent-subtle {
@@ -20231,7 +20231,7 @@ body {
 }
 
 .focus-within\:text-theme-fg-default:focus-within {
-  color: var(--theme-fg-default, #171717);
+  color: var(--theme-fg-default, #424242);
 }
 
 .focus-within\:text-theme-fg-on-accent:focus-within {
@@ -20287,7 +20287,7 @@ body {
 }
 
 .focus-within\:text-theme-accent-default:focus-within {
-  color: var(--theme-accent-default, #df1642);
+  color: var(--theme-accent-default, #3d53f5);
 }
 
 .focus-within\:text-theme-accent-subtle:focus-within {
@@ -20459,7 +20459,7 @@ body {
 }
 
 .hover\:text-theme-fg-default:hover {
-  color: var(--theme-fg-default, #171717);
+  color: var(--theme-fg-default, #424242);
 }
 
 .hover\:text-theme-fg-on-accent:hover {
@@ -20515,7 +20515,7 @@ body {
 }
 
 .hover\:text-theme-accent-default:hover {
-  color: var(--theme-accent-default, #df1642);
+  color: var(--theme-accent-default, #3d53f5);
 }
 
 .hover\:text-theme-accent-subtle:hover {
@@ -20687,7 +20687,7 @@ body {
 }
 
 .focus\:text-theme-fg-default:focus {
-  color: var(--theme-fg-default, #171717);
+  color: var(--theme-fg-default, #424242);
 }
 
 .focus\:text-theme-fg-on-accent:focus {
@@ -20743,7 +20743,7 @@ body {
 }
 
 .focus\:text-theme-accent-default:focus {
-  color: var(--theme-accent-default, #df1642);
+  color: var(--theme-accent-default, #3d53f5);
 }
 
 .focus\:text-theme-accent-subtle:focus {
@@ -21381,15 +21381,15 @@ body {
 }
 
 .placeholder-theme-fg-default::-moz-placeholder {
-  color: var(--theme-fg-default, #171717);
+  color: var(--theme-fg-default, #424242);
 }
 
 .placeholder-theme-fg-default:-ms-input-placeholder {
-  color: var(--theme-fg-default, #171717);
+  color: var(--theme-fg-default, #424242);
 }
 
 .placeholder-theme-fg-default::placeholder {
-  color: var(--theme-fg-default, #171717);
+  color: var(--theme-fg-default, #424242);
 }
 
 .placeholder-theme-fg-on-accent::-moz-placeholder {
@@ -21549,15 +21549,15 @@ body {
 }
 
 .placeholder-theme-accent-default::-moz-placeholder {
-  color: var(--theme-accent-default, #df1642);
+  color: var(--theme-accent-default, #3d53f5);
 }
 
 .placeholder-theme-accent-default:-ms-input-placeholder {
-  color: var(--theme-accent-default, #df1642);
+  color: var(--theme-accent-default, #3d53f5);
 }
 
 .placeholder-theme-accent-default::placeholder {
-  color: var(--theme-accent-default, #df1642);
+  color: var(--theme-accent-default, #3d53f5);
 }
 
 .placeholder-theme-accent-subtle::-moz-placeholder {
@@ -22065,15 +22065,15 @@ body {
 }
 
 .focus\:placeholder-theme-fg-default:focus::-moz-placeholder {
-  color: var(--theme-fg-default, #171717);
+  color: var(--theme-fg-default, #424242);
 }
 
 .focus\:placeholder-theme-fg-default:focus:-ms-input-placeholder {
-  color: var(--theme-fg-default, #171717);
+  color: var(--theme-fg-default, #424242);
 }
 
 .focus\:placeholder-theme-fg-default:focus::placeholder {
-  color: var(--theme-fg-default, #171717);
+  color: var(--theme-fg-default, #424242);
 }
 
 .focus\:placeholder-theme-fg-on-accent:focus::-moz-placeholder {
@@ -22233,15 +22233,15 @@ body {
 }
 
 .focus\:placeholder-theme-accent-default:focus::-moz-placeholder {
-  color: var(--theme-accent-default, #df1642);
+  color: var(--theme-accent-default, #3d53f5);
 }
 
 .focus\:placeholder-theme-accent-default:focus:-ms-input-placeholder {
-  color: var(--theme-accent-default, #df1642);
+  color: var(--theme-accent-default, #3d53f5);
 }
 
 .focus\:placeholder-theme-accent-default:focus::placeholder {
-  color: var(--theme-accent-default, #df1642);
+  color: var(--theme-accent-default, #3d53f5);
 }
 
 .focus\:placeholder-theme-accent-subtle:focus::-moz-placeholder {
@@ -23819,7 +23819,7 @@ body {
 }
 
 .ring-theme-fg-default {
-  --tw-ring-color: var(--theme-fg-default, #171717);
+  --tw-ring-color: var(--theme-fg-default, #424242);
 }
 
 .ring-theme-fg-on-accent {
@@ -23875,7 +23875,7 @@ body {
 }
 
 .ring-theme-accent-default {
-  --tw-ring-color: var(--theme-accent-default, #df1642);
+  --tw-ring-color: var(--theme-accent-default, #3d53f5);
 }
 
 .ring-theme-accent-subtle {
@@ -24047,7 +24047,7 @@ body {
 }
 
 .focus-within\:ring-theme-fg-default:focus-within {
-  --tw-ring-color: var(--theme-fg-default, #171717);
+  --tw-ring-color: var(--theme-fg-default, #424242);
 }
 
 .focus-within\:ring-theme-fg-on-accent:focus-within {
@@ -24103,7 +24103,7 @@ body {
 }
 
 .focus-within\:ring-theme-accent-default:focus-within {
-  --tw-ring-color: var(--theme-accent-default, #df1642);
+  --tw-ring-color: var(--theme-accent-default, #3d53f5);
 }
 
 .focus-within\:ring-theme-accent-subtle:focus-within {
@@ -24275,7 +24275,7 @@ body {
 }
 
 .focus\:ring-theme-fg-default:focus {
-  --tw-ring-color: var(--theme-fg-default, #171717);
+  --tw-ring-color: var(--theme-fg-default, #424242);
 }
 
 .focus\:ring-theme-fg-on-accent:focus {
@@ -24331,7 +24331,7 @@ body {
 }
 
 .focus\:ring-theme-accent-default:focus {
-  --tw-ring-color: var(--theme-accent-default, #df1642);
+  --tw-ring-color: var(--theme-accent-default, #3d53f5);
 }
 
 .focus\:ring-theme-accent-subtle:focus {
@@ -24743,7 +24743,7 @@ body {
 }
 
 .ring-offset-theme-fg-default {
-  --tw-ring-offset-color: var(--theme-fg-default, #171717);
+  --tw-ring-offset-color: var(--theme-fg-default, #424242);
 }
 
 .ring-offset-theme-fg-on-accent {
@@ -24799,7 +24799,7 @@ body {
 }
 
 .ring-offset-theme-accent-default {
-  --tw-ring-offset-color: var(--theme-accent-default, #df1642);
+  --tw-ring-offset-color: var(--theme-accent-default, #3d53f5);
 }
 
 .ring-offset-theme-accent-subtle {
@@ -24971,7 +24971,7 @@ body {
 }
 
 .focus-within\:ring-offset-theme-fg-default:focus-within {
-  --tw-ring-offset-color: var(--theme-fg-default, #171717);
+  --tw-ring-offset-color: var(--theme-fg-default, #424242);
 }
 
 .focus-within\:ring-offset-theme-fg-on-accent:focus-within {
@@ -25027,7 +25027,7 @@ body {
 }
 
 .focus-within\:ring-offset-theme-accent-default:focus-within {
-  --tw-ring-offset-color: var(--theme-accent-default, #df1642);
+  --tw-ring-offset-color: var(--theme-accent-default, #3d53f5);
 }
 
 .focus-within\:ring-offset-theme-accent-subtle:focus-within {
@@ -25199,7 +25199,7 @@ body {
 }
 
 .focus\:ring-offset-theme-fg-default:focus {
-  --tw-ring-offset-color: var(--theme-fg-default, #171717);
+  --tw-ring-offset-color: var(--theme-fg-default, #424242);
 }
 
 .focus\:ring-offset-theme-fg-on-accent:focus {
@@ -25255,7 +25255,7 @@ body {
 }
 
 .focus\:ring-offset-theme-accent-default:focus {
-  --tw-ring-offset-color: var(--theme-accent-default, #df1642);
+  --tw-ring-offset-color: var(--theme-accent-default, #3d53f5);
 }
 
 .focus\:ring-offset-theme-accent-subtle:focus {
@@ -37218,7 +37218,7 @@ body {
   }
 
   .sm\:divide-theme-fg-default > :not([hidden]) ~ :not([hidden]) {
-    border-color: var(--theme-fg-default, #171717);
+    border-color: var(--theme-fg-default, #424242);
   }
 
   .sm\:divide-theme-fg-on-accent > :not([hidden]) ~ :not([hidden]) {
@@ -37274,7 +37274,7 @@ body {
   }
 
   .sm\:divide-theme-accent-default > :not([hidden]) ~ :not([hidden]) {
-    border-color: var(--theme-accent-default, #df1642);
+    border-color: var(--theme-accent-default, #3d53f5);
   }
 
   .sm\:divide-theme-accent-subtle > :not([hidden]) ~ :not([hidden]) {
@@ -38184,7 +38184,7 @@ body {
   }
 
   .sm\:border-theme-fg-default {
-    border-color: var(--theme-fg-default, #171717);
+    border-color: var(--theme-fg-default, #424242);
   }
 
   .sm\:border-theme-fg-on-accent {
@@ -38240,7 +38240,7 @@ body {
   }
 
   .sm\:border-theme-accent-default {
-    border-color: var(--theme-accent-default, #df1642);
+    border-color: var(--theme-accent-default, #3d53f5);
   }
 
   .sm\:border-theme-accent-subtle {
@@ -38412,7 +38412,7 @@ body {
   }
 
   .group:hover .sm\:group-hover\:border-theme-fg-default {
-    border-color: var(--theme-fg-default, #171717);
+    border-color: var(--theme-fg-default, #424242);
   }
 
   .group:hover .sm\:group-hover\:border-theme-fg-on-accent {
@@ -38468,7 +38468,7 @@ body {
   }
 
   .group:hover .sm\:group-hover\:border-theme-accent-default {
-    border-color: var(--theme-accent-default, #df1642);
+    border-color: var(--theme-accent-default, #3d53f5);
   }
 
   .group:hover .sm\:group-hover\:border-theme-accent-subtle {
@@ -38640,7 +38640,7 @@ body {
   }
 
   .sm\:focus-within\:border-theme-fg-default:focus-within {
-    border-color: var(--theme-fg-default, #171717);
+    border-color: var(--theme-fg-default, #424242);
   }
 
   .sm\:focus-within\:border-theme-fg-on-accent:focus-within {
@@ -38696,7 +38696,7 @@ body {
   }
 
   .sm\:focus-within\:border-theme-accent-default:focus-within {
-    border-color: var(--theme-accent-default, #df1642);
+    border-color: var(--theme-accent-default, #3d53f5);
   }
 
   .sm\:focus-within\:border-theme-accent-subtle:focus-within {
@@ -38868,7 +38868,7 @@ body {
   }
 
   .sm\:hover\:border-theme-fg-default:hover {
-    border-color: var(--theme-fg-default, #171717);
+    border-color: var(--theme-fg-default, #424242);
   }
 
   .sm\:hover\:border-theme-fg-on-accent:hover {
@@ -38924,7 +38924,7 @@ body {
   }
 
   .sm\:hover\:border-theme-accent-default:hover {
-    border-color: var(--theme-accent-default, #df1642);
+    border-color: var(--theme-accent-default, #3d53f5);
   }
 
   .sm\:hover\:border-theme-accent-subtle:hover {
@@ -39096,7 +39096,7 @@ body {
   }
 
   .sm\:focus\:border-theme-fg-default:focus {
-    border-color: var(--theme-fg-default, #171717);
+    border-color: var(--theme-fg-default, #424242);
   }
 
   .sm\:focus\:border-theme-fg-on-accent:focus {
@@ -39152,7 +39152,7 @@ body {
   }
 
   .sm\:focus\:border-theme-accent-default:focus {
-    border-color: var(--theme-accent-default, #df1642);
+    border-color: var(--theme-accent-default, #3d53f5);
   }
 
   .sm\:focus\:border-theme-accent-subtle:focus {
@@ -39624,7 +39624,7 @@ body {
   }
 
   .sm\:bg-theme-fg-default {
-    background-color: var(--theme-fg-default, #171717);
+    background-color: var(--theme-fg-default, #424242);
   }
 
   .sm\:bg-theme-fg-on-accent {
@@ -39680,7 +39680,7 @@ body {
   }
 
   .sm\:bg-theme-accent-default {
-    background-color: var(--theme-accent-default, #df1642);
+    background-color: var(--theme-accent-default, #3d53f5);
   }
 
   .sm\:bg-theme-accent-subtle {
@@ -39852,7 +39852,7 @@ body {
   }
 
   .group:hover .sm\:group-hover\:bg-theme-fg-default {
-    background-color: var(--theme-fg-default, #171717);
+    background-color: var(--theme-fg-default, #424242);
   }
 
   .group:hover .sm\:group-hover\:bg-theme-fg-on-accent {
@@ -39908,7 +39908,7 @@ body {
   }
 
   .group:hover .sm\:group-hover\:bg-theme-accent-default {
-    background-color: var(--theme-accent-default, #df1642);
+    background-color: var(--theme-accent-default, #3d53f5);
   }
 
   .group:hover .sm\:group-hover\:bg-theme-accent-subtle {
@@ -40080,7 +40080,7 @@ body {
   }
 
   .sm\:focus-within\:bg-theme-fg-default:focus-within {
-    background-color: var(--theme-fg-default, #171717);
+    background-color: var(--theme-fg-default, #424242);
   }
 
   .sm\:focus-within\:bg-theme-fg-on-accent:focus-within {
@@ -40136,7 +40136,7 @@ body {
   }
 
   .sm\:focus-within\:bg-theme-accent-default:focus-within {
-    background-color: var(--theme-accent-default, #df1642);
+    background-color: var(--theme-accent-default, #3d53f5);
   }
 
   .sm\:focus-within\:bg-theme-accent-subtle:focus-within {
@@ -40308,7 +40308,7 @@ body {
   }
 
   .sm\:hover\:bg-theme-fg-default:hover {
-    background-color: var(--theme-fg-default, #171717);
+    background-color: var(--theme-fg-default, #424242);
   }
 
   .sm\:hover\:bg-theme-fg-on-accent:hover {
@@ -40364,7 +40364,7 @@ body {
   }
 
   .sm\:hover\:bg-theme-accent-default:hover {
-    background-color: var(--theme-accent-default, #df1642);
+    background-color: var(--theme-accent-default, #3d53f5);
   }
 
   .sm\:hover\:bg-theme-accent-subtle:hover {
@@ -40536,7 +40536,7 @@ body {
   }
 
   .sm\:focus\:bg-theme-fg-default:focus {
-    background-color: var(--theme-fg-default, #171717);
+    background-color: var(--theme-fg-default, #424242);
   }
 
   .sm\:focus\:bg-theme-fg-on-accent:focus {
@@ -40592,7 +40592,7 @@ body {
   }
 
   .sm\:focus\:bg-theme-accent-default:focus {
-    background-color: var(--theme-accent-default, #df1642);
+    background-color: var(--theme-accent-default, #3d53f5);
   }
 
   .sm\:focus\:bg-theme-accent-subtle:focus {
@@ -41112,7 +41112,7 @@ body {
   }
 
   .sm\:from-theme-fg-default {
-    --tw-gradient-from: var(--theme-fg-default, #171717);
+    --tw-gradient-from: var(--theme-fg-default, #424242);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -41182,7 +41182,7 @@ body {
   }
 
   .sm\:from-theme-accent-default {
-    --tw-gradient-from: var(--theme-accent-default, #df1642);
+    --tw-gradient-from: var(--theme-accent-default, #3d53f5);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -41397,7 +41397,7 @@ body {
   }
 
   .sm\:hover\:from-theme-fg-default:hover {
-    --tw-gradient-from: var(--theme-fg-default, #171717);
+    --tw-gradient-from: var(--theme-fg-default, #424242);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -41467,7 +41467,7 @@ body {
   }
 
   .sm\:hover\:from-theme-accent-default:hover {
-    --tw-gradient-from: var(--theme-accent-default, #df1642);
+    --tw-gradient-from: var(--theme-accent-default, #3d53f5);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -41682,7 +41682,7 @@ body {
   }
 
   .sm\:focus\:from-theme-fg-default:focus {
-    --tw-gradient-from: var(--theme-fg-default, #171717);
+    --tw-gradient-from: var(--theme-fg-default, #424242);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -41752,7 +41752,7 @@ body {
   }
 
   .sm\:focus\:from-theme-accent-default:focus {
-    --tw-gradient-from: var(--theme-accent-default, #df1642);
+    --tw-gradient-from: var(--theme-accent-default, #3d53f5);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -41955,7 +41955,7 @@ body {
   }
 
   .sm\:via-theme-fg-default {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #171717), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #424242), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .sm\:via-theme-fg-on-accent {
@@ -42011,7 +42011,7 @@ body {
   }
 
   .sm\:via-theme-accent-default {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #df1642), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #3d53f5), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .sm\:via-theme-accent-subtle {
@@ -42183,7 +42183,7 @@ body {
   }
 
   .sm\:hover\:via-theme-fg-default:hover {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #171717), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #424242), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .sm\:hover\:via-theme-fg-on-accent:hover {
@@ -42239,7 +42239,7 @@ body {
   }
 
   .sm\:hover\:via-theme-accent-default:hover {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #df1642), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #3d53f5), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .sm\:hover\:via-theme-accent-subtle:hover {
@@ -42411,7 +42411,7 @@ body {
   }
 
   .sm\:focus\:via-theme-fg-default:focus {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #171717), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #424242), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .sm\:focus\:via-theme-fg-on-accent:focus {
@@ -42467,7 +42467,7 @@ body {
   }
 
   .sm\:focus\:via-theme-accent-default:focus {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #df1642), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #3d53f5), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .sm\:focus\:via-theme-accent-subtle:focus {
@@ -42639,7 +42639,7 @@ body {
   }
 
   .sm\:to-theme-fg-default {
-    --tw-gradient-to: var(--theme-fg-default, #171717);
+    --tw-gradient-to: var(--theme-fg-default, #424242);
   }
 
   .sm\:to-theme-fg-on-accent {
@@ -42695,7 +42695,7 @@ body {
   }
 
   .sm\:to-theme-accent-default {
-    --tw-gradient-to: var(--theme-accent-default, #df1642);
+    --tw-gradient-to: var(--theme-accent-default, #3d53f5);
   }
 
   .sm\:to-theme-accent-subtle {
@@ -42867,7 +42867,7 @@ body {
   }
 
   .sm\:hover\:to-theme-fg-default:hover {
-    --tw-gradient-to: var(--theme-fg-default, #171717);
+    --tw-gradient-to: var(--theme-fg-default, #424242);
   }
 
   .sm\:hover\:to-theme-fg-on-accent:hover {
@@ -42923,7 +42923,7 @@ body {
   }
 
   .sm\:hover\:to-theme-accent-default:hover {
-    --tw-gradient-to: var(--theme-accent-default, #df1642);
+    --tw-gradient-to: var(--theme-accent-default, #3d53f5);
   }
 
   .sm\:hover\:to-theme-accent-subtle:hover {
@@ -43095,7 +43095,7 @@ body {
   }
 
   .sm\:focus\:to-theme-fg-default:focus {
-    --tw-gradient-to: var(--theme-fg-default, #171717);
+    --tw-gradient-to: var(--theme-fg-default, #424242);
   }
 
   .sm\:focus\:to-theme-fg-on-accent:focus {
@@ -43151,7 +43151,7 @@ body {
   }
 
   .sm\:focus\:to-theme-accent-default:focus {
-    --tw-gradient-to: var(--theme-accent-default, #df1642);
+    --tw-gradient-to: var(--theme-accent-default, #3d53f5);
   }
 
   .sm\:focus\:to-theme-accent-subtle:focus {
@@ -44888,7 +44888,7 @@ body {
   }
 
   .sm\:text-theme-fg-default {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .sm\:text-theme-fg-on-accent {
@@ -44944,7 +44944,7 @@ body {
   }
 
   .sm\:text-theme-accent-default {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .sm\:text-theme-accent-subtle {
@@ -45116,7 +45116,7 @@ body {
   }
 
   .group:hover .sm\:group-hover\:text-theme-fg-default {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .group:hover .sm\:group-hover\:text-theme-fg-on-accent {
@@ -45172,7 +45172,7 @@ body {
   }
 
   .group:hover .sm\:group-hover\:text-theme-accent-default {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .group:hover .sm\:group-hover\:text-theme-accent-subtle {
@@ -45344,7 +45344,7 @@ body {
   }
 
   .sm\:focus-within\:text-theme-fg-default:focus-within {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .sm\:focus-within\:text-theme-fg-on-accent:focus-within {
@@ -45400,7 +45400,7 @@ body {
   }
 
   .sm\:focus-within\:text-theme-accent-default:focus-within {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .sm\:focus-within\:text-theme-accent-subtle:focus-within {
@@ -45572,7 +45572,7 @@ body {
   }
 
   .sm\:hover\:text-theme-fg-default:hover {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .sm\:hover\:text-theme-fg-on-accent:hover {
@@ -45628,7 +45628,7 @@ body {
   }
 
   .sm\:hover\:text-theme-accent-default:hover {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .sm\:hover\:text-theme-accent-subtle:hover {
@@ -45800,7 +45800,7 @@ body {
   }
 
   .sm\:focus\:text-theme-fg-default:focus {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .sm\:focus\:text-theme-fg-on-accent:focus {
@@ -45856,7 +45856,7 @@ body {
   }
 
   .sm\:focus\:text-theme-accent-default:focus {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .sm\:focus\:text-theme-accent-subtle:focus {
@@ -46494,15 +46494,15 @@ body {
   }
 
   .sm\:placeholder-theme-fg-default::-moz-placeholder {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .sm\:placeholder-theme-fg-default:-ms-input-placeholder {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .sm\:placeholder-theme-fg-default::placeholder {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .sm\:placeholder-theme-fg-on-accent::-moz-placeholder {
@@ -46662,15 +46662,15 @@ body {
   }
 
   .sm\:placeholder-theme-accent-default::-moz-placeholder {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .sm\:placeholder-theme-accent-default:-ms-input-placeholder {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .sm\:placeholder-theme-accent-default::placeholder {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .sm\:placeholder-theme-accent-subtle::-moz-placeholder {
@@ -47178,15 +47178,15 @@ body {
   }
 
   .sm\:focus\:placeholder-theme-fg-default:focus::-moz-placeholder {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .sm\:focus\:placeholder-theme-fg-default:focus:-ms-input-placeholder {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .sm\:focus\:placeholder-theme-fg-default:focus::placeholder {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .sm\:focus\:placeholder-theme-fg-on-accent:focus::-moz-placeholder {
@@ -47346,15 +47346,15 @@ body {
   }
 
   .sm\:focus\:placeholder-theme-accent-default:focus::-moz-placeholder {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .sm\:focus\:placeholder-theme-accent-default:focus:-ms-input-placeholder {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .sm\:focus\:placeholder-theme-accent-default:focus::placeholder {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .sm\:focus\:placeholder-theme-accent-subtle:focus::-moz-placeholder {
@@ -48919,7 +48919,7 @@ body {
   }
 
   .sm\:ring-theme-fg-default {
-    --tw-ring-color: var(--theme-fg-default, #171717);
+    --tw-ring-color: var(--theme-fg-default, #424242);
   }
 
   .sm\:ring-theme-fg-on-accent {
@@ -48975,7 +48975,7 @@ body {
   }
 
   .sm\:ring-theme-accent-default {
-    --tw-ring-color: var(--theme-accent-default, #df1642);
+    --tw-ring-color: var(--theme-accent-default, #3d53f5);
   }
 
   .sm\:ring-theme-accent-subtle {
@@ -49147,7 +49147,7 @@ body {
   }
 
   .sm\:focus-within\:ring-theme-fg-default:focus-within {
-    --tw-ring-color: var(--theme-fg-default, #171717);
+    --tw-ring-color: var(--theme-fg-default, #424242);
   }
 
   .sm\:focus-within\:ring-theme-fg-on-accent:focus-within {
@@ -49203,7 +49203,7 @@ body {
   }
 
   .sm\:focus-within\:ring-theme-accent-default:focus-within {
-    --tw-ring-color: var(--theme-accent-default, #df1642);
+    --tw-ring-color: var(--theme-accent-default, #3d53f5);
   }
 
   .sm\:focus-within\:ring-theme-accent-subtle:focus-within {
@@ -49375,7 +49375,7 @@ body {
   }
 
   .sm\:focus\:ring-theme-fg-default:focus {
-    --tw-ring-color: var(--theme-fg-default, #171717);
+    --tw-ring-color: var(--theme-fg-default, #424242);
   }
 
   .sm\:focus\:ring-theme-fg-on-accent:focus {
@@ -49431,7 +49431,7 @@ body {
   }
 
   .sm\:focus\:ring-theme-accent-default:focus {
-    --tw-ring-color: var(--theme-accent-default, #df1642);
+    --tw-ring-color: var(--theme-accent-default, #3d53f5);
   }
 
   .sm\:focus\:ring-theme-accent-subtle:focus {
@@ -49843,7 +49843,7 @@ body {
   }
 
   .sm\:ring-offset-theme-fg-default {
-    --tw-ring-offset-color: var(--theme-fg-default, #171717);
+    --tw-ring-offset-color: var(--theme-fg-default, #424242);
   }
 
   .sm\:ring-offset-theme-fg-on-accent {
@@ -49899,7 +49899,7 @@ body {
   }
 
   .sm\:ring-offset-theme-accent-default {
-    --tw-ring-offset-color: var(--theme-accent-default, #df1642);
+    --tw-ring-offset-color: var(--theme-accent-default, #3d53f5);
   }
 
   .sm\:ring-offset-theme-accent-subtle {
@@ -50071,7 +50071,7 @@ body {
   }
 
   .sm\:focus-within\:ring-offset-theme-fg-default:focus-within {
-    --tw-ring-offset-color: var(--theme-fg-default, #171717);
+    --tw-ring-offset-color: var(--theme-fg-default, #424242);
   }
 
   .sm\:focus-within\:ring-offset-theme-fg-on-accent:focus-within {
@@ -50127,7 +50127,7 @@ body {
   }
 
   .sm\:focus-within\:ring-offset-theme-accent-default:focus-within {
-    --tw-ring-offset-color: var(--theme-accent-default, #df1642);
+    --tw-ring-offset-color: var(--theme-accent-default, #3d53f5);
   }
 
   .sm\:focus-within\:ring-offset-theme-accent-subtle:focus-within {
@@ -50299,7 +50299,7 @@ body {
   }
 
   .sm\:focus\:ring-offset-theme-fg-default:focus {
-    --tw-ring-offset-color: var(--theme-fg-default, #171717);
+    --tw-ring-offset-color: var(--theme-fg-default, #424242);
   }
 
   .sm\:focus\:ring-offset-theme-fg-on-accent:focus {
@@ -50355,7 +50355,7 @@ body {
   }
 
   .sm\:focus\:ring-offset-theme-accent-default:focus {
-    --tw-ring-offset-color: var(--theme-accent-default, #df1642);
+    --tw-ring-offset-color: var(--theme-accent-default, #3d53f5);
   }
 
   .sm\:focus\:ring-offset-theme-accent-subtle:focus {
@@ -62319,7 +62319,7 @@ body {
   }
 
   .md\:divide-theme-fg-default > :not([hidden]) ~ :not([hidden]) {
-    border-color: var(--theme-fg-default, #171717);
+    border-color: var(--theme-fg-default, #424242);
   }
 
   .md\:divide-theme-fg-on-accent > :not([hidden]) ~ :not([hidden]) {
@@ -62375,7 +62375,7 @@ body {
   }
 
   .md\:divide-theme-accent-default > :not([hidden]) ~ :not([hidden]) {
-    border-color: var(--theme-accent-default, #df1642);
+    border-color: var(--theme-accent-default, #3d53f5);
   }
 
   .md\:divide-theme-accent-subtle > :not([hidden]) ~ :not([hidden]) {
@@ -63285,7 +63285,7 @@ body {
   }
 
   .md\:border-theme-fg-default {
-    border-color: var(--theme-fg-default, #171717);
+    border-color: var(--theme-fg-default, #424242);
   }
 
   .md\:border-theme-fg-on-accent {
@@ -63341,7 +63341,7 @@ body {
   }
 
   .md\:border-theme-accent-default {
-    border-color: var(--theme-accent-default, #df1642);
+    border-color: var(--theme-accent-default, #3d53f5);
   }
 
   .md\:border-theme-accent-subtle {
@@ -63513,7 +63513,7 @@ body {
   }
 
   .group:hover .md\:group-hover\:border-theme-fg-default {
-    border-color: var(--theme-fg-default, #171717);
+    border-color: var(--theme-fg-default, #424242);
   }
 
   .group:hover .md\:group-hover\:border-theme-fg-on-accent {
@@ -63569,7 +63569,7 @@ body {
   }
 
   .group:hover .md\:group-hover\:border-theme-accent-default {
-    border-color: var(--theme-accent-default, #df1642);
+    border-color: var(--theme-accent-default, #3d53f5);
   }
 
   .group:hover .md\:group-hover\:border-theme-accent-subtle {
@@ -63741,7 +63741,7 @@ body {
   }
 
   .md\:focus-within\:border-theme-fg-default:focus-within {
-    border-color: var(--theme-fg-default, #171717);
+    border-color: var(--theme-fg-default, #424242);
   }
 
   .md\:focus-within\:border-theme-fg-on-accent:focus-within {
@@ -63797,7 +63797,7 @@ body {
   }
 
   .md\:focus-within\:border-theme-accent-default:focus-within {
-    border-color: var(--theme-accent-default, #df1642);
+    border-color: var(--theme-accent-default, #3d53f5);
   }
 
   .md\:focus-within\:border-theme-accent-subtle:focus-within {
@@ -63969,7 +63969,7 @@ body {
   }
 
   .md\:hover\:border-theme-fg-default:hover {
-    border-color: var(--theme-fg-default, #171717);
+    border-color: var(--theme-fg-default, #424242);
   }
 
   .md\:hover\:border-theme-fg-on-accent:hover {
@@ -64025,7 +64025,7 @@ body {
   }
 
   .md\:hover\:border-theme-accent-default:hover {
-    border-color: var(--theme-accent-default, #df1642);
+    border-color: var(--theme-accent-default, #3d53f5);
   }
 
   .md\:hover\:border-theme-accent-subtle:hover {
@@ -64197,7 +64197,7 @@ body {
   }
 
   .md\:focus\:border-theme-fg-default:focus {
-    border-color: var(--theme-fg-default, #171717);
+    border-color: var(--theme-fg-default, #424242);
   }
 
   .md\:focus\:border-theme-fg-on-accent:focus {
@@ -64253,7 +64253,7 @@ body {
   }
 
   .md\:focus\:border-theme-accent-default:focus {
-    border-color: var(--theme-accent-default, #df1642);
+    border-color: var(--theme-accent-default, #3d53f5);
   }
 
   .md\:focus\:border-theme-accent-subtle:focus {
@@ -64725,7 +64725,7 @@ body {
   }
 
   .md\:bg-theme-fg-default {
-    background-color: var(--theme-fg-default, #171717);
+    background-color: var(--theme-fg-default, #424242);
   }
 
   .md\:bg-theme-fg-on-accent {
@@ -64781,7 +64781,7 @@ body {
   }
 
   .md\:bg-theme-accent-default {
-    background-color: var(--theme-accent-default, #df1642);
+    background-color: var(--theme-accent-default, #3d53f5);
   }
 
   .md\:bg-theme-accent-subtle {
@@ -64953,7 +64953,7 @@ body {
   }
 
   .group:hover .md\:group-hover\:bg-theme-fg-default {
-    background-color: var(--theme-fg-default, #171717);
+    background-color: var(--theme-fg-default, #424242);
   }
 
   .group:hover .md\:group-hover\:bg-theme-fg-on-accent {
@@ -65009,7 +65009,7 @@ body {
   }
 
   .group:hover .md\:group-hover\:bg-theme-accent-default {
-    background-color: var(--theme-accent-default, #df1642);
+    background-color: var(--theme-accent-default, #3d53f5);
   }
 
   .group:hover .md\:group-hover\:bg-theme-accent-subtle {
@@ -65181,7 +65181,7 @@ body {
   }
 
   .md\:focus-within\:bg-theme-fg-default:focus-within {
-    background-color: var(--theme-fg-default, #171717);
+    background-color: var(--theme-fg-default, #424242);
   }
 
   .md\:focus-within\:bg-theme-fg-on-accent:focus-within {
@@ -65237,7 +65237,7 @@ body {
   }
 
   .md\:focus-within\:bg-theme-accent-default:focus-within {
-    background-color: var(--theme-accent-default, #df1642);
+    background-color: var(--theme-accent-default, #3d53f5);
   }
 
   .md\:focus-within\:bg-theme-accent-subtle:focus-within {
@@ -65409,7 +65409,7 @@ body {
   }
 
   .md\:hover\:bg-theme-fg-default:hover {
-    background-color: var(--theme-fg-default, #171717);
+    background-color: var(--theme-fg-default, #424242);
   }
 
   .md\:hover\:bg-theme-fg-on-accent:hover {
@@ -65465,7 +65465,7 @@ body {
   }
 
   .md\:hover\:bg-theme-accent-default:hover {
-    background-color: var(--theme-accent-default, #df1642);
+    background-color: var(--theme-accent-default, #3d53f5);
   }
 
   .md\:hover\:bg-theme-accent-subtle:hover {
@@ -65637,7 +65637,7 @@ body {
   }
 
   .md\:focus\:bg-theme-fg-default:focus {
-    background-color: var(--theme-fg-default, #171717);
+    background-color: var(--theme-fg-default, #424242);
   }
 
   .md\:focus\:bg-theme-fg-on-accent:focus {
@@ -65693,7 +65693,7 @@ body {
   }
 
   .md\:focus\:bg-theme-accent-default:focus {
-    background-color: var(--theme-accent-default, #df1642);
+    background-color: var(--theme-accent-default, #3d53f5);
   }
 
   .md\:focus\:bg-theme-accent-subtle:focus {
@@ -66213,7 +66213,7 @@ body {
   }
 
   .md\:from-theme-fg-default {
-    --tw-gradient-from: var(--theme-fg-default, #171717);
+    --tw-gradient-from: var(--theme-fg-default, #424242);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -66283,7 +66283,7 @@ body {
   }
 
   .md\:from-theme-accent-default {
-    --tw-gradient-from: var(--theme-accent-default, #df1642);
+    --tw-gradient-from: var(--theme-accent-default, #3d53f5);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -66498,7 +66498,7 @@ body {
   }
 
   .md\:hover\:from-theme-fg-default:hover {
-    --tw-gradient-from: var(--theme-fg-default, #171717);
+    --tw-gradient-from: var(--theme-fg-default, #424242);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -66568,7 +66568,7 @@ body {
   }
 
   .md\:hover\:from-theme-accent-default:hover {
-    --tw-gradient-from: var(--theme-accent-default, #df1642);
+    --tw-gradient-from: var(--theme-accent-default, #3d53f5);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -66783,7 +66783,7 @@ body {
   }
 
   .md\:focus\:from-theme-fg-default:focus {
-    --tw-gradient-from: var(--theme-fg-default, #171717);
+    --tw-gradient-from: var(--theme-fg-default, #424242);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -66853,7 +66853,7 @@ body {
   }
 
   .md\:focus\:from-theme-accent-default:focus {
-    --tw-gradient-from: var(--theme-accent-default, #df1642);
+    --tw-gradient-from: var(--theme-accent-default, #3d53f5);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -67056,7 +67056,7 @@ body {
   }
 
   .md\:via-theme-fg-default {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #171717), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #424242), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .md\:via-theme-fg-on-accent {
@@ -67112,7 +67112,7 @@ body {
   }
 
   .md\:via-theme-accent-default {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #df1642), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #3d53f5), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .md\:via-theme-accent-subtle {
@@ -67284,7 +67284,7 @@ body {
   }
 
   .md\:hover\:via-theme-fg-default:hover {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #171717), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #424242), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .md\:hover\:via-theme-fg-on-accent:hover {
@@ -67340,7 +67340,7 @@ body {
   }
 
   .md\:hover\:via-theme-accent-default:hover {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #df1642), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #3d53f5), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .md\:hover\:via-theme-accent-subtle:hover {
@@ -67512,7 +67512,7 @@ body {
   }
 
   .md\:focus\:via-theme-fg-default:focus {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #171717), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #424242), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .md\:focus\:via-theme-fg-on-accent:focus {
@@ -67568,7 +67568,7 @@ body {
   }
 
   .md\:focus\:via-theme-accent-default:focus {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #df1642), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #3d53f5), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .md\:focus\:via-theme-accent-subtle:focus {
@@ -67740,7 +67740,7 @@ body {
   }
 
   .md\:to-theme-fg-default {
-    --tw-gradient-to: var(--theme-fg-default, #171717);
+    --tw-gradient-to: var(--theme-fg-default, #424242);
   }
 
   .md\:to-theme-fg-on-accent {
@@ -67796,7 +67796,7 @@ body {
   }
 
   .md\:to-theme-accent-default {
-    --tw-gradient-to: var(--theme-accent-default, #df1642);
+    --tw-gradient-to: var(--theme-accent-default, #3d53f5);
   }
 
   .md\:to-theme-accent-subtle {
@@ -67968,7 +67968,7 @@ body {
   }
 
   .md\:hover\:to-theme-fg-default:hover {
-    --tw-gradient-to: var(--theme-fg-default, #171717);
+    --tw-gradient-to: var(--theme-fg-default, #424242);
   }
 
   .md\:hover\:to-theme-fg-on-accent:hover {
@@ -68024,7 +68024,7 @@ body {
   }
 
   .md\:hover\:to-theme-accent-default:hover {
-    --tw-gradient-to: var(--theme-accent-default, #df1642);
+    --tw-gradient-to: var(--theme-accent-default, #3d53f5);
   }
 
   .md\:hover\:to-theme-accent-subtle:hover {
@@ -68196,7 +68196,7 @@ body {
   }
 
   .md\:focus\:to-theme-fg-default:focus {
-    --tw-gradient-to: var(--theme-fg-default, #171717);
+    --tw-gradient-to: var(--theme-fg-default, #424242);
   }
 
   .md\:focus\:to-theme-fg-on-accent:focus {
@@ -68252,7 +68252,7 @@ body {
   }
 
   .md\:focus\:to-theme-accent-default:focus {
-    --tw-gradient-to: var(--theme-accent-default, #df1642);
+    --tw-gradient-to: var(--theme-accent-default, #3d53f5);
   }
 
   .md\:focus\:to-theme-accent-subtle:focus {
@@ -69989,7 +69989,7 @@ body {
   }
 
   .md\:text-theme-fg-default {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .md\:text-theme-fg-on-accent {
@@ -70045,7 +70045,7 @@ body {
   }
 
   .md\:text-theme-accent-default {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .md\:text-theme-accent-subtle {
@@ -70217,7 +70217,7 @@ body {
   }
 
   .group:hover .md\:group-hover\:text-theme-fg-default {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .group:hover .md\:group-hover\:text-theme-fg-on-accent {
@@ -70273,7 +70273,7 @@ body {
   }
 
   .group:hover .md\:group-hover\:text-theme-accent-default {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .group:hover .md\:group-hover\:text-theme-accent-subtle {
@@ -70445,7 +70445,7 @@ body {
   }
 
   .md\:focus-within\:text-theme-fg-default:focus-within {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .md\:focus-within\:text-theme-fg-on-accent:focus-within {
@@ -70501,7 +70501,7 @@ body {
   }
 
   .md\:focus-within\:text-theme-accent-default:focus-within {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .md\:focus-within\:text-theme-accent-subtle:focus-within {
@@ -70673,7 +70673,7 @@ body {
   }
 
   .md\:hover\:text-theme-fg-default:hover {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .md\:hover\:text-theme-fg-on-accent:hover {
@@ -70729,7 +70729,7 @@ body {
   }
 
   .md\:hover\:text-theme-accent-default:hover {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .md\:hover\:text-theme-accent-subtle:hover {
@@ -70901,7 +70901,7 @@ body {
   }
 
   .md\:focus\:text-theme-fg-default:focus {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .md\:focus\:text-theme-fg-on-accent:focus {
@@ -70957,7 +70957,7 @@ body {
   }
 
   .md\:focus\:text-theme-accent-default:focus {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .md\:focus\:text-theme-accent-subtle:focus {
@@ -71595,15 +71595,15 @@ body {
   }
 
   .md\:placeholder-theme-fg-default::-moz-placeholder {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .md\:placeholder-theme-fg-default:-ms-input-placeholder {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .md\:placeholder-theme-fg-default::placeholder {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .md\:placeholder-theme-fg-on-accent::-moz-placeholder {
@@ -71763,15 +71763,15 @@ body {
   }
 
   .md\:placeholder-theme-accent-default::-moz-placeholder {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .md\:placeholder-theme-accent-default:-ms-input-placeholder {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .md\:placeholder-theme-accent-default::placeholder {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .md\:placeholder-theme-accent-subtle::-moz-placeholder {
@@ -72279,15 +72279,15 @@ body {
   }
 
   .md\:focus\:placeholder-theme-fg-default:focus::-moz-placeholder {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .md\:focus\:placeholder-theme-fg-default:focus:-ms-input-placeholder {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .md\:focus\:placeholder-theme-fg-default:focus::placeholder {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .md\:focus\:placeholder-theme-fg-on-accent:focus::-moz-placeholder {
@@ -72447,15 +72447,15 @@ body {
   }
 
   .md\:focus\:placeholder-theme-accent-default:focus::-moz-placeholder {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .md\:focus\:placeholder-theme-accent-default:focus:-ms-input-placeholder {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .md\:focus\:placeholder-theme-accent-default:focus::placeholder {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .md\:focus\:placeholder-theme-accent-subtle:focus::-moz-placeholder {
@@ -74020,7 +74020,7 @@ body {
   }
 
   .md\:ring-theme-fg-default {
-    --tw-ring-color: var(--theme-fg-default, #171717);
+    --tw-ring-color: var(--theme-fg-default, #424242);
   }
 
   .md\:ring-theme-fg-on-accent {
@@ -74076,7 +74076,7 @@ body {
   }
 
   .md\:ring-theme-accent-default {
-    --tw-ring-color: var(--theme-accent-default, #df1642);
+    --tw-ring-color: var(--theme-accent-default, #3d53f5);
   }
 
   .md\:ring-theme-accent-subtle {
@@ -74248,7 +74248,7 @@ body {
   }
 
   .md\:focus-within\:ring-theme-fg-default:focus-within {
-    --tw-ring-color: var(--theme-fg-default, #171717);
+    --tw-ring-color: var(--theme-fg-default, #424242);
   }
 
   .md\:focus-within\:ring-theme-fg-on-accent:focus-within {
@@ -74304,7 +74304,7 @@ body {
   }
 
   .md\:focus-within\:ring-theme-accent-default:focus-within {
-    --tw-ring-color: var(--theme-accent-default, #df1642);
+    --tw-ring-color: var(--theme-accent-default, #3d53f5);
   }
 
   .md\:focus-within\:ring-theme-accent-subtle:focus-within {
@@ -74476,7 +74476,7 @@ body {
   }
 
   .md\:focus\:ring-theme-fg-default:focus {
-    --tw-ring-color: var(--theme-fg-default, #171717);
+    --tw-ring-color: var(--theme-fg-default, #424242);
   }
 
   .md\:focus\:ring-theme-fg-on-accent:focus {
@@ -74532,7 +74532,7 @@ body {
   }
 
   .md\:focus\:ring-theme-accent-default:focus {
-    --tw-ring-color: var(--theme-accent-default, #df1642);
+    --tw-ring-color: var(--theme-accent-default, #3d53f5);
   }
 
   .md\:focus\:ring-theme-accent-subtle:focus {
@@ -74944,7 +74944,7 @@ body {
   }
 
   .md\:ring-offset-theme-fg-default {
-    --tw-ring-offset-color: var(--theme-fg-default, #171717);
+    --tw-ring-offset-color: var(--theme-fg-default, #424242);
   }
 
   .md\:ring-offset-theme-fg-on-accent {
@@ -75000,7 +75000,7 @@ body {
   }
 
   .md\:ring-offset-theme-accent-default {
-    --tw-ring-offset-color: var(--theme-accent-default, #df1642);
+    --tw-ring-offset-color: var(--theme-accent-default, #3d53f5);
   }
 
   .md\:ring-offset-theme-accent-subtle {
@@ -75172,7 +75172,7 @@ body {
   }
 
   .md\:focus-within\:ring-offset-theme-fg-default:focus-within {
-    --tw-ring-offset-color: var(--theme-fg-default, #171717);
+    --tw-ring-offset-color: var(--theme-fg-default, #424242);
   }
 
   .md\:focus-within\:ring-offset-theme-fg-on-accent:focus-within {
@@ -75228,7 +75228,7 @@ body {
   }
 
   .md\:focus-within\:ring-offset-theme-accent-default:focus-within {
-    --tw-ring-offset-color: var(--theme-accent-default, #df1642);
+    --tw-ring-offset-color: var(--theme-accent-default, #3d53f5);
   }
 
   .md\:focus-within\:ring-offset-theme-accent-subtle:focus-within {
@@ -75400,7 +75400,7 @@ body {
   }
 
   .md\:focus\:ring-offset-theme-fg-default:focus {
-    --tw-ring-offset-color: var(--theme-fg-default, #171717);
+    --tw-ring-offset-color: var(--theme-fg-default, #424242);
   }
 
   .md\:focus\:ring-offset-theme-fg-on-accent:focus {
@@ -75456,7 +75456,7 @@ body {
   }
 
   .md\:focus\:ring-offset-theme-accent-default:focus {
-    --tw-ring-offset-color: var(--theme-accent-default, #df1642);
+    --tw-ring-offset-color: var(--theme-accent-default, #3d53f5);
   }
 
   .md\:focus\:ring-offset-theme-accent-subtle:focus {
@@ -87420,7 +87420,7 @@ body {
   }
 
   .lg\:divide-theme-fg-default > :not([hidden]) ~ :not([hidden]) {
-    border-color: var(--theme-fg-default, #171717);
+    border-color: var(--theme-fg-default, #424242);
   }
 
   .lg\:divide-theme-fg-on-accent > :not([hidden]) ~ :not([hidden]) {
@@ -87476,7 +87476,7 @@ body {
   }
 
   .lg\:divide-theme-accent-default > :not([hidden]) ~ :not([hidden]) {
-    border-color: var(--theme-accent-default, #df1642);
+    border-color: var(--theme-accent-default, #3d53f5);
   }
 
   .lg\:divide-theme-accent-subtle > :not([hidden]) ~ :not([hidden]) {
@@ -88386,7 +88386,7 @@ body {
   }
 
   .lg\:border-theme-fg-default {
-    border-color: var(--theme-fg-default, #171717);
+    border-color: var(--theme-fg-default, #424242);
   }
 
   .lg\:border-theme-fg-on-accent {
@@ -88442,7 +88442,7 @@ body {
   }
 
   .lg\:border-theme-accent-default {
-    border-color: var(--theme-accent-default, #df1642);
+    border-color: var(--theme-accent-default, #3d53f5);
   }
 
   .lg\:border-theme-accent-subtle {
@@ -88614,7 +88614,7 @@ body {
   }
 
   .group:hover .lg\:group-hover\:border-theme-fg-default {
-    border-color: var(--theme-fg-default, #171717);
+    border-color: var(--theme-fg-default, #424242);
   }
 
   .group:hover .lg\:group-hover\:border-theme-fg-on-accent {
@@ -88670,7 +88670,7 @@ body {
   }
 
   .group:hover .lg\:group-hover\:border-theme-accent-default {
-    border-color: var(--theme-accent-default, #df1642);
+    border-color: var(--theme-accent-default, #3d53f5);
   }
 
   .group:hover .lg\:group-hover\:border-theme-accent-subtle {
@@ -88842,7 +88842,7 @@ body {
   }
 
   .lg\:focus-within\:border-theme-fg-default:focus-within {
-    border-color: var(--theme-fg-default, #171717);
+    border-color: var(--theme-fg-default, #424242);
   }
 
   .lg\:focus-within\:border-theme-fg-on-accent:focus-within {
@@ -88898,7 +88898,7 @@ body {
   }
 
   .lg\:focus-within\:border-theme-accent-default:focus-within {
-    border-color: var(--theme-accent-default, #df1642);
+    border-color: var(--theme-accent-default, #3d53f5);
   }
 
   .lg\:focus-within\:border-theme-accent-subtle:focus-within {
@@ -89070,7 +89070,7 @@ body {
   }
 
   .lg\:hover\:border-theme-fg-default:hover {
-    border-color: var(--theme-fg-default, #171717);
+    border-color: var(--theme-fg-default, #424242);
   }
 
   .lg\:hover\:border-theme-fg-on-accent:hover {
@@ -89126,7 +89126,7 @@ body {
   }
 
   .lg\:hover\:border-theme-accent-default:hover {
-    border-color: var(--theme-accent-default, #df1642);
+    border-color: var(--theme-accent-default, #3d53f5);
   }
 
   .lg\:hover\:border-theme-accent-subtle:hover {
@@ -89298,7 +89298,7 @@ body {
   }
 
   .lg\:focus\:border-theme-fg-default:focus {
-    border-color: var(--theme-fg-default, #171717);
+    border-color: var(--theme-fg-default, #424242);
   }
 
   .lg\:focus\:border-theme-fg-on-accent:focus {
@@ -89354,7 +89354,7 @@ body {
   }
 
   .lg\:focus\:border-theme-accent-default:focus {
-    border-color: var(--theme-accent-default, #df1642);
+    border-color: var(--theme-accent-default, #3d53f5);
   }
 
   .lg\:focus\:border-theme-accent-subtle:focus {
@@ -89826,7 +89826,7 @@ body {
   }
 
   .lg\:bg-theme-fg-default {
-    background-color: var(--theme-fg-default, #171717);
+    background-color: var(--theme-fg-default, #424242);
   }
 
   .lg\:bg-theme-fg-on-accent {
@@ -89882,7 +89882,7 @@ body {
   }
 
   .lg\:bg-theme-accent-default {
-    background-color: var(--theme-accent-default, #df1642);
+    background-color: var(--theme-accent-default, #3d53f5);
   }
 
   .lg\:bg-theme-accent-subtle {
@@ -90054,7 +90054,7 @@ body {
   }
 
   .group:hover .lg\:group-hover\:bg-theme-fg-default {
-    background-color: var(--theme-fg-default, #171717);
+    background-color: var(--theme-fg-default, #424242);
   }
 
   .group:hover .lg\:group-hover\:bg-theme-fg-on-accent {
@@ -90110,7 +90110,7 @@ body {
   }
 
   .group:hover .lg\:group-hover\:bg-theme-accent-default {
-    background-color: var(--theme-accent-default, #df1642);
+    background-color: var(--theme-accent-default, #3d53f5);
   }
 
   .group:hover .lg\:group-hover\:bg-theme-accent-subtle {
@@ -90282,7 +90282,7 @@ body {
   }
 
   .lg\:focus-within\:bg-theme-fg-default:focus-within {
-    background-color: var(--theme-fg-default, #171717);
+    background-color: var(--theme-fg-default, #424242);
   }
 
   .lg\:focus-within\:bg-theme-fg-on-accent:focus-within {
@@ -90338,7 +90338,7 @@ body {
   }
 
   .lg\:focus-within\:bg-theme-accent-default:focus-within {
-    background-color: var(--theme-accent-default, #df1642);
+    background-color: var(--theme-accent-default, #3d53f5);
   }
 
   .lg\:focus-within\:bg-theme-accent-subtle:focus-within {
@@ -90510,7 +90510,7 @@ body {
   }
 
   .lg\:hover\:bg-theme-fg-default:hover {
-    background-color: var(--theme-fg-default, #171717);
+    background-color: var(--theme-fg-default, #424242);
   }
 
   .lg\:hover\:bg-theme-fg-on-accent:hover {
@@ -90566,7 +90566,7 @@ body {
   }
 
   .lg\:hover\:bg-theme-accent-default:hover {
-    background-color: var(--theme-accent-default, #df1642);
+    background-color: var(--theme-accent-default, #3d53f5);
   }
 
   .lg\:hover\:bg-theme-accent-subtle:hover {
@@ -90738,7 +90738,7 @@ body {
   }
 
   .lg\:focus\:bg-theme-fg-default:focus {
-    background-color: var(--theme-fg-default, #171717);
+    background-color: var(--theme-fg-default, #424242);
   }
 
   .lg\:focus\:bg-theme-fg-on-accent:focus {
@@ -90794,7 +90794,7 @@ body {
   }
 
   .lg\:focus\:bg-theme-accent-default:focus {
-    background-color: var(--theme-accent-default, #df1642);
+    background-color: var(--theme-accent-default, #3d53f5);
   }
 
   .lg\:focus\:bg-theme-accent-subtle:focus {
@@ -91314,7 +91314,7 @@ body {
   }
 
   .lg\:from-theme-fg-default {
-    --tw-gradient-from: var(--theme-fg-default, #171717);
+    --tw-gradient-from: var(--theme-fg-default, #424242);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -91384,7 +91384,7 @@ body {
   }
 
   .lg\:from-theme-accent-default {
-    --tw-gradient-from: var(--theme-accent-default, #df1642);
+    --tw-gradient-from: var(--theme-accent-default, #3d53f5);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -91599,7 +91599,7 @@ body {
   }
 
   .lg\:hover\:from-theme-fg-default:hover {
-    --tw-gradient-from: var(--theme-fg-default, #171717);
+    --tw-gradient-from: var(--theme-fg-default, #424242);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -91669,7 +91669,7 @@ body {
   }
 
   .lg\:hover\:from-theme-accent-default:hover {
-    --tw-gradient-from: var(--theme-accent-default, #df1642);
+    --tw-gradient-from: var(--theme-accent-default, #3d53f5);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -91884,7 +91884,7 @@ body {
   }
 
   .lg\:focus\:from-theme-fg-default:focus {
-    --tw-gradient-from: var(--theme-fg-default, #171717);
+    --tw-gradient-from: var(--theme-fg-default, #424242);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -91954,7 +91954,7 @@ body {
   }
 
   .lg\:focus\:from-theme-accent-default:focus {
-    --tw-gradient-from: var(--theme-accent-default, #df1642);
+    --tw-gradient-from: var(--theme-accent-default, #3d53f5);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -92157,7 +92157,7 @@ body {
   }
 
   .lg\:via-theme-fg-default {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #171717), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #424242), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .lg\:via-theme-fg-on-accent {
@@ -92213,7 +92213,7 @@ body {
   }
 
   .lg\:via-theme-accent-default {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #df1642), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #3d53f5), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .lg\:via-theme-accent-subtle {
@@ -92385,7 +92385,7 @@ body {
   }
 
   .lg\:hover\:via-theme-fg-default:hover {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #171717), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #424242), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .lg\:hover\:via-theme-fg-on-accent:hover {
@@ -92441,7 +92441,7 @@ body {
   }
 
   .lg\:hover\:via-theme-accent-default:hover {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #df1642), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #3d53f5), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .lg\:hover\:via-theme-accent-subtle:hover {
@@ -92613,7 +92613,7 @@ body {
   }
 
   .lg\:focus\:via-theme-fg-default:focus {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #171717), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #424242), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .lg\:focus\:via-theme-fg-on-accent:focus {
@@ -92669,7 +92669,7 @@ body {
   }
 
   .lg\:focus\:via-theme-accent-default:focus {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #df1642), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #3d53f5), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .lg\:focus\:via-theme-accent-subtle:focus {
@@ -92841,7 +92841,7 @@ body {
   }
 
   .lg\:to-theme-fg-default {
-    --tw-gradient-to: var(--theme-fg-default, #171717);
+    --tw-gradient-to: var(--theme-fg-default, #424242);
   }
 
   .lg\:to-theme-fg-on-accent {
@@ -92897,7 +92897,7 @@ body {
   }
 
   .lg\:to-theme-accent-default {
-    --tw-gradient-to: var(--theme-accent-default, #df1642);
+    --tw-gradient-to: var(--theme-accent-default, #3d53f5);
   }
 
   .lg\:to-theme-accent-subtle {
@@ -93069,7 +93069,7 @@ body {
   }
 
   .lg\:hover\:to-theme-fg-default:hover {
-    --tw-gradient-to: var(--theme-fg-default, #171717);
+    --tw-gradient-to: var(--theme-fg-default, #424242);
   }
 
   .lg\:hover\:to-theme-fg-on-accent:hover {
@@ -93125,7 +93125,7 @@ body {
   }
 
   .lg\:hover\:to-theme-accent-default:hover {
-    --tw-gradient-to: var(--theme-accent-default, #df1642);
+    --tw-gradient-to: var(--theme-accent-default, #3d53f5);
   }
 
   .lg\:hover\:to-theme-accent-subtle:hover {
@@ -93297,7 +93297,7 @@ body {
   }
 
   .lg\:focus\:to-theme-fg-default:focus {
-    --tw-gradient-to: var(--theme-fg-default, #171717);
+    --tw-gradient-to: var(--theme-fg-default, #424242);
   }
 
   .lg\:focus\:to-theme-fg-on-accent:focus {
@@ -93353,7 +93353,7 @@ body {
   }
 
   .lg\:focus\:to-theme-accent-default:focus {
-    --tw-gradient-to: var(--theme-accent-default, #df1642);
+    --tw-gradient-to: var(--theme-accent-default, #3d53f5);
   }
 
   .lg\:focus\:to-theme-accent-subtle:focus {
@@ -95090,7 +95090,7 @@ body {
   }
 
   .lg\:text-theme-fg-default {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .lg\:text-theme-fg-on-accent {
@@ -95146,7 +95146,7 @@ body {
   }
 
   .lg\:text-theme-accent-default {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .lg\:text-theme-accent-subtle {
@@ -95318,7 +95318,7 @@ body {
   }
 
   .group:hover .lg\:group-hover\:text-theme-fg-default {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .group:hover .lg\:group-hover\:text-theme-fg-on-accent {
@@ -95374,7 +95374,7 @@ body {
   }
 
   .group:hover .lg\:group-hover\:text-theme-accent-default {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .group:hover .lg\:group-hover\:text-theme-accent-subtle {
@@ -95546,7 +95546,7 @@ body {
   }
 
   .lg\:focus-within\:text-theme-fg-default:focus-within {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .lg\:focus-within\:text-theme-fg-on-accent:focus-within {
@@ -95602,7 +95602,7 @@ body {
   }
 
   .lg\:focus-within\:text-theme-accent-default:focus-within {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .lg\:focus-within\:text-theme-accent-subtle:focus-within {
@@ -95774,7 +95774,7 @@ body {
   }
 
   .lg\:hover\:text-theme-fg-default:hover {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .lg\:hover\:text-theme-fg-on-accent:hover {
@@ -95830,7 +95830,7 @@ body {
   }
 
   .lg\:hover\:text-theme-accent-default:hover {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .lg\:hover\:text-theme-accent-subtle:hover {
@@ -96002,7 +96002,7 @@ body {
   }
 
   .lg\:focus\:text-theme-fg-default:focus {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .lg\:focus\:text-theme-fg-on-accent:focus {
@@ -96058,7 +96058,7 @@ body {
   }
 
   .lg\:focus\:text-theme-accent-default:focus {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .lg\:focus\:text-theme-accent-subtle:focus {
@@ -96696,15 +96696,15 @@ body {
   }
 
   .lg\:placeholder-theme-fg-default::-moz-placeholder {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .lg\:placeholder-theme-fg-default:-ms-input-placeholder {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .lg\:placeholder-theme-fg-default::placeholder {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .lg\:placeholder-theme-fg-on-accent::-moz-placeholder {
@@ -96864,15 +96864,15 @@ body {
   }
 
   .lg\:placeholder-theme-accent-default::-moz-placeholder {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .lg\:placeholder-theme-accent-default:-ms-input-placeholder {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .lg\:placeholder-theme-accent-default::placeholder {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .lg\:placeholder-theme-accent-subtle::-moz-placeholder {
@@ -97380,15 +97380,15 @@ body {
   }
 
   .lg\:focus\:placeholder-theme-fg-default:focus::-moz-placeholder {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .lg\:focus\:placeholder-theme-fg-default:focus:-ms-input-placeholder {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .lg\:focus\:placeholder-theme-fg-default:focus::placeholder {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .lg\:focus\:placeholder-theme-fg-on-accent:focus::-moz-placeholder {
@@ -97548,15 +97548,15 @@ body {
   }
 
   .lg\:focus\:placeholder-theme-accent-default:focus::-moz-placeholder {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .lg\:focus\:placeholder-theme-accent-default:focus:-ms-input-placeholder {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .lg\:focus\:placeholder-theme-accent-default:focus::placeholder {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .lg\:focus\:placeholder-theme-accent-subtle:focus::-moz-placeholder {
@@ -99121,7 +99121,7 @@ body {
   }
 
   .lg\:ring-theme-fg-default {
-    --tw-ring-color: var(--theme-fg-default, #171717);
+    --tw-ring-color: var(--theme-fg-default, #424242);
   }
 
   .lg\:ring-theme-fg-on-accent {
@@ -99177,7 +99177,7 @@ body {
   }
 
   .lg\:ring-theme-accent-default {
-    --tw-ring-color: var(--theme-accent-default, #df1642);
+    --tw-ring-color: var(--theme-accent-default, #3d53f5);
   }
 
   .lg\:ring-theme-accent-subtle {
@@ -99349,7 +99349,7 @@ body {
   }
 
   .lg\:focus-within\:ring-theme-fg-default:focus-within {
-    --tw-ring-color: var(--theme-fg-default, #171717);
+    --tw-ring-color: var(--theme-fg-default, #424242);
   }
 
   .lg\:focus-within\:ring-theme-fg-on-accent:focus-within {
@@ -99405,7 +99405,7 @@ body {
   }
 
   .lg\:focus-within\:ring-theme-accent-default:focus-within {
-    --tw-ring-color: var(--theme-accent-default, #df1642);
+    --tw-ring-color: var(--theme-accent-default, #3d53f5);
   }
 
   .lg\:focus-within\:ring-theme-accent-subtle:focus-within {
@@ -99577,7 +99577,7 @@ body {
   }
 
   .lg\:focus\:ring-theme-fg-default:focus {
-    --tw-ring-color: var(--theme-fg-default, #171717);
+    --tw-ring-color: var(--theme-fg-default, #424242);
   }
 
   .lg\:focus\:ring-theme-fg-on-accent:focus {
@@ -99633,7 +99633,7 @@ body {
   }
 
   .lg\:focus\:ring-theme-accent-default:focus {
-    --tw-ring-color: var(--theme-accent-default, #df1642);
+    --tw-ring-color: var(--theme-accent-default, #3d53f5);
   }
 
   .lg\:focus\:ring-theme-accent-subtle:focus {
@@ -100045,7 +100045,7 @@ body {
   }
 
   .lg\:ring-offset-theme-fg-default {
-    --tw-ring-offset-color: var(--theme-fg-default, #171717);
+    --tw-ring-offset-color: var(--theme-fg-default, #424242);
   }
 
   .lg\:ring-offset-theme-fg-on-accent {
@@ -100101,7 +100101,7 @@ body {
   }
 
   .lg\:ring-offset-theme-accent-default {
-    --tw-ring-offset-color: var(--theme-accent-default, #df1642);
+    --tw-ring-offset-color: var(--theme-accent-default, #3d53f5);
   }
 
   .lg\:ring-offset-theme-accent-subtle {
@@ -100273,7 +100273,7 @@ body {
   }
 
   .lg\:focus-within\:ring-offset-theme-fg-default:focus-within {
-    --tw-ring-offset-color: var(--theme-fg-default, #171717);
+    --tw-ring-offset-color: var(--theme-fg-default, #424242);
   }
 
   .lg\:focus-within\:ring-offset-theme-fg-on-accent:focus-within {
@@ -100329,7 +100329,7 @@ body {
   }
 
   .lg\:focus-within\:ring-offset-theme-accent-default:focus-within {
-    --tw-ring-offset-color: var(--theme-accent-default, #df1642);
+    --tw-ring-offset-color: var(--theme-accent-default, #3d53f5);
   }
 
   .lg\:focus-within\:ring-offset-theme-accent-subtle:focus-within {
@@ -100501,7 +100501,7 @@ body {
   }
 
   .lg\:focus\:ring-offset-theme-fg-default:focus {
-    --tw-ring-offset-color: var(--theme-fg-default, #171717);
+    --tw-ring-offset-color: var(--theme-fg-default, #424242);
   }
 
   .lg\:focus\:ring-offset-theme-fg-on-accent:focus {
@@ -100557,7 +100557,7 @@ body {
   }
 
   .lg\:focus\:ring-offset-theme-accent-default:focus {
-    --tw-ring-offset-color: var(--theme-accent-default, #df1642);
+    --tw-ring-offset-color: var(--theme-accent-default, #3d53f5);
   }
 
   .lg\:focus\:ring-offset-theme-accent-subtle:focus {
@@ -112521,7 +112521,7 @@ body {
   }
 
   .xl\:divide-theme-fg-default > :not([hidden]) ~ :not([hidden]) {
-    border-color: var(--theme-fg-default, #171717);
+    border-color: var(--theme-fg-default, #424242);
   }
 
   .xl\:divide-theme-fg-on-accent > :not([hidden]) ~ :not([hidden]) {
@@ -112577,7 +112577,7 @@ body {
   }
 
   .xl\:divide-theme-accent-default > :not([hidden]) ~ :not([hidden]) {
-    border-color: var(--theme-accent-default, #df1642);
+    border-color: var(--theme-accent-default, #3d53f5);
   }
 
   .xl\:divide-theme-accent-subtle > :not([hidden]) ~ :not([hidden]) {
@@ -113487,7 +113487,7 @@ body {
   }
 
   .xl\:border-theme-fg-default {
-    border-color: var(--theme-fg-default, #171717);
+    border-color: var(--theme-fg-default, #424242);
   }
 
   .xl\:border-theme-fg-on-accent {
@@ -113543,7 +113543,7 @@ body {
   }
 
   .xl\:border-theme-accent-default {
-    border-color: var(--theme-accent-default, #df1642);
+    border-color: var(--theme-accent-default, #3d53f5);
   }
 
   .xl\:border-theme-accent-subtle {
@@ -113715,7 +113715,7 @@ body {
   }
 
   .group:hover .xl\:group-hover\:border-theme-fg-default {
-    border-color: var(--theme-fg-default, #171717);
+    border-color: var(--theme-fg-default, #424242);
   }
 
   .group:hover .xl\:group-hover\:border-theme-fg-on-accent {
@@ -113771,7 +113771,7 @@ body {
   }
 
   .group:hover .xl\:group-hover\:border-theme-accent-default {
-    border-color: var(--theme-accent-default, #df1642);
+    border-color: var(--theme-accent-default, #3d53f5);
   }
 
   .group:hover .xl\:group-hover\:border-theme-accent-subtle {
@@ -113943,7 +113943,7 @@ body {
   }
 
   .xl\:focus-within\:border-theme-fg-default:focus-within {
-    border-color: var(--theme-fg-default, #171717);
+    border-color: var(--theme-fg-default, #424242);
   }
 
   .xl\:focus-within\:border-theme-fg-on-accent:focus-within {
@@ -113999,7 +113999,7 @@ body {
   }
 
   .xl\:focus-within\:border-theme-accent-default:focus-within {
-    border-color: var(--theme-accent-default, #df1642);
+    border-color: var(--theme-accent-default, #3d53f5);
   }
 
   .xl\:focus-within\:border-theme-accent-subtle:focus-within {
@@ -114171,7 +114171,7 @@ body {
   }
 
   .xl\:hover\:border-theme-fg-default:hover {
-    border-color: var(--theme-fg-default, #171717);
+    border-color: var(--theme-fg-default, #424242);
   }
 
   .xl\:hover\:border-theme-fg-on-accent:hover {
@@ -114227,7 +114227,7 @@ body {
   }
 
   .xl\:hover\:border-theme-accent-default:hover {
-    border-color: var(--theme-accent-default, #df1642);
+    border-color: var(--theme-accent-default, #3d53f5);
   }
 
   .xl\:hover\:border-theme-accent-subtle:hover {
@@ -114399,7 +114399,7 @@ body {
   }
 
   .xl\:focus\:border-theme-fg-default:focus {
-    border-color: var(--theme-fg-default, #171717);
+    border-color: var(--theme-fg-default, #424242);
   }
 
   .xl\:focus\:border-theme-fg-on-accent:focus {
@@ -114455,7 +114455,7 @@ body {
   }
 
   .xl\:focus\:border-theme-accent-default:focus {
-    border-color: var(--theme-accent-default, #df1642);
+    border-color: var(--theme-accent-default, #3d53f5);
   }
 
   .xl\:focus\:border-theme-accent-subtle:focus {
@@ -114927,7 +114927,7 @@ body {
   }
 
   .xl\:bg-theme-fg-default {
-    background-color: var(--theme-fg-default, #171717);
+    background-color: var(--theme-fg-default, #424242);
   }
 
   .xl\:bg-theme-fg-on-accent {
@@ -114983,7 +114983,7 @@ body {
   }
 
   .xl\:bg-theme-accent-default {
-    background-color: var(--theme-accent-default, #df1642);
+    background-color: var(--theme-accent-default, #3d53f5);
   }
 
   .xl\:bg-theme-accent-subtle {
@@ -115155,7 +115155,7 @@ body {
   }
 
   .group:hover .xl\:group-hover\:bg-theme-fg-default {
-    background-color: var(--theme-fg-default, #171717);
+    background-color: var(--theme-fg-default, #424242);
   }
 
   .group:hover .xl\:group-hover\:bg-theme-fg-on-accent {
@@ -115211,7 +115211,7 @@ body {
   }
 
   .group:hover .xl\:group-hover\:bg-theme-accent-default {
-    background-color: var(--theme-accent-default, #df1642);
+    background-color: var(--theme-accent-default, #3d53f5);
   }
 
   .group:hover .xl\:group-hover\:bg-theme-accent-subtle {
@@ -115383,7 +115383,7 @@ body {
   }
 
   .xl\:focus-within\:bg-theme-fg-default:focus-within {
-    background-color: var(--theme-fg-default, #171717);
+    background-color: var(--theme-fg-default, #424242);
   }
 
   .xl\:focus-within\:bg-theme-fg-on-accent:focus-within {
@@ -115439,7 +115439,7 @@ body {
   }
 
   .xl\:focus-within\:bg-theme-accent-default:focus-within {
-    background-color: var(--theme-accent-default, #df1642);
+    background-color: var(--theme-accent-default, #3d53f5);
   }
 
   .xl\:focus-within\:bg-theme-accent-subtle:focus-within {
@@ -115611,7 +115611,7 @@ body {
   }
 
   .xl\:hover\:bg-theme-fg-default:hover {
-    background-color: var(--theme-fg-default, #171717);
+    background-color: var(--theme-fg-default, #424242);
   }
 
   .xl\:hover\:bg-theme-fg-on-accent:hover {
@@ -115667,7 +115667,7 @@ body {
   }
 
   .xl\:hover\:bg-theme-accent-default:hover {
-    background-color: var(--theme-accent-default, #df1642);
+    background-color: var(--theme-accent-default, #3d53f5);
   }
 
   .xl\:hover\:bg-theme-accent-subtle:hover {
@@ -115839,7 +115839,7 @@ body {
   }
 
   .xl\:focus\:bg-theme-fg-default:focus {
-    background-color: var(--theme-fg-default, #171717);
+    background-color: var(--theme-fg-default, #424242);
   }
 
   .xl\:focus\:bg-theme-fg-on-accent:focus {
@@ -115895,7 +115895,7 @@ body {
   }
 
   .xl\:focus\:bg-theme-accent-default:focus {
-    background-color: var(--theme-accent-default, #df1642);
+    background-color: var(--theme-accent-default, #3d53f5);
   }
 
   .xl\:focus\:bg-theme-accent-subtle:focus {
@@ -116415,7 +116415,7 @@ body {
   }
 
   .xl\:from-theme-fg-default {
-    --tw-gradient-from: var(--theme-fg-default, #171717);
+    --tw-gradient-from: var(--theme-fg-default, #424242);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -116485,7 +116485,7 @@ body {
   }
 
   .xl\:from-theme-accent-default {
-    --tw-gradient-from: var(--theme-accent-default, #df1642);
+    --tw-gradient-from: var(--theme-accent-default, #3d53f5);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -116700,7 +116700,7 @@ body {
   }
 
   .xl\:hover\:from-theme-fg-default:hover {
-    --tw-gradient-from: var(--theme-fg-default, #171717);
+    --tw-gradient-from: var(--theme-fg-default, #424242);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -116770,7 +116770,7 @@ body {
   }
 
   .xl\:hover\:from-theme-accent-default:hover {
-    --tw-gradient-from: var(--theme-accent-default, #df1642);
+    --tw-gradient-from: var(--theme-accent-default, #3d53f5);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -116985,7 +116985,7 @@ body {
   }
 
   .xl\:focus\:from-theme-fg-default:focus {
-    --tw-gradient-from: var(--theme-fg-default, #171717);
+    --tw-gradient-from: var(--theme-fg-default, #424242);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -117055,7 +117055,7 @@ body {
   }
 
   .xl\:focus\:from-theme-accent-default:focus {
-    --tw-gradient-from: var(--theme-accent-default, #df1642);
+    --tw-gradient-from: var(--theme-accent-default, #3d53f5);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -117258,7 +117258,7 @@ body {
   }
 
   .xl\:via-theme-fg-default {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #171717), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #424242), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .xl\:via-theme-fg-on-accent {
@@ -117314,7 +117314,7 @@ body {
   }
 
   .xl\:via-theme-accent-default {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #df1642), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #3d53f5), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .xl\:via-theme-accent-subtle {
@@ -117486,7 +117486,7 @@ body {
   }
 
   .xl\:hover\:via-theme-fg-default:hover {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #171717), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #424242), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .xl\:hover\:via-theme-fg-on-accent:hover {
@@ -117542,7 +117542,7 @@ body {
   }
 
   .xl\:hover\:via-theme-accent-default:hover {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #df1642), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #3d53f5), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .xl\:hover\:via-theme-accent-subtle:hover {
@@ -117714,7 +117714,7 @@ body {
   }
 
   .xl\:focus\:via-theme-fg-default:focus {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #171717), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #424242), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .xl\:focus\:via-theme-fg-on-accent:focus {
@@ -117770,7 +117770,7 @@ body {
   }
 
   .xl\:focus\:via-theme-accent-default:focus {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #df1642), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #3d53f5), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .xl\:focus\:via-theme-accent-subtle:focus {
@@ -117942,7 +117942,7 @@ body {
   }
 
   .xl\:to-theme-fg-default {
-    --tw-gradient-to: var(--theme-fg-default, #171717);
+    --tw-gradient-to: var(--theme-fg-default, #424242);
   }
 
   .xl\:to-theme-fg-on-accent {
@@ -117998,7 +117998,7 @@ body {
   }
 
   .xl\:to-theme-accent-default {
-    --tw-gradient-to: var(--theme-accent-default, #df1642);
+    --tw-gradient-to: var(--theme-accent-default, #3d53f5);
   }
 
   .xl\:to-theme-accent-subtle {
@@ -118170,7 +118170,7 @@ body {
   }
 
   .xl\:hover\:to-theme-fg-default:hover {
-    --tw-gradient-to: var(--theme-fg-default, #171717);
+    --tw-gradient-to: var(--theme-fg-default, #424242);
   }
 
   .xl\:hover\:to-theme-fg-on-accent:hover {
@@ -118226,7 +118226,7 @@ body {
   }
 
   .xl\:hover\:to-theme-accent-default:hover {
-    --tw-gradient-to: var(--theme-accent-default, #df1642);
+    --tw-gradient-to: var(--theme-accent-default, #3d53f5);
   }
 
   .xl\:hover\:to-theme-accent-subtle:hover {
@@ -118398,7 +118398,7 @@ body {
   }
 
   .xl\:focus\:to-theme-fg-default:focus {
-    --tw-gradient-to: var(--theme-fg-default, #171717);
+    --tw-gradient-to: var(--theme-fg-default, #424242);
   }
 
   .xl\:focus\:to-theme-fg-on-accent:focus {
@@ -118454,7 +118454,7 @@ body {
   }
 
   .xl\:focus\:to-theme-accent-default:focus {
-    --tw-gradient-to: var(--theme-accent-default, #df1642);
+    --tw-gradient-to: var(--theme-accent-default, #3d53f5);
   }
 
   .xl\:focus\:to-theme-accent-subtle:focus {
@@ -120191,7 +120191,7 @@ body {
   }
 
   .xl\:text-theme-fg-default {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .xl\:text-theme-fg-on-accent {
@@ -120247,7 +120247,7 @@ body {
   }
 
   .xl\:text-theme-accent-default {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .xl\:text-theme-accent-subtle {
@@ -120419,7 +120419,7 @@ body {
   }
 
   .group:hover .xl\:group-hover\:text-theme-fg-default {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .group:hover .xl\:group-hover\:text-theme-fg-on-accent {
@@ -120475,7 +120475,7 @@ body {
   }
 
   .group:hover .xl\:group-hover\:text-theme-accent-default {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .group:hover .xl\:group-hover\:text-theme-accent-subtle {
@@ -120647,7 +120647,7 @@ body {
   }
 
   .xl\:focus-within\:text-theme-fg-default:focus-within {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .xl\:focus-within\:text-theme-fg-on-accent:focus-within {
@@ -120703,7 +120703,7 @@ body {
   }
 
   .xl\:focus-within\:text-theme-accent-default:focus-within {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .xl\:focus-within\:text-theme-accent-subtle:focus-within {
@@ -120875,7 +120875,7 @@ body {
   }
 
   .xl\:hover\:text-theme-fg-default:hover {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .xl\:hover\:text-theme-fg-on-accent:hover {
@@ -120931,7 +120931,7 @@ body {
   }
 
   .xl\:hover\:text-theme-accent-default:hover {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .xl\:hover\:text-theme-accent-subtle:hover {
@@ -121103,7 +121103,7 @@ body {
   }
 
   .xl\:focus\:text-theme-fg-default:focus {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .xl\:focus\:text-theme-fg-on-accent:focus {
@@ -121159,7 +121159,7 @@ body {
   }
 
   .xl\:focus\:text-theme-accent-default:focus {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .xl\:focus\:text-theme-accent-subtle:focus {
@@ -121797,15 +121797,15 @@ body {
   }
 
   .xl\:placeholder-theme-fg-default::-moz-placeholder {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .xl\:placeholder-theme-fg-default:-ms-input-placeholder {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .xl\:placeholder-theme-fg-default::placeholder {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .xl\:placeholder-theme-fg-on-accent::-moz-placeholder {
@@ -121965,15 +121965,15 @@ body {
   }
 
   .xl\:placeholder-theme-accent-default::-moz-placeholder {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .xl\:placeholder-theme-accent-default:-ms-input-placeholder {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .xl\:placeholder-theme-accent-default::placeholder {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .xl\:placeholder-theme-accent-subtle::-moz-placeholder {
@@ -122481,15 +122481,15 @@ body {
   }
 
   .xl\:focus\:placeholder-theme-fg-default:focus::-moz-placeholder {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .xl\:focus\:placeholder-theme-fg-default:focus:-ms-input-placeholder {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .xl\:focus\:placeholder-theme-fg-default:focus::placeholder {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .xl\:focus\:placeholder-theme-fg-on-accent:focus::-moz-placeholder {
@@ -122649,15 +122649,15 @@ body {
   }
 
   .xl\:focus\:placeholder-theme-accent-default:focus::-moz-placeholder {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .xl\:focus\:placeholder-theme-accent-default:focus:-ms-input-placeholder {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .xl\:focus\:placeholder-theme-accent-default:focus::placeholder {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .xl\:focus\:placeholder-theme-accent-subtle:focus::-moz-placeholder {
@@ -124222,7 +124222,7 @@ body {
   }
 
   .xl\:ring-theme-fg-default {
-    --tw-ring-color: var(--theme-fg-default, #171717);
+    --tw-ring-color: var(--theme-fg-default, #424242);
   }
 
   .xl\:ring-theme-fg-on-accent {
@@ -124278,7 +124278,7 @@ body {
   }
 
   .xl\:ring-theme-accent-default {
-    --tw-ring-color: var(--theme-accent-default, #df1642);
+    --tw-ring-color: var(--theme-accent-default, #3d53f5);
   }
 
   .xl\:ring-theme-accent-subtle {
@@ -124450,7 +124450,7 @@ body {
   }
 
   .xl\:focus-within\:ring-theme-fg-default:focus-within {
-    --tw-ring-color: var(--theme-fg-default, #171717);
+    --tw-ring-color: var(--theme-fg-default, #424242);
   }
 
   .xl\:focus-within\:ring-theme-fg-on-accent:focus-within {
@@ -124506,7 +124506,7 @@ body {
   }
 
   .xl\:focus-within\:ring-theme-accent-default:focus-within {
-    --tw-ring-color: var(--theme-accent-default, #df1642);
+    --tw-ring-color: var(--theme-accent-default, #3d53f5);
   }
 
   .xl\:focus-within\:ring-theme-accent-subtle:focus-within {
@@ -124678,7 +124678,7 @@ body {
   }
 
   .xl\:focus\:ring-theme-fg-default:focus {
-    --tw-ring-color: var(--theme-fg-default, #171717);
+    --tw-ring-color: var(--theme-fg-default, #424242);
   }
 
   .xl\:focus\:ring-theme-fg-on-accent:focus {
@@ -124734,7 +124734,7 @@ body {
   }
 
   .xl\:focus\:ring-theme-accent-default:focus {
-    --tw-ring-color: var(--theme-accent-default, #df1642);
+    --tw-ring-color: var(--theme-accent-default, #3d53f5);
   }
 
   .xl\:focus\:ring-theme-accent-subtle:focus {
@@ -125146,7 +125146,7 @@ body {
   }
 
   .xl\:ring-offset-theme-fg-default {
-    --tw-ring-offset-color: var(--theme-fg-default, #171717);
+    --tw-ring-offset-color: var(--theme-fg-default, #424242);
   }
 
   .xl\:ring-offset-theme-fg-on-accent {
@@ -125202,7 +125202,7 @@ body {
   }
 
   .xl\:ring-offset-theme-accent-default {
-    --tw-ring-offset-color: var(--theme-accent-default, #df1642);
+    --tw-ring-offset-color: var(--theme-accent-default, #3d53f5);
   }
 
   .xl\:ring-offset-theme-accent-subtle {
@@ -125374,7 +125374,7 @@ body {
   }
 
   .xl\:focus-within\:ring-offset-theme-fg-default:focus-within {
-    --tw-ring-offset-color: var(--theme-fg-default, #171717);
+    --tw-ring-offset-color: var(--theme-fg-default, #424242);
   }
 
   .xl\:focus-within\:ring-offset-theme-fg-on-accent:focus-within {
@@ -125430,7 +125430,7 @@ body {
   }
 
   .xl\:focus-within\:ring-offset-theme-accent-default:focus-within {
-    --tw-ring-offset-color: var(--theme-accent-default, #df1642);
+    --tw-ring-offset-color: var(--theme-accent-default, #3d53f5);
   }
 
   .xl\:focus-within\:ring-offset-theme-accent-subtle:focus-within {
@@ -125602,7 +125602,7 @@ body {
   }
 
   .xl\:focus\:ring-offset-theme-fg-default:focus {
-    --tw-ring-offset-color: var(--theme-fg-default, #171717);
+    --tw-ring-offset-color: var(--theme-fg-default, #424242);
   }
 
   .xl\:focus\:ring-offset-theme-fg-on-accent:focus {
@@ -125658,7 +125658,7 @@ body {
   }
 
   .xl\:focus\:ring-offset-theme-accent-default:focus {
-    --tw-ring-offset-color: var(--theme-accent-default, #df1642);
+    --tw-ring-offset-color: var(--theme-accent-default, #3d53f5);
   }
 
   .xl\:focus\:ring-offset-theme-accent-subtle:focus {
@@ -137622,7 +137622,7 @@ body {
   }
 
   .\32xl\:divide-theme-fg-default > :not([hidden]) ~ :not([hidden]) {
-    border-color: var(--theme-fg-default, #171717);
+    border-color: var(--theme-fg-default, #424242);
   }
 
   .\32xl\:divide-theme-fg-on-accent > :not([hidden]) ~ :not([hidden]) {
@@ -137678,7 +137678,7 @@ body {
   }
 
   .\32xl\:divide-theme-accent-default > :not([hidden]) ~ :not([hidden]) {
-    border-color: var(--theme-accent-default, #df1642);
+    border-color: var(--theme-accent-default, #3d53f5);
   }
 
   .\32xl\:divide-theme-accent-subtle > :not([hidden]) ~ :not([hidden]) {
@@ -138588,7 +138588,7 @@ body {
   }
 
   .\32xl\:border-theme-fg-default {
-    border-color: var(--theme-fg-default, #171717);
+    border-color: var(--theme-fg-default, #424242);
   }
 
   .\32xl\:border-theme-fg-on-accent {
@@ -138644,7 +138644,7 @@ body {
   }
 
   .\32xl\:border-theme-accent-default {
-    border-color: var(--theme-accent-default, #df1642);
+    border-color: var(--theme-accent-default, #3d53f5);
   }
 
   .\32xl\:border-theme-accent-subtle {
@@ -138816,7 +138816,7 @@ body {
   }
 
   .group:hover .\32xl\:group-hover\:border-theme-fg-default {
-    border-color: var(--theme-fg-default, #171717);
+    border-color: var(--theme-fg-default, #424242);
   }
 
   .group:hover .\32xl\:group-hover\:border-theme-fg-on-accent {
@@ -138872,7 +138872,7 @@ body {
   }
 
   .group:hover .\32xl\:group-hover\:border-theme-accent-default {
-    border-color: var(--theme-accent-default, #df1642);
+    border-color: var(--theme-accent-default, #3d53f5);
   }
 
   .group:hover .\32xl\:group-hover\:border-theme-accent-subtle {
@@ -139044,7 +139044,7 @@ body {
   }
 
   .\32xl\:focus-within\:border-theme-fg-default:focus-within {
-    border-color: var(--theme-fg-default, #171717);
+    border-color: var(--theme-fg-default, #424242);
   }
 
   .\32xl\:focus-within\:border-theme-fg-on-accent:focus-within {
@@ -139100,7 +139100,7 @@ body {
   }
 
   .\32xl\:focus-within\:border-theme-accent-default:focus-within {
-    border-color: var(--theme-accent-default, #df1642);
+    border-color: var(--theme-accent-default, #3d53f5);
   }
 
   .\32xl\:focus-within\:border-theme-accent-subtle:focus-within {
@@ -139272,7 +139272,7 @@ body {
   }
 
   .\32xl\:hover\:border-theme-fg-default:hover {
-    border-color: var(--theme-fg-default, #171717);
+    border-color: var(--theme-fg-default, #424242);
   }
 
   .\32xl\:hover\:border-theme-fg-on-accent:hover {
@@ -139328,7 +139328,7 @@ body {
   }
 
   .\32xl\:hover\:border-theme-accent-default:hover {
-    border-color: var(--theme-accent-default, #df1642);
+    border-color: var(--theme-accent-default, #3d53f5);
   }
 
   .\32xl\:hover\:border-theme-accent-subtle:hover {
@@ -139500,7 +139500,7 @@ body {
   }
 
   .\32xl\:focus\:border-theme-fg-default:focus {
-    border-color: var(--theme-fg-default, #171717);
+    border-color: var(--theme-fg-default, #424242);
   }
 
   .\32xl\:focus\:border-theme-fg-on-accent:focus {
@@ -139556,7 +139556,7 @@ body {
   }
 
   .\32xl\:focus\:border-theme-accent-default:focus {
-    border-color: var(--theme-accent-default, #df1642);
+    border-color: var(--theme-accent-default, #3d53f5);
   }
 
   .\32xl\:focus\:border-theme-accent-subtle:focus {
@@ -140028,7 +140028,7 @@ body {
   }
 
   .\32xl\:bg-theme-fg-default {
-    background-color: var(--theme-fg-default, #171717);
+    background-color: var(--theme-fg-default, #424242);
   }
 
   .\32xl\:bg-theme-fg-on-accent {
@@ -140084,7 +140084,7 @@ body {
   }
 
   .\32xl\:bg-theme-accent-default {
-    background-color: var(--theme-accent-default, #df1642);
+    background-color: var(--theme-accent-default, #3d53f5);
   }
 
   .\32xl\:bg-theme-accent-subtle {
@@ -140256,7 +140256,7 @@ body {
   }
 
   .group:hover .\32xl\:group-hover\:bg-theme-fg-default {
-    background-color: var(--theme-fg-default, #171717);
+    background-color: var(--theme-fg-default, #424242);
   }
 
   .group:hover .\32xl\:group-hover\:bg-theme-fg-on-accent {
@@ -140312,7 +140312,7 @@ body {
   }
 
   .group:hover .\32xl\:group-hover\:bg-theme-accent-default {
-    background-color: var(--theme-accent-default, #df1642);
+    background-color: var(--theme-accent-default, #3d53f5);
   }
 
   .group:hover .\32xl\:group-hover\:bg-theme-accent-subtle {
@@ -140484,7 +140484,7 @@ body {
   }
 
   .\32xl\:focus-within\:bg-theme-fg-default:focus-within {
-    background-color: var(--theme-fg-default, #171717);
+    background-color: var(--theme-fg-default, #424242);
   }
 
   .\32xl\:focus-within\:bg-theme-fg-on-accent:focus-within {
@@ -140540,7 +140540,7 @@ body {
   }
 
   .\32xl\:focus-within\:bg-theme-accent-default:focus-within {
-    background-color: var(--theme-accent-default, #df1642);
+    background-color: var(--theme-accent-default, #3d53f5);
   }
 
   .\32xl\:focus-within\:bg-theme-accent-subtle:focus-within {
@@ -140712,7 +140712,7 @@ body {
   }
 
   .\32xl\:hover\:bg-theme-fg-default:hover {
-    background-color: var(--theme-fg-default, #171717);
+    background-color: var(--theme-fg-default, #424242);
   }
 
   .\32xl\:hover\:bg-theme-fg-on-accent:hover {
@@ -140768,7 +140768,7 @@ body {
   }
 
   .\32xl\:hover\:bg-theme-accent-default:hover {
-    background-color: var(--theme-accent-default, #df1642);
+    background-color: var(--theme-accent-default, #3d53f5);
   }
 
   .\32xl\:hover\:bg-theme-accent-subtle:hover {
@@ -140940,7 +140940,7 @@ body {
   }
 
   .\32xl\:focus\:bg-theme-fg-default:focus {
-    background-color: var(--theme-fg-default, #171717);
+    background-color: var(--theme-fg-default, #424242);
   }
 
   .\32xl\:focus\:bg-theme-fg-on-accent:focus {
@@ -140996,7 +140996,7 @@ body {
   }
 
   .\32xl\:focus\:bg-theme-accent-default:focus {
-    background-color: var(--theme-accent-default, #df1642);
+    background-color: var(--theme-accent-default, #3d53f5);
   }
 
   .\32xl\:focus\:bg-theme-accent-subtle:focus {
@@ -141516,7 +141516,7 @@ body {
   }
 
   .\32xl\:from-theme-fg-default {
-    --tw-gradient-from: var(--theme-fg-default, #171717);
+    --tw-gradient-from: var(--theme-fg-default, #424242);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -141586,7 +141586,7 @@ body {
   }
 
   .\32xl\:from-theme-accent-default {
-    --tw-gradient-from: var(--theme-accent-default, #df1642);
+    --tw-gradient-from: var(--theme-accent-default, #3d53f5);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -141801,7 +141801,7 @@ body {
   }
 
   .\32xl\:hover\:from-theme-fg-default:hover {
-    --tw-gradient-from: var(--theme-fg-default, #171717);
+    --tw-gradient-from: var(--theme-fg-default, #424242);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -141871,7 +141871,7 @@ body {
   }
 
   .\32xl\:hover\:from-theme-accent-default:hover {
-    --tw-gradient-from: var(--theme-accent-default, #df1642);
+    --tw-gradient-from: var(--theme-accent-default, #3d53f5);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -142086,7 +142086,7 @@ body {
   }
 
   .\32xl\:focus\:from-theme-fg-default:focus {
-    --tw-gradient-from: var(--theme-fg-default, #171717);
+    --tw-gradient-from: var(--theme-fg-default, #424242);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -142156,7 +142156,7 @@ body {
   }
 
   .\32xl\:focus\:from-theme-accent-default:focus {
-    --tw-gradient-from: var(--theme-accent-default, #df1642);
+    --tw-gradient-from: var(--theme-accent-default, #3d53f5);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -142359,7 +142359,7 @@ body {
   }
 
   .\32xl\:via-theme-fg-default {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #171717), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #424242), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .\32xl\:via-theme-fg-on-accent {
@@ -142415,7 +142415,7 @@ body {
   }
 
   .\32xl\:via-theme-accent-default {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #df1642), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #3d53f5), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .\32xl\:via-theme-accent-subtle {
@@ -142587,7 +142587,7 @@ body {
   }
 
   .\32xl\:hover\:via-theme-fg-default:hover {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #171717), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #424242), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .\32xl\:hover\:via-theme-fg-on-accent:hover {
@@ -142643,7 +142643,7 @@ body {
   }
 
   .\32xl\:hover\:via-theme-accent-default:hover {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #df1642), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #3d53f5), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .\32xl\:hover\:via-theme-accent-subtle:hover {
@@ -142815,7 +142815,7 @@ body {
   }
 
   .\32xl\:focus\:via-theme-fg-default:focus {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #171717), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-fg-default, #424242), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .\32xl\:focus\:via-theme-fg-on-accent:focus {
@@ -142871,7 +142871,7 @@ body {
   }
 
   .\32xl\:focus\:via-theme-accent-default:focus {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #df1642), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-accent-default, #3d53f5), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .\32xl\:focus\:via-theme-accent-subtle:focus {
@@ -143043,7 +143043,7 @@ body {
   }
 
   .\32xl\:to-theme-fg-default {
-    --tw-gradient-to: var(--theme-fg-default, #171717);
+    --tw-gradient-to: var(--theme-fg-default, #424242);
   }
 
   .\32xl\:to-theme-fg-on-accent {
@@ -143099,7 +143099,7 @@ body {
   }
 
   .\32xl\:to-theme-accent-default {
-    --tw-gradient-to: var(--theme-accent-default, #df1642);
+    --tw-gradient-to: var(--theme-accent-default, #3d53f5);
   }
 
   .\32xl\:to-theme-accent-subtle {
@@ -143271,7 +143271,7 @@ body {
   }
 
   .\32xl\:hover\:to-theme-fg-default:hover {
-    --tw-gradient-to: var(--theme-fg-default, #171717);
+    --tw-gradient-to: var(--theme-fg-default, #424242);
   }
 
   .\32xl\:hover\:to-theme-fg-on-accent:hover {
@@ -143327,7 +143327,7 @@ body {
   }
 
   .\32xl\:hover\:to-theme-accent-default:hover {
-    --tw-gradient-to: var(--theme-accent-default, #df1642);
+    --tw-gradient-to: var(--theme-accent-default, #3d53f5);
   }
 
   .\32xl\:hover\:to-theme-accent-subtle:hover {
@@ -143499,7 +143499,7 @@ body {
   }
 
   .\32xl\:focus\:to-theme-fg-default:focus {
-    --tw-gradient-to: var(--theme-fg-default, #171717);
+    --tw-gradient-to: var(--theme-fg-default, #424242);
   }
 
   .\32xl\:focus\:to-theme-fg-on-accent:focus {
@@ -143555,7 +143555,7 @@ body {
   }
 
   .\32xl\:focus\:to-theme-accent-default:focus {
-    --tw-gradient-to: var(--theme-accent-default, #df1642);
+    --tw-gradient-to: var(--theme-accent-default, #3d53f5);
   }
 
   .\32xl\:focus\:to-theme-accent-subtle:focus {
@@ -145292,7 +145292,7 @@ body {
   }
 
   .\32xl\:text-theme-fg-default {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .\32xl\:text-theme-fg-on-accent {
@@ -145348,7 +145348,7 @@ body {
   }
 
   .\32xl\:text-theme-accent-default {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .\32xl\:text-theme-accent-subtle {
@@ -145520,7 +145520,7 @@ body {
   }
 
   .group:hover .\32xl\:group-hover\:text-theme-fg-default {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .group:hover .\32xl\:group-hover\:text-theme-fg-on-accent {
@@ -145576,7 +145576,7 @@ body {
   }
 
   .group:hover .\32xl\:group-hover\:text-theme-accent-default {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .group:hover .\32xl\:group-hover\:text-theme-accent-subtle {
@@ -145748,7 +145748,7 @@ body {
   }
 
   .\32xl\:focus-within\:text-theme-fg-default:focus-within {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .\32xl\:focus-within\:text-theme-fg-on-accent:focus-within {
@@ -145804,7 +145804,7 @@ body {
   }
 
   .\32xl\:focus-within\:text-theme-accent-default:focus-within {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .\32xl\:focus-within\:text-theme-accent-subtle:focus-within {
@@ -145976,7 +145976,7 @@ body {
   }
 
   .\32xl\:hover\:text-theme-fg-default:hover {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .\32xl\:hover\:text-theme-fg-on-accent:hover {
@@ -146032,7 +146032,7 @@ body {
   }
 
   .\32xl\:hover\:text-theme-accent-default:hover {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .\32xl\:hover\:text-theme-accent-subtle:hover {
@@ -146204,7 +146204,7 @@ body {
   }
 
   .\32xl\:focus\:text-theme-fg-default:focus {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .\32xl\:focus\:text-theme-fg-on-accent:focus {
@@ -146260,7 +146260,7 @@ body {
   }
 
   .\32xl\:focus\:text-theme-accent-default:focus {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .\32xl\:focus\:text-theme-accent-subtle:focus {
@@ -146898,15 +146898,15 @@ body {
   }
 
   .\32xl\:placeholder-theme-fg-default::-moz-placeholder {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .\32xl\:placeholder-theme-fg-default:-ms-input-placeholder {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .\32xl\:placeholder-theme-fg-default::placeholder {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .\32xl\:placeholder-theme-fg-on-accent::-moz-placeholder {
@@ -147066,15 +147066,15 @@ body {
   }
 
   .\32xl\:placeholder-theme-accent-default::-moz-placeholder {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .\32xl\:placeholder-theme-accent-default:-ms-input-placeholder {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .\32xl\:placeholder-theme-accent-default::placeholder {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .\32xl\:placeholder-theme-accent-subtle::-moz-placeholder {
@@ -147582,15 +147582,15 @@ body {
   }
 
   .\32xl\:focus\:placeholder-theme-fg-default:focus::-moz-placeholder {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .\32xl\:focus\:placeholder-theme-fg-default:focus:-ms-input-placeholder {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .\32xl\:focus\:placeholder-theme-fg-default:focus::placeholder {
-    color: var(--theme-fg-default, #171717);
+    color: var(--theme-fg-default, #424242);
   }
 
   .\32xl\:focus\:placeholder-theme-fg-on-accent:focus::-moz-placeholder {
@@ -147750,15 +147750,15 @@ body {
   }
 
   .\32xl\:focus\:placeholder-theme-accent-default:focus::-moz-placeholder {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .\32xl\:focus\:placeholder-theme-accent-default:focus:-ms-input-placeholder {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .\32xl\:focus\:placeholder-theme-accent-default:focus::placeholder {
-    color: var(--theme-accent-default, #df1642);
+    color: var(--theme-accent-default, #3d53f5);
   }
 
   .\32xl\:focus\:placeholder-theme-accent-subtle:focus::-moz-placeholder {
@@ -149323,7 +149323,7 @@ body {
   }
 
   .\32xl\:ring-theme-fg-default {
-    --tw-ring-color: var(--theme-fg-default, #171717);
+    --tw-ring-color: var(--theme-fg-default, #424242);
   }
 
   .\32xl\:ring-theme-fg-on-accent {
@@ -149379,7 +149379,7 @@ body {
   }
 
   .\32xl\:ring-theme-accent-default {
-    --tw-ring-color: var(--theme-accent-default, #df1642);
+    --tw-ring-color: var(--theme-accent-default, #3d53f5);
   }
 
   .\32xl\:ring-theme-accent-subtle {
@@ -149551,7 +149551,7 @@ body {
   }
 
   .\32xl\:focus-within\:ring-theme-fg-default:focus-within {
-    --tw-ring-color: var(--theme-fg-default, #171717);
+    --tw-ring-color: var(--theme-fg-default, #424242);
   }
 
   .\32xl\:focus-within\:ring-theme-fg-on-accent:focus-within {
@@ -149607,7 +149607,7 @@ body {
   }
 
   .\32xl\:focus-within\:ring-theme-accent-default:focus-within {
-    --tw-ring-color: var(--theme-accent-default, #df1642);
+    --tw-ring-color: var(--theme-accent-default, #3d53f5);
   }
 
   .\32xl\:focus-within\:ring-theme-accent-subtle:focus-within {
@@ -149779,7 +149779,7 @@ body {
   }
 
   .\32xl\:focus\:ring-theme-fg-default:focus {
-    --tw-ring-color: var(--theme-fg-default, #171717);
+    --tw-ring-color: var(--theme-fg-default, #424242);
   }
 
   .\32xl\:focus\:ring-theme-fg-on-accent:focus {
@@ -149835,7 +149835,7 @@ body {
   }
 
   .\32xl\:focus\:ring-theme-accent-default:focus {
-    --tw-ring-color: var(--theme-accent-default, #df1642);
+    --tw-ring-color: var(--theme-accent-default, #3d53f5);
   }
 
   .\32xl\:focus\:ring-theme-accent-subtle:focus {
@@ -150247,7 +150247,7 @@ body {
   }
 
   .\32xl\:ring-offset-theme-fg-default {
-    --tw-ring-offset-color: var(--theme-fg-default, #171717);
+    --tw-ring-offset-color: var(--theme-fg-default, #424242);
   }
 
   .\32xl\:ring-offset-theme-fg-on-accent {
@@ -150303,7 +150303,7 @@ body {
   }
 
   .\32xl\:ring-offset-theme-accent-default {
-    --tw-ring-offset-color: var(--theme-accent-default, #df1642);
+    --tw-ring-offset-color: var(--theme-accent-default, #3d53f5);
   }
 
   .\32xl\:ring-offset-theme-accent-subtle {
@@ -150475,7 +150475,7 @@ body {
   }
 
   .\32xl\:focus-within\:ring-offset-theme-fg-default:focus-within {
-    --tw-ring-offset-color: var(--theme-fg-default, #171717);
+    --tw-ring-offset-color: var(--theme-fg-default, #424242);
   }
 
   .\32xl\:focus-within\:ring-offset-theme-fg-on-accent:focus-within {
@@ -150531,7 +150531,7 @@ body {
   }
 
   .\32xl\:focus-within\:ring-offset-theme-accent-default:focus-within {
-    --tw-ring-offset-color: var(--theme-accent-default, #df1642);
+    --tw-ring-offset-color: var(--theme-accent-default, #3d53f5);
   }
 
   .\32xl\:focus-within\:ring-offset-theme-accent-subtle:focus-within {
@@ -150703,7 +150703,7 @@ body {
   }
 
   .\32xl\:focus\:ring-offset-theme-fg-default:focus {
-    --tw-ring-offset-color: var(--theme-fg-default, #171717);
+    --tw-ring-offset-color: var(--theme-fg-default, #424242);
   }
 
   .\32xl\:focus\:ring-offset-theme-fg-on-accent:focus {
@@ -150759,7 +150759,7 @@ body {
   }
 
   .\32xl\:focus\:ring-offset-theme-accent-default:focus {
-    --tw-ring-offset-color: var(--theme-accent-default, #df1642);
+    --tw-ring-offset-color: var(--theme-accent-default, #3d53f5);
   }
 
   .\32xl\:focus\:ring-offset-theme-accent-subtle:focus {
