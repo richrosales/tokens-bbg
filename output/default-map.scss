@@ -1,22 +1,22 @@
 
 /**
  * Do not edit directly
- * Generated on Mon, 25 Apr 2022 17:56:23 GMT
+ * Generated on Mon, 25 Apr 2022 18:29:13 GMT
  */
 
-$font-families-headlines: Heebo !default;
+$font-families-headlines: Gotham !default;
 $font-families-body: Heebo !default;
 $font-families-nav: Heebo !default;
-$font-families-documentation-headlines: Heebo !default;
+$font-families-documentation-headlines: Gotham !default;
 $font-families-documentation-body: Heebo !default;
-$font-weights-headlines-bold: Bold !default;
-$font-weights-headlines-regular: Regular !default;
-$font-weights-headlines-light: Light !default;
-$font-weights-headlines-semibold: SemiBold !default;
-$font-weights-body-bold: Bold !default;
-$font-weights-body-regular: Regular !default;
-$font-weights-body-light: Light !default;
-$font-weights-body-semibold: SemiBold !default;
+$font-weights-headlines-300: Light !default;
+$font-weights-headlines-400: Book !default;
+$font-weights-headlines-600: Medium !default;
+$font-weights-headlines-700: Bold !default;
+$font-weights-body-300: Light !default;
+$font-weights-body-400: Regular !default;
+$font-weights-body-600: SemiBold !default;
+$font-weights-body-700: Bold !default;
 $font-weights-nav-mobile-l1: Bold !default;
 $font-weights-nav-mobile-l2: Regular !default;
 $font-weights-nav-desktop-l1: Bold !default;
@@ -94,7 +94,7 @@ $theme-bg-subtle: #eeeeee !default;
 $theme-bg-muted: #e0e0e0 !default;
 $theme-bg-header: #ffffff !default;
 $theme-accent-disabled: #e0e0e0 !default;
-$theme-accent-default: #3d53f5 !default;
+$theme-accent-default: #18a957 !default;
 $theme-accent-subtle: #eceefe !default;
 $theme-accent-muted: #6475f7 !default;
 $theme-accent-emphasis: #3142c4 !default;
@@ -271,16 +271,16 @@ $my-tokens: (
   ),
   'fontWeights': (
     'headlines': (
-      'bold': $font-weights-headlines-bold,
-      'regular': $font-weights-headlines-regular,
-      'light': $font-weights-headlines-light,
-      'semibold': $font-weights-headlines-semibold
+      '300': $font-weights-headlines-300,
+      '400': $font-weights-headlines-400,
+      '600': $font-weights-headlines-600,
+      '700': $font-weights-headlines-700
     ),
     'body': (
-      'bold': $font-weights-body-bold,
-      'regular': $font-weights-body-regular,
-      'light': $font-weights-body-light,
-      'semibold': $font-weights-body-semibold
+      '300': $font-weights-body-300,
+      '400': $font-weights-body-400,
+      '600': $font-weights-body-600,
+      '700': $font-weights-body-700
     ),
     'nav': (
       'mobile': (

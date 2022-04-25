@@ -1,17 +1,17 @@
 .default-theme {
-  --font-families-headlines: Heebo;
+  --font-families-headlines: Gotham;
   --font-families-body: Heebo;
   --font-families-nav: Heebo;
-  --font-families-documentation-headlines: Heebo;
+  --font-families-documentation-headlines: Gotham;
   --font-families-documentation-body: Heebo;
-  --font-weights-headlines-bold: Bold;
-  --font-weights-headlines-regular: Regular;
-  --font-weights-headlines-light: Light;
-  --font-weights-headlines-semibold: SemiBold;
-  --font-weights-body-bold: Bold;
-  --font-weights-body-regular: Regular;
-  --font-weights-body-light: Light;
-  --font-weights-body-semibold: SemiBold;
+  --font-weights-headlines-300: Light;
+  --font-weights-headlines-400: Book;
+  --font-weights-headlines-600: Medium;
+  --font-weights-headlines-700: Bold;
+  --font-weights-body-300: Light;
+  --font-weights-body-400: Regular;
+  --font-weights-body-600: SemiBold;
+  --font-weights-body-700: Bold;
   --font-weights-nav-mobile-l1: Bold;
   --font-weights-nav-mobile-l2: Regular;
   --font-weights-nav-desktop-l1: Bold;
@@ -89,7 +89,7 @@
   --theme-bg-muted: #e0e0e0;
   --theme-bg-header: #ffffff;
   --theme-accent-disabled: #e0e0e0;
-  --theme-accent-default: #3d53f5;
+  --theme-accent-default: #18a957;
   --theme-accent-subtle: #eceefe;
   --theme-accent-muted: #6475f7;
   --theme-accent-emphasis: #3142c4;

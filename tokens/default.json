@@ -1,7 +1,7 @@
 {
   "fontFamilies": {
     "headlines": {
-      "value": "Heebo",
+      "value": "Gotham",
       "type": "fontFamilies"
     },
     "body": {
@@ -14,7 +14,7 @@
     },
     "documentation": {
       "headlines": {
-        "value": "Heebo",
+        "value": "Gotham",
         "type": "fontFamilies"
       },
       "body": {
@@ -25,38 +25,38 @@
   },
   "fontWeights": {
     "headlines": {
-      "bold": {
-        "value": "Bold",
-        "type": "fontWeights"
-      },
-      "regular": {
-        "value": "Regular",
-        "type": "fontWeights"
-      },
-      "light": {
+      "300": {
         "value": "Light",
         "type": "fontWeights"
       },
-      "semibold": {
-        "value": "SemiBold",
+      "400": {
+        "value": "Book",
+        "type": "fontWeights"
+      },
+      "600": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "700": {
+        "value": "Bold",
         "type": "fontWeights"
       }
     },
     "body": {
-      "bold": {
-        "value": "Bold",
-        "type": "fontWeights"
-      },
-      "regular": {
-        "value": "Regular",
-        "type": "fontWeights"
-      },
-      "light": {
+      "300": {
         "value": "Light",
         "type": "fontWeights"
       },
-      "semibold": {
+      "400": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "600": {
         "value": "SemiBold",
+        "type": "fontWeights"
+      },
+      "700": {
+        "value": "Bold",
         "type": "fontWeights"
       }
     },
@@ -422,7 +422,7 @@
         "type": "color"
       },
       "default": {
-        "value": "#3d53f5",
+        "value": "#18a957",
         "type": "color"
       },
       "subtle": {
@@ -687,7 +687,7 @@
       "text-9xl": {
         "bold": {
           "value": {
-            "fontFamily": "Heebo",
+            "fontFamily": "Gotham",
             "fontWeight": "Bold",
             "lineHeight": "110%",
             "fontSize": 102,
@@ -700,8 +700,8 @@
         },
         "semibold": {
           "value": {
-            "fontFamily": "Heebo",
-            "fontWeight": "SemiBold",
+            "fontFamily": "Gotham",
+            "fontWeight": "Medium",
             "lineHeight": "110%",
             "fontSize": 102,
             "letterSpacing": "-1%",
@@ -713,8 +713,8 @@
         },
         "regular": {
           "value": {
-            "fontFamily": "Heebo",
-            "fontWeight": "Regular",
+            "fontFamily": "Gotham",
+            "fontWeight": "Book",
             "lineHeight": "110%",
             "fontSize": 102,
             "letterSpacing": "-1%",
@@ -726,7 +726,7 @@
         },
         "light": {
           "value": {
-            "fontFamily": "Heebo",
+            "fontFamily": "Gotham",
             "fontWeight": "Light",
             "lineHeight": "110%",
             "fontSize": 102,
@@ -741,7 +741,7 @@
       "text-8xl": {
         "bold": {
           "value": {
-            "fontFamily": "Heebo",
+            "fontFamily": "Gotham",
             "fontWeight": "Bold",
             "lineHeight": "110%",
             "fontSize": 85,
@@ -754,8 +754,8 @@
         },
         "semibold": {
           "value": {
-            "fontFamily": "Heebo",
-            "fontWeight": "SemiBold",
+            "fontFamily": "Gotham",
+            "fontWeight": "Medium",
             "lineHeight": "110%",
             "fontSize": 85,
             "letterSpacing": "-1%",
@@ -767,8 +767,8 @@
         },
         "regular": {
           "value": {
-            "fontFamily": "Heebo",
-            "fontWeight": "Regular",
+            "fontFamily": "Gotham",
+            "fontWeight": "Book",
             "lineHeight": "110%",
             "fontSize": 85,
             "letterSpacing": "-1%",
@@ -780,7 +780,7 @@
         },
         "light": {
           "value": {
-            "fontFamily": "Heebo",
+            "fontFamily": "Gotham",
             "fontWeight": "Light",
             "lineHeight": "110%",
             "fontSize": 85,
@@ -795,7 +795,7 @@
       "text-7xl": {
         "bold": {
           "value": {
-            "fontFamily": "Heebo",
+            "fontFamily": "Gotham",
             "fontWeight": "Bold",
             "lineHeight": "110%",
             "fontSize": 71,
@@ -808,8 +808,8 @@
         },
         "semibold": {
           "value": {
-            "fontFamily": "Heebo",
-            "fontWeight": "SemiBold",
+            "fontFamily": "Gotham",
+            "fontWeight": "Medium",
             "lineHeight": "110%",
             "fontSize": 71,
             "letterSpacing": "-1%",
@@ -821,8 +821,8 @@
         },
         "regular": {
           "value": {
-            "fontFamily": "Heebo",
-            "fontWeight": "Regular",
+            "fontFamily": "Gotham",
+            "fontWeight": "Book",
             "lineHeight": "110%",
             "fontSize": 71,
             "letterSpacing": "-1%",
@@ -834,7 +834,7 @@
         },
         "light": {
           "value": {
-            "fontFamily": "Heebo",
+            "fontFamily": "Gotham",
             "fontWeight": "Light",
             "lineHeight": "110%",
             "fontSize": 71,
@@ -849,7 +849,7 @@
       "text-6xl": {
         "bold": {
           "value": {
-            "fontFamily": "Heebo",
+            "fontFamily": "Gotham",
             "fontWeight": "Bold",
             "lineHeight": "110%",
             "fontSize": 59,
@@ -862,8 +862,8 @@
         },
         "semibold": {
           "value": {
-            "fontFamily": "Heebo",
-            "fontWeight": "SemiBold",
+            "fontFamily": "Gotham",
+            "fontWeight": "Medium",
             "lineHeight": "110%",
             "fontSize": 59,
             "letterSpacing": "-1%",
@@ -875,8 +875,8 @@
         },
         "regular": {
           "value": {
-            "fontFamily": "Heebo",
-            "fontWeight": "Regular",
+            "fontFamily": "Gotham",
+            "fontWeight": "Book",
             "lineHeight": "110%",
             "fontSize": 59,
             "letterSpacing": "-1%",
@@ -888,7 +888,7 @@
         },
         "light": {
           "value": {
-            "fontFamily": "Heebo",
+            "fontFamily": "Gotham",
             "fontWeight": "Light",
             "lineHeight": "110%",
             "fontSize": 59,
@@ -903,7 +903,7 @@
       "text-5xl": {
         "bold": {
           "value": {
-            "fontFamily": "Heebo",
+            "fontFamily": "Gotham",
             "fontWeight": "Bold",
             "lineHeight": "110%",
             "fontSize": 49,
@@ -916,8 +916,8 @@
         },
         "semibold": {
           "value": {
-            "fontFamily": "Heebo",
-            "fontWeight": "SemiBold",
+            "fontFamily": "Gotham",
+            "fontWeight": "Medium",
             "lineHeight": "110%",
             "fontSize": 49,
             "letterSpacing": "-1%",
@@ -929,8 +929,8 @@
         },
         "regular": {
           "value": {
-            "fontFamily": "Heebo",
-            "fontWeight": "Regular",
+            "fontFamily": "Gotham",
+            "fontWeight": "Book",
             "lineHeight": "110%",
             "fontSize": 49,
             "letterSpacing": "-1%",
@@ -942,7 +942,7 @@
         },
         "light": {
           "value": {
-            "fontFamily": "Heebo",
+            "fontFamily": "Gotham",
             "fontWeight": "Light",
             "lineHeight": "110%",
             "fontSize": 49,
@@ -957,7 +957,7 @@
       "text-4xl": {
         "bold": {
           "value": {
-            "fontFamily": "Heebo",
+            "fontFamily": "Gotham",
             "fontWeight": "Bold",
             "lineHeight": "110%",
             "fontSize": 41,
@@ -970,8 +970,8 @@
         },
         "semibold": {
           "value": {
-            "fontFamily": "Heebo",
-            "fontWeight": "SemiBold",
+            "fontFamily": "Gotham",
+            "fontWeight": "Medium",
             "lineHeight": "110%",
             "fontSize": 41,
             "letterSpacing": "-1%",
@@ -983,8 +983,8 @@
         },
         "regular": {
           "value": {
-            "fontFamily": "Heebo",
-            "fontWeight": "Regular",
+            "fontFamily": "Gotham",
+            "fontWeight": "Book",
             "lineHeight": "110%",
             "fontSize": 41,
             "letterSpacing": "-1%",
@@ -996,7 +996,7 @@
         },
         "light": {
           "value": {
-            "fontFamily": "Heebo",
+            "fontFamily": "Gotham",
             "fontWeight": "Light",
             "lineHeight": "110%",
             "fontSize": 41,
@@ -1011,7 +1011,7 @@
       "text-3xl": {
         "bold": {
           "value": {
-            "fontFamily": "Heebo",
+            "fontFamily": "Gotham",
             "fontWeight": "Bold",
             "lineHeight": "110%",
             "fontSize": 28,
@@ -1024,8 +1024,8 @@
         },
         "semibold": {
           "value": {
-            "fontFamily": "Heebo",
-            "fontWeight": "SemiBold",
+            "fontFamily": "Gotham",
+            "fontWeight": "Medium",
             "lineHeight": "110%",
             "fontSize": 28,
             "letterSpacing": "-1%",
@@ -1037,8 +1037,8 @@
         },
         "regular": {
           "value": {
-            "fontFamily": "Heebo",
-            "fontWeight": "Regular",
+            "fontFamily": "Gotham",
+            "fontWeight": "Book",
             "lineHeight": "110%",
             "fontSize": 28,
             "letterSpacing": "-1%",
@@ -1050,7 +1050,7 @@
         },
         "light": {
           "value": {
-            "fontFamily": "Heebo",
+            "fontFamily": "Gotham",
             "fontWeight": "Light",
             "lineHeight": "110%",
             "fontSize": 28,
@@ -1065,7 +1065,7 @@
       "text-2xl": {
         "bold": {
           "value": {
-            "fontFamily": "Heebo",
+            "fontFamily": "Gotham",
             "fontWeight": "Bold",
             "lineHeight": "110%",
             "fontSize": 28,
@@ -1078,8 +1078,8 @@
         },
         "semibold": {
           "value": {
-            "fontFamily": "Heebo",
-            "fontWeight": "SemiBold",
+            "fontFamily": "Gotham",
+            "fontWeight": "Medium",
             "lineHeight": "110%",
             "fontSize": 28,
             "letterSpacing": "-1%",
@@ -1091,8 +1091,8 @@
         },
         "regular": {
           "value": {
-            "fontFamily": "Heebo",
-            "fontWeight": "Regular",
+            "fontFamily": "Gotham",
+            "fontWeight": "Book",
             "lineHeight": "110%",
             "fontSize": 28,
             "letterSpacing": "-1%",
@@ -1104,7 +1104,7 @@
         },
         "light": {
           "value": {
-            "fontFamily": "Heebo",
+            "fontFamily": "Gotham",
             "fontWeight": "Light",
             "lineHeight": "110%",
             "fontSize": 28,
@@ -1119,7 +1119,7 @@
       "text-xl": {
         "bold": {
           "value": {
-            "fontFamily": "Heebo",
+            "fontFamily": "Gotham",
             "fontWeight": "Bold",
             "lineHeight": "150%",
             "fontSize": 23,
@@ -1132,8 +1132,8 @@
         },
         "semibold": {
           "value": {
-            "fontFamily": "Heebo",
-            "fontWeight": "SemiBold",
+            "fontFamily": "Gotham",
+            "fontWeight": "Medium",
             "lineHeight": "110%",
             "fontSize": 23,
             "letterSpacing": "-1%",
@@ -1145,8 +1145,8 @@
         },
         "regular": {
           "value": {
-            "fontFamily": "Heebo",
-            "fontWeight": "Regular",
+            "fontFamily": "Gotham",
+            "fontWeight": "Book",
             "lineHeight": "150%",
             "fontSize": 23,
             "letterSpacing": "-1%",
@@ -1158,7 +1158,7 @@
         },
         "light": {
           "value": {
-            "fontFamily": "Heebo",
+            "fontFamily": "Gotham",
             "fontWeight": "Light",
             "lineHeight": "150%",
             "fontSize": 23,
@@ -1173,7 +1173,7 @@
       "text-lg": {
         "bold": {
           "value": {
-            "fontFamily": "Heebo",
+            "fontFamily": "Gotham",
             "fontWeight": "Bold",
             "lineHeight": "150%",
             "fontSize": 19,
@@ -1186,8 +1186,8 @@
         },
         "semibold": {
           "value": {
-            "fontFamily": "Heebo",
-            "fontWeight": "SemiBold",
+            "fontFamily": "Gotham",
+            "fontWeight": "Medium",
             "lineHeight": "150%",
             "fontSize": 19,
             "letterSpacing": "-1%",
@@ -1199,8 +1199,8 @@
         },
         "regular": {
           "value": {
-            "fontFamily": "Heebo",
-            "fontWeight": "Regular",
+            "fontFamily": "Gotham",
+            "fontWeight": "Book",
             "lineHeight": "150%",
             "fontSize": 19,
             "letterSpacing": "-1%",
@@ -1212,7 +1212,7 @@
         },
         "light": {
           "value": {
-            "fontFamily": "Heebo",
+            "fontFamily": "Gotham",
             "fontWeight": "Light",
             "lineHeight": "150%",
             "fontSize": 19,
@@ -1227,7 +1227,7 @@
       "text-base": {
         "bold": {
           "value": {
-            "fontFamily": "Heebo",
+            "fontFamily": "Gotham",
             "fontWeight": "Bold",
             "lineHeight": "150%",
             "fontSize": 16,
@@ -1240,8 +1240,8 @@
         },
         "semibold": {
           "value": {
-            "fontFamily": "Heebo",
-            "fontWeight": "SemiBold",
+            "fontFamily": "Gotham",
+            "fontWeight": "Medium",
             "lineHeight": "150%",
             "fontSize": 16,
             "letterSpacing": "-1%",
@@ -1253,8 +1253,8 @@
         },
         "regular": {
           "value": {
-            "fontFamily": "Heebo",
-            "fontWeight": "Regular",
+            "fontFamily": "Gotham",
+            "fontWeight": "Book",
             "lineHeight": "150%",
             "fontSize": 16,
             "letterSpacing": "-1%",
@@ -1266,7 +1266,7 @@
         },
         "light": {
           "value": {
-            "fontFamily": "Heebo",
+            "fontFamily": "Gotham",
             "fontWeight": "Light",
             "lineHeight": "150%",
             "fontSize": 16,
@@ -1281,7 +1281,7 @@
       "text-sm": {
         "bold": {
           "value": {
-            "fontFamily": "Heebo",
+            "fontFamily": "Gotham",
             "fontWeight": "Bold",
             "lineHeight": "150%",
             "fontSize": 13,
@@ -1294,8 +1294,8 @@
         },
         "semibold": {
           "value": {
-            "fontFamily": "Heebo",
-            "fontWeight": "SemiBold",
+            "fontFamily": "Gotham",
+            "fontWeight": "Medium",
             "lineHeight": "150%",
             "fontSize": 13,
             "letterSpacing": "-1%",
@@ -1307,8 +1307,8 @@
         },
         "regular": {
           "value": {
-            "fontFamily": "Heebo",
-            "fontWeight": "Regular",
+            "fontFamily": "Gotham",
+            "fontWeight": "Book",
             "lineHeight": "150%",
             "fontSize": 13,
             "letterSpacing": "-1%",
@@ -1320,7 +1320,7 @@
         },
         "light": {
           "value": {
-            "fontFamily": "Heebo",
+            "fontFamily": "Gotham",
             "fontWeight": "Light",
             "lineHeight": "150%",
             "fontSize": 13,
@@ -1335,7 +1335,7 @@
       "text-xs": {
         "bold": {
           "value": {
-            "fontFamily": "Heebo",
+            "fontFamily": "Gotham",
             "fontWeight": "Bold",
             "lineHeight": "150%",
             "fontSize": 11,
@@ -1348,8 +1348,8 @@
         },
         "semibold": {
           "value": {
-            "fontFamily": "Heebo",
-            "fontWeight": "SemiBold",
+            "fontFamily": "Gotham",
+            "fontWeight": "Medium",
             "lineHeight": "150%",
             "fontSize": 11,
             "letterSpacing": "-1%",
@@ -1361,8 +1361,8 @@
         },
         "regular": {
           "value": {
-            "fontFamily": "Heebo",
-            "fontWeight": "Regular",
+            "fontFamily": "Gotham",
+            "fontWeight": "Book",
             "lineHeight": "150%",
             "fontSize": 11,
             "letterSpacing": "-1%",
@@ -1374,7 +1374,7 @@
         },
         "light": {
           "value": {
-            "fontFamily": "Heebo",
+            "fontFamily": "Gotham",
             "fontWeight": "Light",
             "lineHeight": "150%",
             "fontSize": 11,
@@ -1389,7 +1389,7 @@
       "text-xxs": {
         "bold": {
           "value": {
-            "fontFamily": "Heebo",
+            "fontFamily": "Gotham",
             "fontWeight": "Bold",
             "lineHeight": "150%",
             "fontSize": 9,
@@ -1402,8 +1402,8 @@
         },
         "semibold": {
           "value": {
-            "fontFamily": "Heebo",
-            "fontWeight": "SemiBold",
+            "fontFamily": "Gotham",
+            "fontWeight": "Medium",
             "lineHeight": "150%",
             "fontSize": 9,
             "letterSpacing": "-1%",
@@ -1415,8 +1415,8 @@
         },
         "regular": {
           "value": {
-            "fontFamily": "Heebo",
-            "fontWeight": "Regular",
+            "fontFamily": "Gotham",
+            "fontWeight": "Book",
             "lineHeight": "150%",
             "fontSize": 9,
             "letterSpacing": "-1%",
@@ -1428,7 +1428,7 @@
         },
         "light": {
           "value": {
-            "fontFamily": "Heebo",
+            "fontFamily": "Gotham",
             "fontWeight": "Light",
             "lineHeight": "150%",
             "fontSize": 9,
