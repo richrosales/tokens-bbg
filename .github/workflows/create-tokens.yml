@@ -18,11 +18,11 @@ jobs:
         with:
           commit_message: Update Tokens
       # Publish to netlify
-      - name: deploy-branch
-        uses: bobrown101/deploy-branch@v2.0.0
-        with:
-          provider: NETLIFY
-          netlify-auth-token: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-          netlify-site-id: # Netlify SITE ID
-          branch: main
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+      #- name: deploy-branch
+        #uses: bobrown101/deploy-branch@v2.0.0
+        #with:
+          #provider: NETLIFY
+          #netlify-auth-token: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+         # netlify-site-id: # Netlify SITE ID
+          #branch: main
+          #github-token: ${{ secrets.GITHUB_TOKEN }}
