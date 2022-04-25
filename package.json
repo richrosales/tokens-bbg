@@ -3,7 +3,7 @@
     "version": "0.1.0",
     "private": true,
     "scripts": {
-        "build-transform-default": "npx token-transformer tokens.json tokens/default.json global,colors,typography,theme global",
+        "build-transform-default": "npx token-transformer tokens.json global,colors,typography,theme global",
         "build-transform": "npm run build-transform-default",
         "build-sd": "node build.js",
         "build-tw": "postcss ./styles.css -o ./tailwind.css",
