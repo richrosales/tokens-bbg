@@ -1,7 +1,7 @@
 
 /**
  * Do not edit directly
- * Generated on Mon, 25 Apr 2022 17:17:55 GMT
+ * Generated on Mon, 25 Apr 2022 17:56:23 GMT
  */
 
 $font-families-headlines: Heebo !default;
@@ -86,12 +86,13 @@ $theme-fg-muted: #616161 !default;
 $theme-fg-subtle: #9e9e9e !default;
 $theme-fg-on-disabled: #757575 !default;
 $theme-fg-disabled: #bdbdbd !default;
+$theme-fg-on-header: #171717 !default;
 $theme-border-default: #eeeeee !default;
 $theme-overlay-bg: #171717 !default;
 $theme-bg-surface: #ffffff !default;
 $theme-bg-subtle: #eeeeee !default;
 $theme-bg-muted: #e0e0e0 !default;
-$theme-bg-canvas: #fcfcfc !default;
+$theme-bg-header: #ffffff !default;
 $theme-accent-disabled: #e0e0e0 !default;
 $theme-accent-default: #3d53f5 !default;
 $theme-accent-subtle: #eceefe !default;
@@ -394,7 +395,8 @@ $my-tokens: (
       'muted': $theme-fg-muted,
       'subtle': $theme-fg-subtle,
       'on-disabled': $theme-fg-on-disabled,
-      'disabled': $theme-fg-disabled
+      'disabled': $theme-fg-disabled,
+      'on-header': $theme-fg-on-header
     ),
     'border': (
       'default': $theme-border-default
@@ -406,7 +408,7 @@ $my-tokens: (
       'surface': $theme-bg-surface,
       'subtle': $theme-bg-subtle,
       'muted': $theme-bg-muted,
-      'canvas': $theme-bg-canvas
+      'header': $theme-bg-header
     ),
     'accent': (
       'disabled': $theme-accent-disabled,

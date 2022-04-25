@@ -380,6 +380,10 @@
       "disabled": {
         "value": "#bdbdbd",
         "type": "color"
+      },
+      "on-header": {
+        "value": "#171717",
+        "type": "color"
       }
     },
     "border": {
@@ -407,8 +411,8 @@
         "value": "#e0e0e0",
         "type": "color"
       },
-      "canvas": {
-        "value": "#fcfcfc",
+      "header": {
+        "value": "#ffffff",
         "type": "color"
       }
     },

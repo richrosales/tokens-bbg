@@ -81,12 +81,13 @@
   --theme-fg-subtle: #9e9e9e;
   --theme-fg-on-disabled: #757575;
   --theme-fg-disabled: #bdbdbd;
+  --theme-fg-on-header: #171717;
   --theme-border-default: #eeeeee;
   --theme-overlay-bg: #171717;
   --theme-bg-surface: #ffffff;
   --theme-bg-subtle: #eeeeee;
   --theme-bg-muted: #e0e0e0;
-  --theme-bg-canvas: #fcfcfc;
+  --theme-bg-header: #ffffff;
   --theme-accent-disabled: #e0e0e0;
   --theme-accent-default: #3d53f5;
   --theme-accent-subtle: #eceefe;
