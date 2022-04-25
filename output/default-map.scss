@@ -1,99 +1,677 @@
 
 /**
  * Do not edit directly
- * Generated on Fri, 07 Jan 2022 06:27:19 GMT
+ * Generated on Mon, 25 Apr 2022 03:39:02 GMT
  */
 
-$theme-bg-default: #ffffff !default;
-$theme-bg-header: #242930 !default;
-$theme-bg-footer: #242930 !default;
-$theme-bg-surface: #ffffff !default;
-$theme-bg-surface-alt: #f9f9fa !default;
-$theme-bg-primary: #005f9e !default;
-$theme-bg-secondary: #adb4bc !default;
-$theme-bg-subtle: #eceef0 !default;
-$theme-bg-muted: #cfd3d8 !default;
-$theme-bg-promo: #d72027 !default;
-$theme-fg-default: #000000 !default;
-$theme-fg-on-primary: #ffffff !default;
-$theme-fg-on-secondary: #ffffff !default;
-$theme-fg-on-header: #eceef0 !default;
-$theme-fg-on-footer: #cfd3d8 !default;
-$theme-fg-muted: #7f8a97 !default;
-$theme-fg-subtle: #adb4bc !default;
-$theme-fg-link: #005f9e !default;
-$theme-fg-promo: #d72027 !default;
-$theme-fg-on-promo: #ffffff !default;
-$theme-button-primary-background: #005f9e !default;
-$theme-button-ghost-outline: #000000 !default;
-$theme-button-ghost-text: #000000 !default;
-$theme-border-width-button-ghost: 4 !default;
-$theme-border-radius-button: 4 !default;
-$theme-border-radius-card: 4 !default;
-$theme-border-radius-input: 4 !default;
-$theme-font-families-display: Gotham !default;
-$theme-font-families-body: Helvetica Neue Condensed !default;
-$theme-font-families-nav: Gotham !default;
-$theme-font-sizes-default: 16 !default;
-$display: uppercase !default;
-$navigation: uppercase !default;
-$body: none !default;
+$font-families-headlines: Gotham !default;
+$font-families-body: Gotham !default;
+$font-families-nav: Helvetica Neue !default;
+$font-weights-headlines-bold: Bold !default;
+$font-weights-headlines-regular: Regular !default;
+$font-weights-headlines-light: Light !default;
+$font-weights-headlines-semibold: Medium !default;
+$font-weights-body-bold: Bold !default;
+$font-weights-body-regular: Regular !default;
+$font-weights-body-light: Light !default;
+$font-weights-body-semibold: Medium !default;
+$font-weights-nav-mobile-l1: Bold !default;
+$font-weights-nav-mobile-l2: Regular !default;
+$font-weights-nav-desktop-l1: Bold !default;
+$font-weights-nav-desktop-l2: Regular !default;
+$line-heights-headlines-xl: 110% !default;
+$line-heights-headlines-lg: 110% !default;
+$line-heights-headlines-default: 110% !default;
+$line-heights-headlines-sm: 130% !default;
+$line-heights-body-relaxed: 175% !default;
+$line-heights-body-default: 150% !default;
+$font-size-base: 16 !default;
+$font-size-scale: 1.2 !default;
+$font-size-xxs: 9 !default;
+$font-size-xs: 11 !default;
+$font-size-sm: 13 !default;
+$font-size-lg: 19 !default;
+$font-size-xl: 23 !default;
+$font-size-2xl: 28 !default;
+$font-size-3xl: 34 !default;
+$font-size-4xl: 41 !default;
+$font-size-5xl: 49 !default;
+$font-size-6xl: 59 !default;
+$font-size-7xl: 71 !default;
+$font-size-8xl: 85 !default;
+$font-size-9xl: 102 !default;
+$font-size-10xl: 122 !default;
+$letter-spacing-body: 0% !default;
+$letter-spacing-headlines: -1% !default;
+$letter-spacing-buttons: 3% !default;
+$letter-spacing-captions: 0% !default;
+$letter-spacing-nav-mobile-l1: 10% !default;
+$letter-spacing-nav-mobile-l2: 10% !default;
+$letter-spacing-nav-desktop-l1: 10% !default;
+$letter-spacing-nav-desktop-l2: 10% !default;
+$paragraph-spacing-default: 0 !default;
+$text-case-none: none !default;
+$text-case-captions: none !default;
+$text-case-buttons: none !default;
+$text-case-body: none !default;
+$text-case-headlines: none !default;
+$text-case-nav-mobile-l1: uppercase !default;
+$text-case-nav-mobile-l2: none !default;
+$text-case-nav-desktop-l1: uppercase !default;
+$text-case-nav-desktop-l2: none !default;
+$text-decoration-none: none !default;
+$text-decoration-buttons: none !default;
+$text-decoration-captions: none !default;
+$text-decoration-nav-mobile-l1: none !default;
+$text-decoration-nav-mobile-l2: none !default;
+$text-decoration-nav-desktop-l1: none !default;
+$text-decoration-nav-desktop-l2: none !default;
+$theme-fg-opacity-1: #1f1f1f03 !default;
+$theme-fg-opacity-5: #1f1f1f0d !default;
+$theme-fg-opacity-10: #1f1f1f1a !default;
+$theme-fg-opacity-20: #1f1f1f33 !default;
+$theme-fg-opacity-30: #1f1f1f4d !default;
+$theme-fg-opacity-40: #1f1f1f66 !default;
+$theme-fg-opacity-50: #1f1f1f80 !default;
+$theme-fg-opacity-60: #1f1f1f99 !default;
+$theme-fg-opacity-70: #1f1f1fb3 !default;
+$theme-fg-opacity-80: #1f1f1fcc !default;
+$theme-fg-opacity-90: #1f1f1fe6 !default;
+$theme-fg-on-dark: #ffffff !default;
+$theme-fg-default: #ffffff !default;
+$theme-fg-on-accent: #ffffff !default;
+$theme-fg-muted: #eeeeee !default;
+$theme-fg-subtle: #9e9e9e !default;
+$theme-fg-on-disabled: #e0e0e0 !default;
+$theme-fg-disabled: #757575 !default;
+$theme-border-default: #323232 !default;
+$theme-overlay-bg: #171717 !default;
+$theme-bg-surface: #1F1F1F !default;
+$theme-bg-subtle: #323232 !default;
+$theme-bg-muted: #757575 !default;
+$theme-bg-canvas: #171717 !default;
+$theme-accent-disabled: #757575 !default;
+$theme-accent-default: #6475f7 !default;
+$theme-accent-subtle: #060818 !default;
+$theme-accent-muted: #3142c4 !default;
+$theme-accent-emphasis: #3d53f5 !default;
+$theme-warning-default: #ffcf74 !default;
+$theme-warning-subtle: #33250b !default;
+$theme-warning-muted: #b38327 !default;
+$theme-warning-emphasis: #ffbb38 !default;
+$theme-warning-on-warning: #171717 !default;
+$theme-info-default: #3142c4 !default;
+$theme-info-subtle: #d8ddfd !default;
+$theme-info-muted: #8b98f9 !default;
+$theme-info-emphasis: #3d53f5 !default;
+$theme-info-on-info: #ffffff !default;
+$theme-error-default: #e95c7b !default;
+$theme-error-subtle: #2d040d !default;
+$theme-error-muted: #9c0f2e !default;
+$theme-error-emphasis: #df1642 !default;
+$theme-error-on-error: #ffffff !default;
+$theme-success-default: #5dc389 !default;
+$theme-success-subtle: #052211 !default;
+$theme-success-muted: #11763d !default;
+$theme-success-emphasis: #18a957 !default;
+$theme-success-on-success: #ffffff !default;
+$theme-input-background: #ffffff !default;
+$theme-input-text: #424242 !default;
+$theme-input-placeholder: #9e9e9e !default;
+$theme-input-border-default: #e0e0e0 !default;
+$theme-input-border-disabled: #eeeeee !default;
+$theme-input-fg-disabled: #e0e0e0 !default;
+$theme-shadow-default: #0D0D0D !default;
+$theme-shadow-opacity-base: 1 !default;
+$theme-shadow-opacity-blur: 0.9 !default;
+$shadow-theme-20: [object Object],[object Object] !default;
+$shadow-theme-40: [object Object],[object Object] !default;
+$shadow-theme-60: [object Object],[object Object] !default;
+$shadow-theme-80: [object Object],[object Object] !default;
+$shadow-theme-100: [object Object],[object Object] !default;
+$typography-display-text-9xl-bold: [object Object] !default;
+$typography-display-text-9xl-semibold: [object Object] !default;
+$typography-display-text-9xl-regular: [object Object] !default;
+$typography-display-text-9xl-light: [object Object] !default;
+$typography-display-text-8xl-bold: [object Object] !default;
+$typography-display-text-8xl-semibold: [object Object] !default;
+$typography-display-text-8xl-regular: [object Object] !default;
+$typography-display-text-8xl-light: [object Object] !default;
+$typography-display-text-7xl-bold: [object Object] !default;
+$typography-display-text-7xl-semibold: [object Object] !default;
+$typography-display-text-7xl-regular: [object Object] !default;
+$typography-display-text-7xl-light: [object Object] !default;
+$typography-display-text-6xl-bold: [object Object] !default;
+$typography-display-text-6xl-semibold: [object Object] !default;
+$typography-display-text-6xl-regular: [object Object] !default;
+$typography-display-text-6xl-light: [object Object] !default;
+$typography-display-text-5xl-bold: [object Object] !default;
+$typography-display-text-5xl-semibold: [object Object] !default;
+$typography-display-text-5xl-regular: [object Object] !default;
+$typography-display-text-5xl-light: [object Object] !default;
+$typography-display-text-4xl-bold: [object Object] !default;
+$typography-display-text-4xl-semibold: [object Object] !default;
+$typography-display-text-4xl-regular: [object Object] !default;
+$typography-display-text-4xl-light: [object Object] !default;
+$typography-display-text-3xl-bold: [object Object] !default;
+$typography-display-text-3xl-semibold: [object Object] !default;
+$typography-display-text-3xl-regular: [object Object] !default;
+$typography-display-text-3xl-light: [object Object] !default;
+$typography-display-text-2xl-bold: [object Object] !default;
+$typography-display-text-2xl-semibold: [object Object] !default;
+$typography-display-text-2xl-regular: [object Object] !default;
+$typography-display-text-2xl-light: [object Object] !default;
+$typography-display-text-xl-bold: [object Object] !default;
+$typography-display-text-xl-semibold: [object Object] !default;
+$typography-display-text-xl-regular: [object Object] !default;
+$typography-display-text-xl-light: [object Object] !default;
+$typography-display-text-lg-bold: [object Object] !default;
+$typography-display-text-lg-semibold: [object Object] !default;
+$typography-display-text-lg-regular: [object Object] !default;
+$typography-display-text-lg-light: [object Object] !default;
+$typography-display-text-base-bold: [object Object] !default;
+$typography-display-text-base-semibold: [object Object] !default;
+$typography-display-text-base-regular: [object Object] !default;
+$typography-display-text-base-light: [object Object] !default;
+$typography-display-text-sm-bold: [object Object] !default;
+$typography-display-text-sm-semibold: [object Object] !default;
+$typography-display-text-sm-regular: [object Object] !default;
+$typography-display-text-sm-light: [object Object] !default;
+$typography-display-text-xs-bold: [object Object] !default;
+$typography-display-text-xs-semibold: [object Object] !default;
+$typography-display-text-xs-regular: [object Object] !default;
+$typography-display-text-xs-light: [object Object] !default;
+$typography-display-text-xxs-bold: [object Object] !default;
+$typography-display-text-xxs-semibold: [object Object] !default;
+$typography-display-text-xxs-regular: [object Object] !default;
+$typography-display-text-xxs-light: [object Object] !default;
+$typography-body-text-9xl-bold: [object Object] !default;
+$typography-body-text-9xl-semibold: [object Object] !default;
+$typography-body-text-9xl-regular: [object Object] !default;
+$typography-body-text-9xl-light: [object Object] !default;
+$typography-body-text-8xl-bold: [object Object] !default;
+$typography-body-text-8xl-semibold: [object Object] !default;
+$typography-body-text-8xl-regular: [object Object] !default;
+$typography-body-text-8xl-light: [object Object] !default;
+$typography-body-text-7xl-bold: [object Object] !default;
+$typography-body-text-7xl-semibold: [object Object] !default;
+$typography-body-text-7xl-regular: [object Object] !default;
+$typography-body-text-7xl-light: [object Object] !default;
+$typography-body-text-6xl-bold: [object Object] !default;
+$typography-body-text-6xl-semibold: [object Object] !default;
+$typography-body-text-6xl-regular: [object Object] !default;
+$typography-body-text-6xl-light: [object Object] !default;
+$typography-body-text-5xl-bold: [object Object] !default;
+$typography-body-text-5xl-semibold: [object Object] !default;
+$typography-body-text-5xl-regular: [object Object] !default;
+$typography-body-text-5xl-light: [object Object] !default;
+$typography-body-text-4xl-bold: [object Object] !default;
+$typography-body-text-4xl-semibold: [object Object] !default;
+$typography-body-text-4xl-regular: [object Object] !default;
+$typography-body-text-4xl-light: [object Object] !default;
+$typography-body-text-3xl-bold: [object Object] !default;
+$typography-body-text-3xl-semibold: [object Object] !default;
+$typography-body-text-3xl-regular: [object Object] !default;
+$typography-body-text-3xl-light: [object Object] !default;
+$typography-body-text-2xl-bold: [object Object] !default;
+$typography-body-text-2xl-semibold: [object Object] !default;
+$typography-body-text-2xl-regular: [object Object] !default;
+$typography-body-text-2xl-light: [object Object] !default;
+$typography-body-text-xl-bold: [object Object] !default;
+$typography-body-text-xl-semibold: [object Object] !default;
+$typography-body-text-xl-regular: [object Object] !default;
+$typography-body-text-xl-light: [object Object] !default;
+$typography-body-text-lg-bold: [object Object] !default;
+$typography-body-text-lg-semibold: [object Object] !default;
+$typography-body-text-lg-regular: [object Object] !default;
+$typography-body-text-lg-light: [object Object] !default;
+$typography-body-text-base-bold: [object Object] !default;
+$typography-body-text-base-semibold: [object Object] !default;
+$typography-body-text-base-regular: [object Object] !default;
+$typography-body-text-base-light: [object Object] !default;
+$typography-body-text-sm-bold: [object Object] !default;
+$typography-body-text-sm-semibold: [object Object] !default;
+$typography-body-text-sm-regular: [object Object] !default;
+$typography-body-text-sm-light: [object Object] !default;
+$typography-body-text-xs-bold: [object Object] !default;
+$typography-body-text-xs-semibold: [object Object] !default;
+$typography-body-text-xs-regular: [object Object] !default;
+$typography-body-text-xs-light: [object Object] !default;
+$typography-body-text-xxs-bold: [object Object] !default;
+$typography-body-text-xxs-semibold: [object Object] !default;
+$typography-body-text-xxs-regular: [object Object] !default;
+$typography-body-text-xxs-light: [object Object] !default;
+$typography-nav-mobile-l1: [object Object] !default;
+$typography-nav-mobile-l2: [object Object] !default;
+$typography-nav-desktop-l1: [object Object] !default;
+$typography-nav-desktop-l2: [object Object] !default;
+$typography-button-normal-bold: [object Object] !default;
+$typography-button-normal-regular: [object Object] !default;
+$typography-button-large-bold: [object Object] !default;
+$typography-button-large-regular: [object Object] !default;
+$typography-button-xlarge-bold: [object Object] !default;
+$typography-button-xlarge-regular: [object Object] !default;
+$typography-input-normal-bold: [object Object] !default;
+$typography-input-normal-regular: [object Object] !default;
+$typography-input-large-bold: [object Object] !default;
+$typography-input-large-regular: [object Object] !default;
 
 $my-tokens: (
-  'theme': (
-    'bg': (
-      'default': $theme-bg-default,
-      'header': $theme-bg-header,
-      'footer': $theme-bg-footer,
-      'surface': $theme-bg-surface,
-      'surfaceAlt': $theme-bg-surface-alt,
-      'primary': $theme-bg-primary,
-      'secondary': $theme-bg-secondary,
-      'subtle': $theme-bg-subtle,
-      'muted': $theme-bg-muted,
-      'promo': $theme-bg-promo
+  'fontFamilies': (
+    'headlines': $font-families-headlines,
+    'body': $font-families-body,
+    'nav': $font-families-nav
+  ),
+  'fontWeights': (
+    'headlines': (
+      'bold': $font-weights-headlines-bold,
+      'regular': $font-weights-headlines-regular,
+      'light': $font-weights-headlines-light,
+      'semibold': $font-weights-headlines-semibold
     ),
-    'fg': (
-      'default': $theme-fg-default,
-      'onPrimary': $theme-fg-on-primary,
-      'onSecondary': $theme-fg-on-secondary,
-      'onHeader': $theme-fg-on-header,
-      'onFooter': $theme-fg-on-footer,
-      'muted': $theme-fg-muted,
-      'subtle': $theme-fg-subtle,
-      'link': $theme-fg-link,
-      'promo': $theme-fg-promo,
-      'onPromo': $theme-fg-on-promo
+    'body': (
+      'bold': $font-weights-body-bold,
+      'regular': $font-weights-body-regular,
+      'light': $font-weights-body-light,
+      'semibold': $font-weights-body-semibold
     ),
-    'button': (
-      'primary': (
-        'background': $theme-button-primary-background
+    'nav': (
+      'mobile': (
+        'l1': $font-weights-nav-mobile-l1,
+        'l2': $font-weights-nav-mobile-l2
       ),
-      'ghost': (
-        'outline': $theme-button-ghost-outline,
-        'text': $theme-button-ghost-text
+      'desktop': (
+        'l1': $font-weights-nav-desktop-l1,
+        'l2': $font-weights-nav-desktop-l2
       )
-    ),
-    'borderWidth': (
-      'button': (
-        'ghost': $theme-border-width-button-ghost
-      )
-    ),
-    'borderRadius': (
-      'button': $theme-border-radius-button,
-      'card': $theme-border-radius-card,
-      'input': $theme-border-radius-input
-    ),
-    'fontFamilies': (
-      'display': $theme-font-families-display,
-      'body': $theme-font-families-body,
-      'nav': $theme-font-families-nav
-    ),
-    'fontSizes': (
-      'default': $theme-font-sizes-default
     )
   ),
-  'display': $display,
-  'navigation': $navigation,
-  'body': $body
+  'lineHeights': (
+    'headlines': (
+      'xl': $line-heights-headlines-xl,
+      'lg': $line-heights-headlines-lg,
+      'default': $line-heights-headlines-default,
+      'sm': $line-heights-headlines-sm
+    ),
+    'body': (
+      'relaxed': $line-heights-body-relaxed,
+      'default': $line-heights-body-default
+    )
+  ),
+  'fontSize': (
+    'base': $font-size-base,
+    'scale': $font-size-scale,
+    'xxs': $font-size-xxs,
+    'xs': $font-size-xs,
+    'sm': $font-size-sm,
+    'lg': $font-size-lg,
+    'xl': $font-size-xl,
+    '2xl': $font-size-2xl,
+    '3xl': $font-size-3xl,
+    '4xl': $font-size-4xl,
+    '5xl': $font-size-5xl,
+    '6xl': $font-size-6xl,
+    '7xl': $font-size-7xl,
+    '8xl': $font-size-8xl,
+    '9xl': $font-size-9xl,
+    '10xl': $font-size-10xl
+  ),
+  'letterSpacing': (
+    'body': $letter-spacing-body,
+    'headlines': $letter-spacing-headlines,
+    'buttons': $letter-spacing-buttons,
+    'captions': $letter-spacing-captions,
+    'nav': (
+      'mobile': (
+        'l1': $letter-spacing-nav-mobile-l1,
+        'l2': $letter-spacing-nav-mobile-l2
+      ),
+      'desktop': (
+        'l1': $letter-spacing-nav-desktop-l1,
+        'l2': $letter-spacing-nav-desktop-l2
+      )
+    )
+  ),
+  'paragraphSpacing': (
+    'default': $paragraph-spacing-default
+  ),
+  'textCase': (
+    'none': $text-case-none,
+    'captions': $text-case-captions,
+    'buttons': $text-case-buttons,
+    'body': $text-case-body,
+    'headlines': $text-case-headlines,
+    'nav': (
+      'mobile': (
+        'l1': $text-case-nav-mobile-l1,
+        'l2': $text-case-nav-mobile-l2
+      ),
+      'desktop': (
+        'l1': $text-case-nav-desktop-l1,
+        'l2': $text-case-nav-desktop-l2
+      )
+    )
+  ),
+  'textDecoration': (
+    'none': $text-decoration-none,
+    'buttons': $text-decoration-buttons,
+    'captions': $text-decoration-captions,
+    'nav': (
+      'mobile': (
+        'l1': $text-decoration-nav-mobile-l1,
+        'l2': $text-decoration-nav-mobile-l2
+      ),
+      'desktop': (
+        'l1': $text-decoration-nav-desktop-l1,
+        'l2': $text-decoration-nav-desktop-l2
+      )
+    )
+  ),
+  'theme': (
+    'fg': (
+      'opacity': (
+        '1': $theme-fg-opacity-1,
+        '5': $theme-fg-opacity-5,
+        '10': $theme-fg-opacity-10,
+        '20': $theme-fg-opacity-20,
+        '30': $theme-fg-opacity-30,
+        '40': $theme-fg-opacity-40,
+        '50': $theme-fg-opacity-50,
+        '60': $theme-fg-opacity-60,
+        '70': $theme-fg-opacity-70,
+        '80': $theme-fg-opacity-80,
+        '90': $theme-fg-opacity-90
+      ),
+      'on-dark': $theme-fg-on-dark,
+      'default': $theme-fg-default,
+      'on-accent': $theme-fg-on-accent,
+      'muted': $theme-fg-muted,
+      'subtle': $theme-fg-subtle,
+      'on-disabled': $theme-fg-on-disabled,
+      'disabled': $theme-fg-disabled
+    ),
+    'border': (
+      'default': $theme-border-default
+    ),
+    'overlay': (
+      'bg': $theme-overlay-bg
+    ),
+    'bg': (
+      'surface': $theme-bg-surface,
+      'subtle': $theme-bg-subtle,
+      'muted': $theme-bg-muted,
+      'canvas': $theme-bg-canvas
+    ),
+    'accent': (
+      'disabled': $theme-accent-disabled,
+      'default': $theme-accent-default,
+      'subtle': $theme-accent-subtle,
+      'muted': $theme-accent-muted,
+      'emphasis': $theme-accent-emphasis
+    ),
+    'warning': (
+      'default': $theme-warning-default,
+      'subtle': $theme-warning-subtle,
+      'muted': $theme-warning-muted,
+      'emphasis': $theme-warning-emphasis,
+      'on-warning': $theme-warning-on-warning
+    ),
+    'info': (
+      'default': $theme-info-default,
+      'subtle': $theme-info-subtle,
+      'muted': $theme-info-muted,
+      'emphasis': $theme-info-emphasis,
+      'on-info': $theme-info-on-info
+    ),
+    'error': (
+      'default': $theme-error-default,
+      'subtle': $theme-error-subtle,
+      'muted': $theme-error-muted,
+      'emphasis': $theme-error-emphasis,
+      'on-error': $theme-error-on-error
+    ),
+    'success': (
+      'default': $theme-success-default,
+      'subtle': $theme-success-subtle,
+      'muted': $theme-success-muted,
+      'emphasis': $theme-success-emphasis,
+      'on-success': $theme-success-on-success
+    ),
+    'input': (
+      'background': $theme-input-background,
+      'text': $theme-input-text,
+      'placeholder': $theme-input-placeholder,
+      'border': (
+        'default': $theme-input-border-default,
+        'disabled': $theme-input-border-disabled
+      ),
+      'fg': (
+        'disabled': $theme-input-fg-disabled
+      )
+    ),
+    'shadow': (
+      'default': $theme-shadow-default,
+      'opacity': (
+        'base': $theme-shadow-opacity-base,
+        'blur': $theme-shadow-opacity-blur
+      )
+    )
+  ),
+  'Shadow': (
+    'Theme': (
+      '20': $shadow-theme-20,
+      '40': $shadow-theme-40,
+      '60': $shadow-theme-60,
+      '80': $shadow-theme-80,
+      '100': $shadow-theme-100
+    )
+  ),
+  'typography': (
+    'display': (
+      'text-9xl': (
+        'bold': $typography-display-text-9xl-bold,
+        'semibold': $typography-display-text-9xl-semibold,
+        'regular': $typography-display-text-9xl-regular,
+        'light': $typography-display-text-9xl-light
+      ),
+      'text-8xl': (
+        'bold': $typography-display-text-8xl-bold,
+        'semibold': $typography-display-text-8xl-semibold,
+        'regular': $typography-display-text-8xl-regular,
+        'light': $typography-display-text-8xl-light
+      ),
+      'text-7xl': (
+        'bold': $typography-display-text-7xl-bold,
+        'semibold': $typography-display-text-7xl-semibold,
+        'regular': $typography-display-text-7xl-regular,
+        'light': $typography-display-text-7xl-light
+      ),
+      'text-6xl': (
+        'bold': $typography-display-text-6xl-bold,
+        'semibold': $typography-display-text-6xl-semibold,
+        'regular': $typography-display-text-6xl-regular,
+        'light': $typography-display-text-6xl-light
+      ),
+      'text-5xl': (
+        'bold': $typography-display-text-5xl-bold,
+        'semibold': $typography-display-text-5xl-semibold,
+        'regular': $typography-display-text-5xl-regular,
+        'light': $typography-display-text-5xl-light
+      ),
+      'text-4xl': (
+        'bold': $typography-display-text-4xl-bold,
+        'semibold': $typography-display-text-4xl-semibold,
+        'regular': $typography-display-text-4xl-regular,
+        'light': $typography-display-text-4xl-light
+      ),
+      'text-3xl': (
+        'bold': $typography-display-text-3xl-bold,
+        'semibold': $typography-display-text-3xl-semibold,
+        'regular': $typography-display-text-3xl-regular,
+        'light': $typography-display-text-3xl-light
+      ),
+      'text-2xl': (
+        'bold': $typography-display-text-2xl-bold,
+        'semibold': $typography-display-text-2xl-semibold,
+        'regular': $typography-display-text-2xl-regular,
+        'light': $typography-display-text-2xl-light
+      ),
+      'text-xl': (
+        'bold': $typography-display-text-xl-bold,
+        'semibold': $typography-display-text-xl-semibold,
+        'regular': $typography-display-text-xl-regular,
+        'light': $typography-display-text-xl-light
+      ),
+      'text-lg': (
+        'bold': $typography-display-text-lg-bold,
+        'semibold': $typography-display-text-lg-semibold,
+        'regular': $typography-display-text-lg-regular,
+        'light': $typography-display-text-lg-light
+      ),
+      'text-base': (
+        'bold': $typography-display-text-base-bold,
+        'semibold': $typography-display-text-base-semibold,
+        'regular': $typography-display-text-base-regular,
+        'light': $typography-display-text-base-light
+      ),
+      'text-sm': (
+        'bold': $typography-display-text-sm-bold,
+        'semibold': $typography-display-text-sm-semibold,
+        'regular': $typography-display-text-sm-regular,
+        'light': $typography-display-text-sm-light
+      ),
+      'text-xs': (
+        'bold': $typography-display-text-xs-bold,
+        'semibold': $typography-display-text-xs-semibold,
+        'regular': $typography-display-text-xs-regular,
+        'light': $typography-display-text-xs-light
+      ),
+      'text-xxs': (
+        'bold': $typography-display-text-xxs-bold,
+        'semibold': $typography-display-text-xxs-semibold,
+        'regular': $typography-display-text-xxs-regular,
+        'light': $typography-display-text-xxs-light
+      )
+    ),
+    'body': (
+      'text-9xl': (
+        'bold': $typography-body-text-9xl-bold,
+        'semibold': $typography-body-text-9xl-semibold,
+        'regular': $typography-body-text-9xl-regular,
+        'light': $typography-body-text-9xl-light
+      ),
+      'text-8xl': (
+        'bold': $typography-body-text-8xl-bold,
+        'semibold': $typography-body-text-8xl-semibold,
+        'regular': $typography-body-text-8xl-regular,
+        'light': $typography-body-text-8xl-light
+      ),
+      'text-7xl': (
+        'bold': $typography-body-text-7xl-bold,
+        'semibold': $typography-body-text-7xl-semibold,
+        'regular': $typography-body-text-7xl-regular,
+        'light': $typography-body-text-7xl-light
+      ),
+      'text-6xl': (
+        'bold': $typography-body-text-6xl-bold,
+        'semibold': $typography-body-text-6xl-semibold,
+        'regular': $typography-body-text-6xl-regular,
+        'light': $typography-body-text-6xl-light
+      ),
+      'text-5xl': (
+        'bold': $typography-body-text-5xl-bold,
+        'semibold': $typography-body-text-5xl-semibold,
+        'regular': $typography-body-text-5xl-regular,
+        'light': $typography-body-text-5xl-light
+      ),
+      'text-4xl': (
+        'bold': $typography-body-text-4xl-bold,
+        'semibold': $typography-body-text-4xl-semibold,
+        'regular': $typography-body-text-4xl-regular,
+        'light': $typography-body-text-4xl-light
+      ),
+      'text-3xl': (
+        'bold': $typography-body-text-3xl-bold,
+        'semibold': $typography-body-text-3xl-semibold,
+        'regular': $typography-body-text-3xl-regular,
+        'light': $typography-body-text-3xl-light
+      ),
+      'text-2xl': (
+        'bold': $typography-body-text-2xl-bold,
+        'semibold': $typography-body-text-2xl-semibold,
+        'regular': $typography-body-text-2xl-regular,
+        'light': $typography-body-text-2xl-light
+      ),
+      'text-xl': (
+        'bold': $typography-body-text-xl-bold,
+        'semibold': $typography-body-text-xl-semibold,
+        'regular': $typography-body-text-xl-regular,
+        'light': $typography-body-text-xl-light
+      ),
+      'text-lg': (
+        'bold': $typography-body-text-lg-bold,
+        'semibold': $typography-body-text-lg-semibold,
+        'regular': $typography-body-text-lg-regular,
+        'light': $typography-body-text-lg-light
+      ),
+      'text-base': (
+        'bold': $typography-body-text-base-bold,
+        'semibold': $typography-body-text-base-semibold,
+        'regular': $typography-body-text-base-regular,
+        'light': $typography-body-text-base-light
+      ),
+      'text-sm': (
+        'bold': $typography-body-text-sm-bold,
+        'semibold': $typography-body-text-sm-semibold,
+        'regular': $typography-body-text-sm-regular,
+        'light': $typography-body-text-sm-light
+      ),
+      'text-xs': (
+        'bold': $typography-body-text-xs-bold,
+        'semibold': $typography-body-text-xs-semibold,
+        'regular': $typography-body-text-xs-regular,
+        'light': $typography-body-text-xs-light
+      ),
+      'text-xxs': (
+        'bold': $typography-body-text-xxs-bold,
+        'semibold': $typography-body-text-xxs-semibold,
+        'regular': $typography-body-text-xxs-regular,
+        'light': $typography-body-text-xxs-light
+      )
+    ),
+    'nav': (
+      'mobile': (
+        'L1': $typography-nav-mobile-l1,
+        'L2': $typography-nav-mobile-l2
+      ),
+      'desktop': (
+        'L1': $typography-nav-desktop-l1,
+        'L2': $typography-nav-desktop-l2
+      )
+    ),
+    'button': (
+      'normal': (
+        'bold': $typography-button-normal-bold,
+        'regular': $typography-button-normal-regular
+      ),
+      'large': (
+        'bold': $typography-button-large-bold,
+        'regular': $typography-button-large-regular
+      ),
+      'xlarge': (
+        'Bold': $typography-button-xlarge-bold,
+        'regular': $typography-button-xlarge-regular
+      )
+    ),
+    'input': (
+      'normal': (
+        'bold': $typography-input-normal-bold,
+        'regular': $typography-input-normal-regular
+      ),
+      'large': (
+        'bold': $typography-input-large-bold,
+        'regular': $typography-input-large-regular
+      )
+    )
+  )
 );
