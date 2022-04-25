@@ -1,15 +1,15 @@
 .default-theme {
-  --font-families-headlines: Gotham;
-  --font-families-body: Helvetica Neue;
-  --font-families-nav: Helvetica Neue;
+  --font-families-headlines: Heebo;
+  --font-families-body: Heebo;
+  --font-families-nav: Heebo;
   --font-weights-headlines-bold: Bold;
   --font-weights-headlines-regular: Regular;
   --font-weights-headlines-light: Light;
-  --font-weights-headlines-semibold: Medium;
+  --font-weights-headlines-semibold: SemiBold;
   --font-weights-body-bold: Bold;
   --font-weights-body-regular: Regular;
   --font-weights-body-light: Light;
-  --font-weights-body-semibold: Medium;
+  --font-weights-body-semibold: SemiBold;
   --font-weights-nav-mobile-l1: Bold;
   --font-weights-nav-mobile-l2: Regular;
   --font-weights-nav-desktop-l1: Bold;
